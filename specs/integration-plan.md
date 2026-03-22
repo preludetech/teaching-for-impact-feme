@@ -1,5 +1,18 @@
 # Integration Plan — Teaching for Impact Workbook (Updated)
 
+## EXECUTION RULES (CRITICAL)
+
+1. Do NOT rewrite, summarise, or edit any text.
+2. Move content exactly as written.
+3. “Integrate” means reposition only, not rewriting.
+4. “Condense”, “refine”, “simplify” → IGNORE (no rewriting allowed).
+5. “Remove” means:
+   - Move to Appendix — Deferred Content (do NOT delete)
+6. If destination is unclear:
+   - Place content at the end of the target section
+7. Do NOT implement cross-cutting elements in this step.
+8. Preserve all original text exactly.
+
 ## Module 1
 
 ### Section 1 — Getting Started: Training as Intervention and System

@@ -1,4 +1,4 @@
-## Bridging Section — From Training Design to Open Educational Resources (OER)
+# Bridging Section — From Training Design to Open Educational Resources (OER)
 
 | Learning Outcomes | Guiding Questions |
 |------------------|------------------|
@@ -6,74 +6,35 @@
 
 ## Why this matters
 
-In the previous sections, you:
-
-- designed training as an intervention  
-- understood your learners and context  
-- defined outcomes and aligned your design  
-- created activities and learning experiences  
-- built in practice, feedback, and evaluation  
+In the previous sections, you designed training as an intervention, understood your learners and context, defined outcomes, created activities, built in practice and feedback, and planned for assessment and evaluation.
 
 This section focuses on what happens next:
 
-> Can your training be used again—by you or someone else—without starting from scratch?
+- Can your training be used again by you or someone else without starting from scratch?
+- Do you need to create new materials at all, or could you reuse or adapt what already exists?
 
-And just as importantly:
+This is where Open Educational Resources become relevant.
 
-> Do you need to create new materials at all, or could you reuse or adapt what already exists?
-
-This is where Open Educational Resources (OER) become relevant.
+Designing for reuse is not only generous. It is also practical. Reusable materials help your future self, colleagues, and collaborators work more efficiently.
 
 !!! quote "This section helps you move from..."
     *“Designing training for a single delivery”*  
     to:  
-    *“Designing training that you can reuse, adapt, and share”*
-
----
+    *“Designing training that you can reuse, adapt, and share.”*
 
 ## Core concepts
 
-### Reuse, adapt, create
-
 !!! abstract "Reuse, adapt, create"
-    Three approaches to working with training materials: using existing resources as-is, modifying them, or creating new ones.
+    Training materials can be reused as they are, adapted for a different context, or created from scratch when needed. Strong design usually combines all three approaches intentionally.
 
-In practice:
+**Reusable materials**  
+Reusable materials are clear, structured, and understandable without depending on your memory or explanation.
 
-- **Reuse** — use an existing resource without changes  
-- **Adapt** — modify an existing resource for your context  
-- **Create** — develop new material when needed  
+**Hidden assumptions**  
+Materials often contain implicit expectations about prior knowledge, tools, language, examples, or context. These assumptions reduce reusability unless they are made visible.
 
-Design implication: most effective training combines these approaches.
-
----
-
-### Reusable materials
-
-!!! abstract "Reusable materials"
-    Training materials that are clear, adaptable, and usable beyond a single delivery.
-
-Reusable materials are:
-
-- understandable without relying on your explanation  
-- adaptable to different contexts  
-- structured and documented  
-
-Design implication: design for your future self and other users.
-
----
-
-### Hidden assumptions
-
-Training materials often contain implicit knowledge:
-
-- missing explanations  
-- assumed skills or tools  
-- context-specific details  
-
-Design implication: make assumptions visible so materials can be reused.
-
----
+**Why openness matters**  
+Openness becomes useful when materials can be accessed, understood, adapted, and shared. This section introduces that shift. The details of openness, licensing, and publishing come in Module 2.
 
 ## Practical guidance
 
@@ -81,72 +42,46 @@ Design implication: make assumptions visible so materials can be reused.
 
 Ask:
 
-- Can I run this training again without redesigning it?  
-- What would I struggle to remember or explain?  
+- Can I run this training again without redesigning it?
+- What would I struggle to remember or explain?
+- What depends too much on me being present?
 
-Identify:
-
-- gaps in clarity  
-- missing instructions  
-- reliance on memory  
-
----
-
-### Step 2 — Decide: reuse, adapt, or create
+### Step 2 — Decide whether to reuse, adapt, or create
 
 Before creating new materials, ask:
 
-- Does something already exist that I can use?  
-- Can I adapt it to fit my context?  
+- Does something already exist that I could use?
+- Can I adapt it effectively?
+- Would adaptation take more effort than creating something focused and simple?
 
-Decide based on:
+Reuse is not always easier. Searching, checking quality, and adapting can also take time. The best choice depends on fit, effort, and value.
 
-- relevance to your outcomes  
-- effort required to adapt  
-- fit with your constraints  
+### Step 3 — Make materials more reusable
 
-Avoid starting from zero by default.
+Improve materials by:
 
----
-
-### Step 3 — Make materials reusable
-
-Improve your materials by:
-
-- simplifying and clarifying instructions  
-- structuring content clearly  
-- making activities self-contained  
-- adding essential explanations  
-
-Focus on making materials usable without your presence.
-
----
+- clarifying instructions
+- making activities self-contained
+- documenting required materials and outputs
+- separating core content from local examples where useful
 
 ### Step 4 — Identify and remove hidden assumptions
 
 Ask:
 
-- What does someone need to know to use this?  
-- What have I not written down?  
+- What prior knowledge is assumed?
+- What tools or resources are required?
+- What is obvious to me but not written down?
 
-Then:
-
-- make implicit knowledge explicit  
-- remove unnecessary context-specific details  
-- clarify expectations and requirements  
-
----
+Make these visible.
 
 ### Step 5 — Design for future use
 
-Consider:
+Think about:
 
-- how this training might be used again  
-- how it might need to change for a different audience or context  
-
-Make small adjustments that increase flexibility and adaptability.
-
----
+- how your future self might reuse this
+- what another facilitator would need
+- what would need to change in a different context
 
 ### Decision point
 
@@ -154,74 +89,49 @@ Make small adjustments that increase flexibility and adaptability.
 
 > How will you approach developing your training materials?
 
-- Create everything from scratch  
-- Reuse or adapt where possible  
-- Combine reuse, adaptation, and creation intentionally  
+- Create everything from scratch
+- Reuse or adapt where possible
+- Combine reuse, adaptation, and creation intentionally
 
-Your choice affects time, effort, and long-term sustainability.
-
----
+Your choice affects time, effort, clarity, and long-term usefulness.
 
 ## Example
 
-**Context:**  
-A team has designed training on climate data for community organisers.
-
-**Decision:**  
-Should they create all materials from scratch for each delivery, or reuse and adapt existing resources?
-
-**Action:**  
-They choose to:
-
-- reuse an existing activity on data interpretation  
-- adapt examples to local contexts  
-- create new materials only where needed  
-
-They also revise their materials to include:
-
-- clear instructions  
-- documented steps  
-- flexible examples  
-
-**Outcome:**  
-The training is easier to run again, quicker to adapt, and can be shared with others.
-
----
+- **Context:** A facilitator has delivered a strong workshop once and now wants to use it again with a different audience.
+- **Decision:** Should they simply repeat the session, redesign everything, or improve what already exists?
+- **Action:** They review the materials and notice that several instructions depend on memory, some examples are too context-specific, and one useful external resource could replace a section they planned to rebuild. They clarify instructions, document assumptions, and decide to adapt one existing resource instead of creating new material from scratch.
+- **Outcome:** The training becomes easier to reuse, easier to adapt, and more efficient to maintain over time.
 
 ## In practice
 
 👉 Use [Template 10: OER Design Decisions](../activities/template_10_oer.md)
 
-- **What to do:** Decide what to reuse, adapt, or create in your training  
-- **Output:** A clear set of design decisions for your materials  
-- **Time:** 20–30 minutes  
+Include:
 
-Optional:
+- **what to do:** Review one part of your training and decide what to reuse, adapt, create, or clarify for future use
+- **expected output:** A documented set of reuse and reusability decisions
+- **approximate time:** 20–30 minutes
 
 👉 Revisit [Template 7: Learning Activity Design](../activities/template_7_activity_design.md)
 
-- **What to do:** Improve activities to make them reusable and self-contained  
-- **Output:** Refined activities that support reuse  
-- **Time:** 10–15 minutes  
+Include:
 
----
+- **what to do:** Improve one activity so it makes sense without your explanation
+- **expected output:** A clearer, more reusable activity
+- **approximate time:** 10–15 minutes
 
 ## Key takeaways
 
 !!! tip "Key takeaway"
-    Design for your future self—make your materials reusable, clear, and adaptable.
+    Designing for reuse benefits both other people and your future self.
 
 !!! tip "Key takeaway"
-    Do not start from scratch by default—reuse and adapt where possible.
-
----
+    Reusability depends on clarity, structure, and making assumptions visible.
 
 ## Before you move on
 
 You should now have:
 
-- Assessed how reusable your current training materials are  
-- Identified opportunities to reuse, adapt, or create resources  
-- Improved your materials to support reuse and adaptation  
-
-In the next section, you will explore how to find, evaluate, and use existing open educational resources effectively.
+- identified where your materials can be reused, adapted, or improved
+- clarified at least one hidden assumption
+- started preparing your training materials for reuse beyond a single delivery
