@@ -35,6 +35,9 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/password.js
+
 markdown_extensions:
   - footnotes
   - pymdownx.highlight:
