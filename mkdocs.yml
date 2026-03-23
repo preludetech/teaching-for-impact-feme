@@ -16,6 +16,7 @@ theme:
     - navigation.sections
     - navigation.prune
     - navigation.indexes
+    - navigation.footer
     - content.tabs.link
     - toc.integrate
     - navigation.path
@@ -29,13 +30,7 @@ theme:
 
   palette:
     - scheme: default
-      toggle:
-        icon: material/brightness-7 
-        name: Switch to dark mode
-    - scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+
 
 extra_css:
   - stylesheets/extra.css
@@ -48,6 +43,11 @@ markdown_extensions:
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - admonition
   - tables
   - md_in_html
@@ -77,6 +77,7 @@ plugins:
   - glightbox
   - search
 
+
 extra:
   consent:
     title: Cookie consent
@@ -100,21 +101,35 @@ nav:
       - 1. Getting Started: part-1/lesson-1.md
       - 2. Understanding Your Learners: part-1/lesson-2.md
       - 3. How People Learn: part-1/lesson-3.md
-      - 4. Defining Impact: part-1/lesson-4.md
-      - 5. Co-Designing: part-1/lesson-5.md
+      - 4. Learning Outcomes: part-1/lesson-4.md
+      - 5. Co-Design and Constraints: part-1/lesson-5.md
       - 6. Designing Learning Experiences: part-1/lesson-6.md
       - 7. Practice, Feedback, and Iteration: part-1/lesson-7.md
       - 8. Assessment and Evaluation: part-1/lesson-8.md
-  - Part 2 - Training to Content: part-2/lesson-1.md
-  - Part 3 - OERs:
-      - Overview: part-3/index.md
-      - Lesson 1: part-3/lesson-1.md
-      - Lesson 2: part-3/lesson-2.md
-      - Lesson 3: part-3/lesson-3.md
-      - Lesson 4: part-3/lesson-4.md
-      - Lesson 5: part-3/lesson-5.md
+  - Part 2 - From Training Design to OER:
+      - Overview: part-2/index.md
+      - 1. Designing for Openness: part-2/lesson-1.md
+      - 2. Finding and Evaluating Existing OER: part-2/lesson-2.md
+      - 3. What Makes Resources Open?: part-2/lesson-3.md
+      - 4. Adapting, Remixing, and Localising OER: part-2/lesson-4.md
+      - 5. Sharing and Publishing OER: part-2/lesson-5.md
+      - 6. Sustaining and Improving OER: part-2/lesson-6.md      
   - Conclusion: conclusion.md
-  - Activities:
-      - Templates: activities/index.md
+  - Activity Templates:
+      - Overview: activities/index.md
+      - 1. System Map: activities/template_1_system_map.md 
+      - 2. Theory of Change: activities/template_2_theory_of_change.md
+      - 3. Learner Reality Mapping: activities/template_3_learner_reality.md
+      - 4. Learning Experience Audit: activities/template_4_learner_exp_audit.md
+      - 5.  Learning Outcomes: activities/template_5_learning_outcomes.md
+      - 6. Alignment Table: activities/template_6_alignment.md  
+      - 7. Co-Design Plan: activities/template_7_co_design.md  
+      - 8. Learning Activity Design: activities/template_8_activity_design.md  
+      - 9. Practice & Feedback Plan: activities/template_9_practice_feedback.md  
+      - 10. Assessment & Evaluation Plan: activities/template_10_assess_evaluate.md  
+      - 11.Training Design Snapshot: activities/template_11_snapshot.md  
+      - 12. OER Workflow: activities/template_12_oer.md
   - Resources:
       - Glossary: resources/glossary.md
+      - Bloom's Taxonomy Cheatsheet: resources/blooms-taxonomy.md
+      - Offline Access: resources/offline-access.md

@@ -1,445 +1,582 @@
-# Workbook Style + Design Specification (v1)  
-**Teaching for Impact: Designing Effective & Open Training**
+# Workbook Style + Design Specification (v2)  
+Teaching for Impact: Designing Effective & Open Training
 
 ---
 
 # 1. Purpose of this Specification
 
-This document defines the **structural, stylistic, and pedagogical rules** for all sections in the workbook.
+This document defines the structural, stylistic, and pedagogical rules for all sections in the workbook.
 
-Its purpose is to ensure:
-- consistency across all sections  
-- alignment with evidence-based learning principles  
-- clarity and usability in low-resource, real-world contexts  
+It ensures:
+- consistency across sections  
+- alignment with how the lessons are actually structured and used  
+- usability in real-world, resource-constrained contexts  
 - compatibility with Material for MkDocs  
 
-This is the single source of truth for rewriting and maintaining the workbook.
+This version reflects **observed implementation patterns in lessons**, not only intended design.
 
 ---
 
 # 2. Core Design Principles
 
-## 2.1 Design for use, not reading
-- Content must support decision-making and action
-- Avoid purely descriptive or theoretical explanations
+## 2.1 Design for action, not reading
+Content must:
+- support decisions  
+- lead to outputs  
+- enable immediate application  
 
-## 2.2 Context-first, not content-first
-- Always anchor concepts in:
-  - real-world constraints  
-  - learner realities  
-  - practical application  
+Avoid:
+- passive explanation without use  
 
-## 2.3 Progressive disclosure
-- Start simple, then add depth where needed
-- Avoid overwhelming novice educators
+---
 
-## 2.4 Reuse-oriented design
-- Content should model:
-  - clarity  
-  - modularity  
-  - adaptability  
+## 2.2 Context-first design
+All sections must connect to:
+- learner realities  
+- constraints  
+- real-world application  
 
-## 2.5 Consistency over creativity
-- Use standardised structures and patterns
-- Avoid inventing new formats per section
+---
+
+## 2.3 Learning through doing
+Learning is driven by:
+- activities  
+- practice  
+- feedback  
+- iteration  
+
+Content supports these — it does not lead.
+
+---
+
+## 2.4 Progressive layering
+Each section:
+- introduces a concept once  
+- deepens it later  
+- avoids repetition  
+
+---
+
+## 2.5 Reuse and adaptability
+Content must:
+- be understandable without facilitation  
+- be reusable across contexts  
+- model good OER practices  
 
 ---
 
 # 3. Standard Section Structure (MANDATORY)
 
-Every section MUST follow this structure exactly:
+Each section MUST follow this structure:
+
+---
 
 ## [Section Title]
 
-[Learning Outcomes + Guiding Questions Table]
+### Learning Outcomes + Guiding Questions
+
+- Use a **2-column markdown table**
+- Left = Learning Outcomes (HTML unordered list)
+- Right = Guiding Questions (HTML unordered list)
+
+---
 
 ## Why this matters
 
-[Context + problem framing]
+Must include:
+- reference to previous section  
+- clear problem framing  
+- explanation of why this section matters in practice  
+
+Must include:
 
 !!! quote "This section helps you move from..."
     *“Before”*  
     to:  
     *“After”*
 
+---
+
 ## Core concepts
 
-[3–5 key concepts max]
+- 3–5 concepts maximum  
+
+Each concept:
 
 !!! abstract "Concept name"
-    [Clear, concise definition]
+    Clear, concise definition
 
-[Short explanation + why it matters]
+Followed by:
+- short explanation  
+- why it matters  
+
+Concepts must:
+- introduce terminology once  
+- be reused later without redefining  
+
+---
 
 ## Practical guidance
 
-[Actionable guidance structured as steps, decisions, or strategies]
+Must be structured as **step-based guidance**:
+
+### Step 1 — ...
+### Step 2 — ...
+### Step 3 — ...
+
+Each step:
+- action-oriented  
+- concise  
+- directly usable  
+
+---
+
+### Decision point (EMBEDDED, NOT A SEPARATE SECTION)
+
+Decision points must:
+
+- appear within Practical guidance  
+- be formatted as:
+
+> How much / what / which choice should you make?
+
+Followed by:
+- 2–3 realistic options  
+
+Must:
+- influence downstream design decisions  
+- not be abstract or rhetorical  
+
+---
 
 ## Example (REQUIRED)
 
-[A concrete, realistic example]
+Must follow exact structure:
 
-- **Context:** ...
-- **Decision:** ...
-- **Action:** ...
-- **Outcome:** ...
+- **Context:**  
+- **Decision:**  
+- **Action:**  
+- **Outcome:**  
+
+Requirements:
+- realistic scenario  
+- shows decision-making  
+- shows consequences  
+
+---
 
 ## In practice
+
+This section is **expanded and iterative (CRITICAL UPDATE)**
+
+Must:
+
+- include at least ONE template  
+- may include MULTIPLE templates  
+- may include revisiting previous templates  
+
+---
+
+### Format
 
 👉 Use [Template X: Name](link)
 
 Include:
-- what to do  
-- expected output  
-- approximate time  
+
+- **what to do:** clear action  
+- **expected output:** concrete deliverable  
+- **approximate time:** realistic estimate  
+
+---
+
+### Optional second block
+
+👉 Revisit [Template Y: Name](link)
+
+Include:
+- refinement, iteration, or improvement task  
+
+---
+
+### Suggested process (OPTIONAL but encouraged)
+
+Used when:
+- deeper thinking is required  
+- multiple steps are involved  
+
+Structure:
+
+**Step 1 — ...**  
+**Step 2 — ...**  
+**Step 3 — ...**
+
+---
 
 ## Key takeaways
 
-!!! tip "Key takeaway"
-    [Insight 1]
+Strict rules:
+
+- Maximum 2 takeaways  
+- Use !!! tip  
+
+Example:
 
 !!! tip "Key takeaway"
-    [Insight 2]
+    Insight
+
+---
 
 ## Before you move on
 
+CRITICAL FUNCTION:
+
+This is NOT a summary.
+
+It must:
+- validate outputs  
+- confirm readiness to proceed  
+
+Format:
+
 You should now have:
 
-- [Concrete output 1]  
-- [Concrete output 2]  
-- [Concrete output 3]
+- concrete output  
+- concrete output  
+- concrete output  
+
+---
+
+## Further reading (optional)
+
+Must:
+- appear at end  
+- follow strict format  
+
+See Section 13.
 
 ---
 
 # 4. Formatting Rules (Material for MkDocs)
 
-## 4.1 Admonitions (STRICT LIMITS)
+## 4.1 Admonitions
 
-Allowed types only:
-- !!! tip
-- !!! warning
-- !!! abstract
-- !!! quote
+Allowed:
+- !!! tip  
+- !!! abstract  
+- !!! quote  
+
+Avoid:
+- warning (only if absolutely necessary)
+
+---
 
 ## 4.2 Admonition limits
 
 Per section:
-- Maximum 4 total admonitions
-- Maximum 1 warning
-- Maximum 2 tips
-- Maximum 2 abstracts
 
-## 4.3 Emoji usage
-
-- Do not use emojis in headings  
-- Do not mix emoji systems with admonitions  
-- Emojis allowed only in activity prompts if necessary  
-
-## 4.4 Tables
-
-- Use consistent markdown tables  
-- Keep formatting simple  
-- Avoid nested complexity  
-
-## 4.5 Lists
-
-- Use short bullet lists  
-- Maintain parallel structure  
-- Avoid dense blocks  
+- max 4 total  
+- max 2 tips  
+- max 2 abstracts  
+- max 1 quote  
 
 ---
 
-# 5. Language and Tone Guidelines
+## 4.3 Tables
+
+- Use simple markdown tables  
+- No nested formatting  
+- HTML lists allowed inside cells  
+
+---
+
+## 4.4 Lists
+
+- short  
+- parallel  
+- scannable  
+
+---
+
+## 4.5 Headings
+
+Use consistent hierarchy:
+
+- ## main sections  
+- ### steps  
+
+---
+
+# 5. Language and Tone
 
 ## 5.1 Tone
-- Clear, direct, professional  
-- Supportive but concise  
-- Avoid unexplained jargon  
 
-## 5.2 Sentence structure
-- Prefer short to medium sentences  
-- Avoid long, layered sentences  
-
-## 5.3 Terminology
-- Define key terms once per section  
-- Use consistently across the workbook  
-- Avoid unnecessary synonyms  
-
-## 5.4 Clarity rule
-If a concept requires explanation during facilitation, it must be written clearly in the material.
+- clear  
+- direct  
+- professional  
+- practical  
 
 ---
 
-# 6. Pedagogical Requirements (MANDATORY)
+## 5.2 Sentence structure
 
-## 6.1 One worked example
-- Realistic  
-- Context-based  
-- Shows decision-making  
+- short to medium  
+- avoid complexity  
 
-## 6.2 One decision point
+---
 
-Explicitly include:
-> What choice does the reader need to make here?
+## 5.3 Terminology
 
-## 6.3 Explicit connection to previous section
+- define once  
+- reuse consistently  
 
-Include:
+---
+
+## 5.4 Clarity rule
+
+If it requires explanation during facilitation → rewrite it.
+
+---
+
+# 6. Pedagogical Requirements (UPDATED)
+
+## 6.1 One example (mandatory)
+
+Must:
+- include decision + consequence  
+
+---
+
+## 6.2 Decision-making is embedded
+
+Decision points:
+- occur in Practical guidance  
+- are not standalone sections  
+
+---
+
+## 6.3 Strong section linking
+
+Each section must:
+
+At start:
 > In the previous section, you...
+
+Implicitly or explicitly.
+
+---
 
 ## 6.4 Template integration
 
 Each section must:
-- reference at least one template  
-- state what to do  
-- state expected output  
 
-## 6.5 Output-oriented closure
+- include at least one template  
+- define output  
+- define action  
+
+---
+
+## 6.5 Iteration across sections (NEW RULE)
+
+Templates must:
+
+- be revisited across lessons  
+- support refinement, not one-off completion  
+
+---
+
+## 6.6 Output-driven closure
 
 Each section must end with:
-> Before you move on, you should now have...
+
+You should now have:
+
+- outputs (not ideas)  
 
 ---
 
-# 7. Use of Examples (CRITICAL)
+# 7. Use of Examples
 
-## 7.1 Requirements
-Each section must include at least one example.
+## Requirements
 
-## 7.2 Example structure
+Each example must:
 
-### Example
+- reflect real-world constraints  
+- show a decision  
+- show an outcome  
 
-**Context:**  
-[Realistic scenario]
+---
 
-**Decision:**  
-[What needed to be decided]
+## Running case
 
-**Action:**  
-[What was done]
+A consistent scenario should:
 
-**Outcome:**  
-[Result]
-
-## 7.3 Running case study
-
-A single running case study should:
 - evolve across sections  
-- demonstrate cumulative design  
-- connect decisions across the workbook  
+- show cumulative design  
 
 ---
 
-# 8. Activity and Template Integration
+# 8. Activity and Template Integration (UPDATED)
 
-## 8.1 Template references
+## 8.1 Templates are iterative
 
-Use:
-👉 Use [Template X: Name](relative-link)
+Templates are not one-time tasks.
 
-## 8.2 Must include
-- what to do  
-- expected output  
-- approximate time  
+They must:
+
+- evolve across sections  
+- support refinement  
+
+---
+
+## 8.2 Multi-template use allowed
+
+“In practice” can include:
+
+- primary task  
+- refinement task  
+
+---
 
 ## 8.3 Alignment rule
+
 Templates must:
-- support section outcomes  
-- avoid unrelated tasks  
+
+- directly support section outcomes  
+- not introduce unrelated work  
 
 ---
 
 # 9. Managing Cognitive Load
 
 ## 9.1 Chunking
-- Break content into small sections  
-- Use clear headings  
+
+- small sections  
+- clear headings  
+
+---
 
 ## 9.2 Avoid overload
+
 Do not:
-- introduce too many concepts at once  
-- mix theory, application, and nuance without structure  
+
+- introduce too many concepts  
+- mix abstraction + application without structure  
+
+---
 
 ## 9.3 Layering
-- Core explanation first  
-- Additional depth second  
-- Examples last  
+
+Order:
+
+1. concept  
+2. guidance  
+3. example  
+4. practice  
 
 ---
 
 # 10. OER Integration Rules
 
-## 10.1 Consistency
-- Build from the bridging section  
-- Avoid reintroducing concepts repeatedly  
+## 10.1 Build progressively
 
-## 10.2 Decision clarity
-Include decisions around:
-- reuse  
-- adapt  
-- create  
-
-## 10.3 Licensing
-Include:
-- practical implications  
-- trade-offs  
-- real-world constraints  
+Do not:
+- repeat OER concepts unnecessarily  
 
 ---
 
-# 11. Flow and Cross-Section Linking
+## 10.2 Focus on decisions
 
-## At the start
-Reference previous section:
-> In the previous section, you...
+Include:
+- reuse vs adapt vs create  
 
-## At the end
-Prepare for next section:
-> In the next section, you will...
+---
+
+## 10.3 Practical implications
+
+Must include:
+- real constraints  
+- usability considerations  
+
+---
+
+# 11. Flow Between Sections (UPDATED)
+
+## Start of section
+
+Must:
+- reference previous section  
+- position current section  
+
+---
+
+## End of section
+
+“Before you move on” must:
+- confirm outputs  
+- prepare for next step implicitly  
 
 ---
 
 # 12. Quality Control Checklist
 
 ## Content
-- [ ] Supports learning outcomes  
-- [ ] Leads to decisions  
-- [ ] Includes example  
+- [ ] leads to action  
+- [ ] supports outcomes  
+- [ ] includes example  
 
 ## Structure
-- [ ] Follows section template  
-- [ ] Includes all components  
+- [ ] follows section structure  
+- [ ] includes all required sections  
 
 ## Formatting
-- [ ] Admonitions within limits  
-- [ ] Clean markdown  
+- [ ] adheres to MkDocs rules  
+- [ ] clean markdown  
 
 ## Pedagogy
-- [ ] Includes activity  
-- [ ] Produces output  
-- [ ] Connects to previous section  
+- [ ] includes practice  
+- [ ] produces outputs  
+- [ ] supports iteration  
 
 ## Clarity
-- [ ] No ambiguity  
-- [ ] Concepts explained clearly  
+- [ ] no ambiguity  
+- [ ] no facilitation dependency  
 
 ---
 
+# 13. Further Reading (STRICT FORMAT)
 
+Each reference must follow:
 
-# 13. Versioning
+- Author (Year) — *Title*  
+  → Supports: concept  
+  → Why it matters: 1 sentence  
+  → Source: URL  
 
-- Version: v1  
-- Status: Draft  
-
----
-
-## 13. Further Reading (Updated Specification)
-
-The **Further Reading** section provides curated, high-quality references that directly support the concepts covered in each section of the workbook.
-
-### Purpose
-
-The goal of this section is to:
-
-- Reinforce key concepts with credible external sources  
-- Provide pathways for deeper exploration  
-- Anchor the workbook in established theory, evidence, and practice  
-
-### Placement
-
-- Include a **“## Further reading (optional)”** section at the **end of each content section**
-- Place it **after “Before you move on”**
-- Do not include it in templates or activity-only sections
+Rules:
+- 2–4 references  
+- directly tied to section  
+- no generic sources  
 
 ---
 
-### Reference Selection Criteria
+# 14. Key Changes from v1
 
-Each section must include **2–4 references** that:
+This version corrects:
 
-- Directly support **specific concepts in that section**
-- Are **widely recognised and credible**, including:
-  - peer-reviewed academic literature  
-  - policy frameworks  
-  - high-quality practitioner guides  
-- Are **relevant to the topic**
-- Where appropriate, include:
-  - Global South perspectives  
-  - inclusive or participatory approaches  
-
-Avoid:
-
-- Generic or loosely related sources  
-- Repeating the same references across multiple sections unless essential  
+- ❌ overly rigid structure → ✅ flexible but consistent implementation  
+- ❌ missing iteration → ✅ explicit iterative template design  
+- ❌ isolated decision points → ✅ embedded decision-making  
+- ❌ minimal In practice → ✅ expanded, multi-step, iterative  
+- ❌ summary endings → ✅ output validation endings  
+- ❌ theoretical bias → ✅ action-first structure  
 
 ---
 
-### Required Format (Strict)
+# 15. Versioning
 
-Each reference must follow this structure exactly:
-
-- Author(s) or organisation (Year) — *Title*  
-  → Supports: [specific concept from the section]  
-  → Why it matters: [1 concise sentence linking to the section]  
-  → Source: [direct URL to original source]
-
----
-
-### Additional Requirements
-
-- **Explicitly link each reference to the section content**  
-  (e.g. “Supports: cognitive load in learning design”)  
-
-- **Descriptions must be concise and specific**  
-  - Maximum: **1 sentence per line**  
-  - Avoid vague phrasing (e.g. “useful overview”)  
-
-- **Include a working link to the original source**  
-  - Prefer:
-    - DOI links  
-    - publisher pages  
-    - official organisational pages  
-  - Avoid:
-    - broken links  
-    - secondary summaries unless necessary  
-
-- **Do not include commentary outside the reference block**
-
----
-
-### Quality Standard
-
-A strong Further Reading section should:
-
-- Clearly **map each reference to a concept in the section**
-- Provide **immediate value without requiring interpretation**
-- Balance:
-  - foundational theory  
-  - applied/practical guidance  
-- Support both:
-  - **learning design decisions**
-  - **real-world application**
-
----
-
-### Example (for guidance)
-
-## Further reading (optional)
-
-- Biggs, J., & Tang, C. (2011) — *Teaching for Quality Learning at University*  
-  → Supports: constructive alignment between outcomes, activities, and assessment  
-  → Why it matters: provides a widely used framework for aligning teaching design decisions  
-  → Source: https://www.mheducation.com/highered/product/teaching-quality-learning-university-biggs/M9780335242757.html
----
-
-# 14. Implementation Plan
-
-1. Apply to Module 1 Section 1  
-2. Review and refine  
-3. Update spec if needed  
-4. Scale to all sections  
+- Version: v2  
+- Status: Updated based on implemented lessons  
+- Alignment: Lessons 2, 3, 4, 7  
 
 ---
 

@@ -1,26 +1,50 @@
 # Template 5: Learning Outcomes
 
-## Version
+> **How to use this template**
+>  
+> This template supports practical application of the concepts in your lesson.  
+> Work through it step by step. Keep your answers concise and focused.  
+> Return to your lesson when you are done.
+
+---
+
+### Used in
+
+- Part 1 — [Lesson 4: Defining Impact, Learning Outcomes, and Alignment](../part-1/lesson-4.md#in-practice)
+
+---
+
+### Before you start
+
+You will typically need:
+
+- Outputs from earlier templates (if applicable)
+- Notes from your current lesson
+- Your training context
+
+---
+
+### Version
 - v0 / v1 / v2
 
 ---
-## Instructions
+### Instructions
 
-Define what learners will be able to DO.
+Define what learners will be able to DO. You will refine these as you develop activities and assessment.
 
-## You will use
+### You will use
 - Your theory of change from Template 4
 - Use 1 learner constraint from Template 2
 
-## If you already have a training (recommended)
+### If you already have a training (recommended)
 
-### Current outcomes
+#### Current outcomes
 
 List existing outcomes.
 
 ---
 
-### Diagnose
+#### Diagnose
 
 For each outcome:
 - Is it observable?
@@ -30,7 +54,7 @@ For each outcome:
 
 ---
 
-### Rewrite outcomes
+#### Rewrite outcomes
 
 Write improved outcomes using:
 - Action verbs
@@ -39,24 +63,24 @@ Write improved outcomes using:
 
 ---
 
-## If you are creating a new training
+### If you are creating a new training
 
 Write 3–5 learning outcomes.
 
 ---
 
-## Translation to your learners
+### Translation to your learners
 - Are these outcomes achievable for your learners?
 - What needs adjusting?
 
 ---
 
-## Context check
+### Context check
 - Do constraints affect these outcomes?
 
 ---
 
-## Iteration
+### Iteration
 - v0 = draft
 - v1 = revised
 - v2 = final
@@ -64,11 +88,10 @@ Write 3–5 learning outcomes.
 
 ---
 
-## Reuse in later sections
-- Template 6 (Alignment Table)
-- Template 7 (Learning Activity Design)
+### Reuse in later sections
+[TODO]
 
 ---
 
-## Reflection
+### Reflection
 - Are these outcomes actionable i.e. do your outcomes describe what learners can DO?

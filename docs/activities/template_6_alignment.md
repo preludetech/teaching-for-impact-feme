@@ -1,31 +1,56 @@
 # Template 6: Alignment Table
 
-## Version
+> **How to use this template**
+>  
+> This template supports practical application of the concepts in your lesson.  
+> Work through it step by step. Keep your answers concise and focused.  
+> Return to your lesson when you are done.
+
+---
+
+### Used in
+
+- Part 1 — [Lesson 4: Defining Impact, Learning Outcomes, and Alignment](../part-1/lesson-4.md#in-practice)
+
+---
+
+### Before you start
+
+You will typically need:
+
+- Outputs from earlier templates (if applicable)
+- Notes from your current lesson
+- Your training context
+
+---
+
+### Version
 - v0 / v1 / v2
 
 ---
-## Instructions
+### Instructions
 
 Check that everything connects.
+Use this as an initial alignment check. You will refine this after developing activities and assessment.
 
-## You will use
+### You will use
 - Your outcomes from Template 5
 - Your activity from Template 7
 
-## Alignment mapping
+### Alignment mapping
 
 | Outcome | Activity | Assessment | Aligned? (Y/N) | Notes |
 |--------|----------|------------|----------------|-------|
 
 ---
 
-## If you already have a training (recommended)
+### If you already have a training (recommended)
 
 Fill in based on what you currently do.
 
 ---
 
-## Diagnose
+### Diagnose
 
 - Where are mismatches?
 - What is taught but not assessed?
@@ -34,23 +59,23 @@ Fill in based on what you currently do.
 
 ---
 
-## Improve
+### Improve
 
 Update the table to fix alignment issues.
 
 ---
 
-## Translation to your learners
+### Translation to your learners
 - Does alignment hold in your learners’ context?
 
 ---
 
-## Context check
+### Context check
 - What breaks alignment in practice?
 
 ---
 
-## Iteration
+### Iteration
 - v0 = draft
 - v1 = revised
 - v2 = final
@@ -58,11 +83,11 @@ Update the table to fix alignment issues.
 
 ---
 
-## Reuse in later sections
+### Reuse in later sections
 - Template 8 (Evaluation Plan)
 - Template 9 (Training Snapshot)
 
 ---
 
-## Reflection
+### Reflection
 - Where is alignment weakest?

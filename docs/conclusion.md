@@ -7,13 +7,19 @@ This workbook has guided you through a complete design journey:
 - to **aligning outcomes, activities, and assessment**  
 - to **building in practice, feedback, and iteration**  
 - to **preparing materials for reuse, adaptation, and sharing as OERs**  
+- to **sustaining and improving those materials over time**  
 
-These elements are not separate. They are interconnected. Effective training design links:
+These elements are not separate. They are interconnected and iterative.
+
+Effective training design links:
 
 - **intentional design decisions**  
 - **meaningful learning experiences**  
 - **practical application in real contexts**  
-- **reuse, sharing, and long-term sustainability**  
+- **materials that can be reused, adapted, and improved**  
+- **ongoing learning through feedback and iteration**  
+
+---
 
 ### Key messages to carry forward
 
@@ -26,11 +32,16 @@ These elements are not separate. They are interconnected. Effective training des
 - **Learning requires participation**  
   Practice, feedback, and iteration turn knowledge into capability.
 
-- **Reuse and adaptation are strategic choices**  
-  They save time, improve quality, and extend impact—for both you and others.
+- **Materials extend your impact**  
+  What you create can be reused, adapted, and improved by others—and by your future self.
 
-- **Improvement is ongoing**  
-  Training design is not finished after delivery. It evolves through use, feedback, and reflection.
+- **Impact goes beyond your participants**  
+  Your training influences how others teach, learn, and act in their own contexts.
+
+- **Improvement is continuous**  
+  Training and materials are not finished after delivery—they evolve through use, feedback, and adaptation.
+
+---
 
 ### Your role going forward
 
@@ -39,7 +50,7 @@ You now have the tools to design training that is:
 - realistic  
 - usable  
 - adaptable  
-- and capable of contributing to meaningful change  
+- and capable of contributing to meaningful change over time  
 
 What matters next is action.
 
@@ -53,6 +64,9 @@ You might:
 - revisit your outcomes and alignment  
 - adapt one resource instead of creating from scratch  
 - prepare one set of materials for reuse or sharing  
+- improve materials based on feedback from real use  
+
+---
 
 ### Next steps
 
@@ -63,12 +77,13 @@ You might:
   Return to your materials after delivery and refine them based on what you learn.
 
 - **Share and contribute**  
-  Where possible, make your work available for others to use, adapt, and build on.
+  Make your work available for others to use, adapt, and build on.
 
 - **Stay engaged with communities**  
   Learning, design, and reuse are strengthened through collaboration.
 
-!!! note
-    Designing effective and open training is not a one-time task. It is a continuous process of designing, testing, adapting, and improving.
+---
 
-By taking these steps, you move beyond delivering training toward creating learning experiences and resources that are useful, adaptable, and sustainable over time. :contentReference[oaicite:0]{index=0}
+!!! note
+    Effective training is not something you deliver once.  
+    It is something you design, use, learn from, and improve—over time, and with others.

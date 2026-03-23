@@ -1,22 +1,20 @@
-# Teaching for Impact: Designing Effective & Open Training
+# Teaching for Impact: Designing Effective & Open Training: Training Manual & Workbook
 
-## Training Manual & Workbook
+## Project team
 
-### Project team
-
-#### Prelude
-Sheena O'Connell
-
-[Prelude](https://prelude.tech/) is a South African consulting and training organisation specialising in professional skills development in Python, Teamwork and Education. Prelude also builds edTech products
-
-#### Talarify
+### Talarify
 Anelda van der Walt 
 
 [Talarify](https://talarify.co.za) is a South African consulting and training organisation specialising in capacity and community development in Open Science and Digital and Computational Research.
 
+### Prelude
+Sheena O'Connell
+
+[Prelude](https://prelude.tech/) is a South African consulting and training organisation specialising in professional skills development in Python, Teamwork and Education. Prelude also builds edTech products.
+
 ---
 
-### About this Workbook
+## About this Workbook
 
 This workbook was developed as a reference for a course offered to grantees of the [Failure Modes of Engineering](https://feme.ac.uk/) (FeME) Seed Funding instrument: [Data for Change Training Fund](https://feme.ac.uk/wp-content/uploads/2026/01/Final-Data-for-Change-Training-Fund-Open-Call-Guidelines-1.pdf) in 2026.
 
@@ -26,7 +24,7 @@ It is intended for practitioners designing and delivering training in complex, r
 
 ---
 
-### Course Structure
+## Course Structure
 
 The course consist of the following elements:
 
@@ -64,7 +62,7 @@ The course consist of the following elements:
 
 ---
 
-### How to Use the Workbook
+## How to Use the Workbook
 
 The contents of this workbook were designed to be used:
 
@@ -79,7 +77,7 @@ The contents of this workbook were designed to be used:
 
 ---
 
-### Expected Learning Outcomes
+## Expected Learning Outcomes
 
 After working through this book, learners will be able to:
 
@@ -92,7 +90,7 @@ After working through this book, learners will be able to:
 
 ---
 
-### Keeping the Information Current
+## Keeping the Information Current
 
 The information in this document reflects and references, to the best of the authors’ knowledge, the status quo, recommendations, and resources at publication.
 
@@ -100,11 +98,11 @@ Should you have any suggestions for updating or extending the content, please co
 
 ---
 
-### Re-using, Remixing, Reproducing
+## Re-using, Remixing, Reproducing
 
 This work is licensed under [Creative Commons Attribution 4.0 International ](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
 
-![Creative Commons with attribution](assets/images/cc-by.png)
+![Creative Commons with attribution](assets/images/lesson-visual-aids/cc-by.png)
 
 **You are free to:**
 
@@ -122,24 +120,24 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 ---
 
-### Citation
+## Citation
 
 **TODO**
 
 ---
 
-### Funding
+## Funding
 
 The training and development of this workbook and associated resources were funded through the [Failure Modes of Engineering](https://feme.ac.uk/) (FeME) project.
 
 ---
 
-### Acknowledgements
+## Acknowledgements
 
 This workbook and training were inspired by the [Instructor Training material](https://carpentries.github.io/instructor-training/) developed by [The Carpentries](https://carpentries.org) and the [Creative Commons Certificate Course](https://creativecommons.org/about/cc-certificate-program/certificate-resources/).
 
 ---
 
-### AI Usage
+## AI Usage
 
 Generative AI tools were used extensively to support drafting, restructuring, and refining content throughout this workbook. The author defined the overall structure, pedagogical approach, and conceptual framing, and iteratively guided and edited all AI-generated content.
