@@ -1,0 +1,9 @@
+[project]
+name = "teaching-for-impact-feme"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "mkdocs-glightbox>=0.5.2",
+    "mkdocs-material>=9.7.6",
+]
