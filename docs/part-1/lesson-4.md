@@ -1,8 +1,19 @@
-# 4. Defining Impact, Learning Outcomes, and Alignment
+---
+learning_outcomes:
+  - Define clear, observable, and actionable learning outcomes
+  - Apply backward design to link learning outcomes, evidence, and activities
+  - Design activities that enable learners to practise and demonstrate learning outcomes
+  - Develop supporting content that directly enables successful participation in activities
+  - Diagnose and correct misalignment between learning outcomes, activities, and assessment
+guiding_questions:
+  - What should learners be able to do as a result of this training?
+  - What will learners need to produce, do, or decide to show they have achieved the intended learning outcomes?
+  - Do your planned activities directly support your intended learning outcomes?
+  - What content do learners need to successfully participate in the activities?
+  - Where might misalignment exist between learning outcomes, activities, assessment, and content?
+---
 
-| **🎯 Learning Outcomes** | **📍 Guiding Questions** |
-|------------------|------------------|
-| <ul><li>Define clear, observable, and actionable learning outcomes</li><li>Apply backward design to link learning outcomes, evidence, and activities</li><li>Design activities that enable learners to practise and demonstrate learning outcomes</li><li>Develop supporting content that directly enables successful participation in activities</li><li>Diagnose and correct misalignment between learning outcomes, activities, and assessment</li></ul> | <ul><li>What should learners be able to do as a result of this training?</li><li>What will learners need to produce, do, or decide to show they have achieved the intended learning outcomes?</li><li>Do your planned activities directly support your intended learning outcomes?</li><li>What content do learners need to successfully participate in the activities?</li><li>Where might misalignment exist between learning outcomes, activities, assessment, and content?</li></ul>|
+{% include "lesson_header.md" %}
 
 ## Why this matters
 
@@ -176,22 +187,11 @@ Your choice will affect the quality of your activities, assessment, and evaluati
 
 👉 Use [Template 5: Learning Outcomes](../activities/template_5_learning_outcomes.md)
 
-Include:
-
-- **what to do:** Draft or revise outcomes so they are observable and action-oriented
-- **expected output:** A short set of clear learning outcomes
-- **approximate time:** 15–20 minutes
 - **optional:** Use the [Bloom’s Taxonomy — Quick Guide](../resources/blooms_taxonomy.md) if you need help refining action verbs.
 
 👉 Use [Template 6: Alignment Table](../activities/template_6_alignment.md)
 
 This is an initial alignment check to structure your design. You will revisit and improve this as you develop activities and assessment in later sections.
-
-Include:
-
-- **what to do:** Create a first draft linking each learning outcome to evidence, activities, and assessment. You will refine this in later sections.
-- **expected output:** A first draft of the alignment table
-- **approximate time:** 20–30 minutes
 
 ## Key takeaways
 

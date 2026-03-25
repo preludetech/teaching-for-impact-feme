@@ -1,31 +1,12 @@
-# Template 4: Learning Experience Audit
-
-> **How to use this template**
->  
-> This template supports practical application of the concepts in your lesson.  
-> Work through it step by step. Keep your answers concise and focused.  
-> Return to your lesson when you are done.
-
+---
+used_in:
+- "Part 1 — [Lesson 3: How People Learn: Cognitive, Social, and Contextual Perspectives](../part-1/lesson-3.md#in-practice)"
+what_to_do: "Analyse one part of your training to identify cognitive overload, passive learning, and missed opportunities for retrieval, practice, and interaction"
+expected_output: "A short diagnostic identifying key learning risks and 2–3 concrete improvements to strengthen learning"
+approximate_time: "15–20 minutes"
 ---
 
-### Used in
-
-- Part 1 — [Lesson 3: How People Learn: Cognitive, Social, and Contextual Perspectives](../part-1/lesson-3.md#in-practice)
-
----
-
-### Before you start
-
-You will typically need:
-
-- Outputs from earlier templates (if applicable)
-- Notes from your current lesson
-- Your training context
-
----
-
-### Version
-- v0 / v1 / v2
+{% include "activity_header.md" %}
 
 ---
 

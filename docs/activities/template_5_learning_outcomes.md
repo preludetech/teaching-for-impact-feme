@@ -1,31 +1,12 @@
-# Template 5: Learning Outcomes
-
-> **How to use this template**
->  
-> This template supports practical application of the concepts in your lesson.  
-> Work through it step by step. Keep your answers concise and focused.  
-> Return to your lesson when you are done.
-
+---
+used_in:
+- "Part 1 — [Lesson 4: Defining Impact, Learning Outcomes, and Alignment](../part-1/lesson-4.md#in-practice)"
+what_to_do: "Draft or revise outcomes so they are observable and action-oriented"
+expected_output: "A short set of clear learning outcomes"
+approximate_time: "15–20 minutes"
 ---
 
-### Used in
-
-- Part 1 — [Lesson 4: Defining Impact, Learning Outcomes, and Alignment](../part-1/lesson-4.md#in-practice)
-
----
-
-### Before you start
-
-You will typically need:
-
-- Outputs from earlier templates (if applicable)
-- Notes from your current lesson
-- Your training context
-
----
-
-### Version
-- v0 / v1 / v2
+{% include "activity_header.md" %}
 
 ---
 ### Instructions

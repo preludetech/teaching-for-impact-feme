@@ -1,32 +1,12 @@
-# Template 8: Learning Activity Design
-
-> **How to use this template**
->  
-> This template supports practical application of the concepts in your lesson.  
-> Work through it step by step. Keep your answers concise and focused.  
-> Return to your lesson when you are done.
-
+---
+used_in:
+- "Part 1 — [Lesson 6: Designing Learning Experiences for Participation and Co-Creation](../part-1/lesson-6.md#in-practice)"
+what_to_do: "Design or refine one activity with clear structure (objective, instructions, materials, time, output, feedback)"
+expected_output: "A well-structured activity aligned with your learning outcomes"
+approximate_time: "20–30 minutes"
 ---
 
-### Used in
-
-
-- Part 1 — [Lesson 6: Designing Learning Experiences for Participation and Co-Creation](../part-1/lesson-6.md#in-practice)
-
----
-
-### Before you start
-
-You will typically need:
-
-- Outputs from earlier templates (if applicable)
-- Notes from your current lesson
-- Your training context
-
----
-
-### Version
-- v0 / v1 / v2
+{% include "activity_header.md" %}
 
 ---
 

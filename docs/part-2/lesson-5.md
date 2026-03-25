@@ -1,8 +1,19 @@
-## Lesson 5 — Sharing and Publishing Open Educational Resources
+---
+learning_outcomes:
+  - Prepare OER so they can be used without additional explanation
+  - Select appropriate platforms for sharing and publishing materials
+  - Ensure materials are discoverable and understandable by others
+  - Document materials clearly to support reuse and adaptation
+  - Make decisions about when a resource is ready to share
+guiding_questions:
+  - When are your materials ready to share?
+  - Where should you publish your materials?
+  - How do you make your materials understandable to others?
+  - What information do others need to reuse your work?
+  - How do you ensure your materials can be found and used?
+---
 
-| **🎯 Learning Outcomes** | **📍 Guiding Questions** |
-|------------------|------------------|
-| <ul><li>Prepare OER so they can be used without additional explanation</li><li>Select appropriate platforms for sharing and publishing materials</li><li>Ensure materials are discoverable and understandable by others</li><li>Document materials clearly to support reuse and adaptation</li><li>Make decisions about when a resource is ready to share</li></ul> | <ul><li>When are your materials ready to share?</li><li>Where should you publish your materials?</li><li>How do you make your materials understandable to others?</li><li>What information do others need to reuse your work?</li><li>How do you ensure your materials can be found and used?</li></ul> |
+{% include "lesson_header.md" %}
 
 ## Why this matters
 

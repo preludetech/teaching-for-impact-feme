@@ -1,5 +1,5 @@
 (function () {
-  const PASSWORD = "yourpassword";
+  const PASSWORD = "training";
   const STORAGE_KEY = "tfi_authenticated";
 
   function isAuthenticated() {

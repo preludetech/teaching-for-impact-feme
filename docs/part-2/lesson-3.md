@@ -1,8 +1,19 @@
-## Lesson 3 — Openness, Licensing, and Attribution
+---
+learning_outcomes:
+  - Explain how open licenses enable reuse, adaptation, and sharing of training resources
+  - Distinguish between different Creative Commons license types and their implications
+  - Make informed decisions about how to license your own materials
+  - Apply correct and consistent attribution when reusing or adapting OER
+  - Identify risks when combining or adapting differently licensed resources
+guiding_questions:
+  - 'What does "open" allow you to do in practice?'
+  - How do different licenses affect reuse and adaptation?
+  - What license should you choose for your materials?
+  - How do you correctly attribute reused content?
+  - What problems arise when combining resources with different licenses?
+---
 
-| **🎯 Learning Outcomes** | **📍 Guiding Questions** |
-|------------------|------------------|
-| <ul><li>Explain how open licenses enable reuse, adaptation, and sharing of training resources</li><li>Distinguish between different Creative Commons license types and their implications</li><li>Make informed decisions about how to license your own materials</li><li>Apply correct and consistent attribution when reusing or adapting OER</li><li>Identify risks when combining or adapting differently licensed resources</li></ul> | <ul><li>What does “open” allow you to do in practice?</li><li>How do different licenses affect reuse and adaptation?</li><li>What license should you choose for your materials?</li><li>How do you correctly attribute reused content?</li><li>What problems arise when combining resources with different licenses?</li></ul> |
+{% include "lesson_header.md" %}
 
 ## Why this matters
 
@@ -21,9 +32,9 @@ This may influence your earlier decisions. Some resources you selected may need 
 You do not need to master licensing in detail. You need enough understanding to make **practical, confident choices**. This is not about limiting your choices — it helps you make better ones.
 
 !!! quote "This section helps you move from..."
-    *“This resource looks useful”*  
+    *"This resource looks useful"*  
     to:  
-    *“I understand what I can do with it — and how others can use my work”*
+    *"I understand what I can do with it — and how others can use my work"*
 
 ## Core concepts
 

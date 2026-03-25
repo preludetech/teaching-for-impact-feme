@@ -1,8 +1,19 @@
-## Lesson 2 — Finding & Evaluating Open Educational Resources
+---
+learning_outcomes:
+  - Identify and locate relevant Open Educational Resources (OER) for your training
+  - Evaluate OER for alignment, clarity, context fit, adaptability, and licensing
+  - Recognise risks and limitations when reusing existing resources
+  - Make explicit decisions to reuse, adapt, or create resources
+  - Select resources that support your learners, context, and outcomes
+guiding_questions:
+  - Where can you find relevant OER?
+  - How do you determine whether a resource will work in your training?
+  - What makes a resource reusable in practice?
+  - What risks are introduced when reusing resources?
+  - When should you reuse, adapt, or create a resource?
+---
 
-| **🎯 Learning Outcomes** | **📍 Guiding Questions** |
-|------------------|------------------|
-| <ul><li>Identify and locate relevant Open Educational Resources (OER) for your training</li><li>Evaluate OER for alignment, clarity, context fit, adaptability, and licensing</li><li>Recognise risks and limitations when reusing existing resources</li><li>Make explicit decisions to reuse, adapt, or create resources</li><li>Select resources that support your learners, context, and outcomes</li></ul> | <ul><li>Where can you find relevant OER?</li><li>How do you determine whether a resource will work in your training?</li><li>What makes a resource reusable in practice?</li><li>What risks are introduced when reusing resources?</li><li>When should you reuse, adapt, or create a resource?</li></ul> |
+{% include "lesson_header.md" %}
 
 ## Why this matters
 

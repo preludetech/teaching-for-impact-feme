@@ -1,31 +1,12 @@
-# Template 9: Practice & Feedback Plan
-
-> **How to use this template**
->  
-> This template supports practical application of the concepts in your lesson.  
-> Work through it step by step. Keep your answers concise and focused.  
-> Return to your lesson when you are done.
-
+---
+used_in:
+- "Part 1 — [Lesson 7: Practice, Feedback, and Iteration](../part-1/lesson-7.md#in-practice)"
+what_to_do: "Plan how learners will receive feedback and where revision will happen"
+expected_output: "A structured plan for practice and feedback during learning"
+approximate_time: "20–30 minutes"
 ---
 
-### Used in
-
-- Part 1 — [Lesson 7: Practice, Feedback, and Iteration](../part-1/lesson-7.md#in-practice)
-
----
-
-### Before you start
-
-You will typically need:
-
-- Your learning outcomes
-- Outputs from earlier templates (if applicable)
-- Your training context
-
----
-
-### Version
-- v0 / v1 / v2
+{% include "activity_header.md" %}
 
 ---
 

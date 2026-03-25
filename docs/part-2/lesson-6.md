@@ -1,8 +1,19 @@
-# Lesson 6 — Sustaining and Improving Open Educational Resources
+---
+learning_outcomes:
+  - Understand the lifecycle of OER beyond initial creation and sharing
+  - Identify realistic approaches to maintaining and updating materials
+  - Collect and use feedback to improve training materials
+  - Make decisions about when to update, maintain, or archive materials
+  - Ensure materials remain usable and relevant over time
+guiding_questions:
+  - What happens to materials after they are shared?
+  - How do you keep your materials relevant over time?
+  - What feedback should you collect and use?
+  - 'What does "sustainable" mean in practice?'
+  - When should you update, maintain, or stop maintaining materials?
+---
 
-| **🎯 Learning Outcomes** | **📍 Guiding Questions** |
-|------------------|------------------|
-| <ul><li>Understand the lifecycle of OER beyond initial creation and sharing</li><li>Identify realistic approaches to maintaining and updating materials</li><li>Collect and use feedback to improve training materials</li><li>Make decisions about when to update, maintain, or archive materials</li><li>Ensure materials remain usable and relevant over time</li></ul> | <ul><li>What happens to materials after they are shared?</li><li>How do you keep your materials relevant over time?</li><li>What feedback should you collect and use?</li><li>What does “sustainable” mean in practice?</li><li>When should you update, maintain, or stop maintaining materials?</li></ul> |
+{% include "lesson_header.md" %}
 
 ## Why this matters
 
@@ -23,9 +34,9 @@ They become less useful when they are **not maintained, improved, or reused effe
 This section focuses on how to make practical decisions about maintaining and improving your materials over time.
 
 !!! quote "This section helps you move from..."
-    *“My materials are shared”*  
+    *"My materials are shared"*  
     to:  
-    *“My materials remain usable and improve over time”*
+    *"My materials remain usable and improve over time"*
 
 ---
 

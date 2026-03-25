@@ -1,8 +1,19 @@
-# 3. How People Learn: Cognitive, Social, and Contextual Perspectives
+---
+learning_outcomes:
+  - Explain key principles of how people learn (cognitive load, retrieval, spacing, social learning)
+  - Identify factors that support or hinder effective learning
+  - Apply strategies to reduce cognitive overload and improve retention
+  - Design learning experiences that include retrieval, practice, and reinforcement
+  - Incorporate social and contextual dimensions of learning into training design
+guiding_questions:
+  - How do people move information from short-term to long-term memory?
+  - Where might cognitive overload occur in your training?
+  - How will learners actively retrieve and apply knowledge?
+  - How can learning be reinforced over time?
+  - How will you incorporate social learning and collaboration?
+---
 
-| **🎯 Learning Outcomes** | **📍 Guiding Questions** |
-|------------------|------------------|
-| <ul><li>Explain key principles of how people learn (cognitive load, retrieval, spacing, social learning)</li><li>Identify factors that support or hinder effective learning</li><li>Apply strategies to reduce cognitive overload and improve retention</li><li>Design learning experiences that include retrieval, practice, and reinforcement</li><li>Incorporate social and contextual dimensions of learning into training design</li></ul> | <ul><li>How do people move information from short-term to long-term memory?</li><li>Where might cognitive overload occur in your training?</li><li>How will learners actively retrieve and apply knowledge?</li><li>How can learning be reinforced over time?</li><li>How will you incorporate social learning and collaboration?</li></ul> |
+{% include "lesson_header.md" %}
 
 ## Why this matters
 
@@ -105,19 +116,11 @@ Your choice will influence retention, confidence, and transfer into practice.
 
 👉 Use [Template 4: Learner Experience Audit](../activities/template_4_learner_exp_audit.md)
 
-Include:
-
-- **what to do:** Analyse one part of your training to identify cognitive overload, passive learning, and missed opportunities for retrieval, practice, and interaction  
-- **expected output:** A short diagnostic identifying key learning risks and 2–3 concrete improvements to strengthen learning  
-- **approximate time:** 15–20 minutes  
-
 👉 Revisit [Template 3: Learner Reality Mapping](../activities/template_3_learner_reality.md)
 
-Include:
-
-- **what to do:** Use your learner realities to identify where overload, confusion, or disengagement may occur  
-- **expected output:** Notes on how learner constraints affect learning design decisions  
-- **approximate time:** 10–15 minutes  
+- **what to do:** Use your learner realities to identify where overload, confusion, or disengagement may occur
+- **expected output:** Notes on how learner constraints affect learning design decisions
+- **approximate time:** 10–15 minutes
 
 ## Key takeaways
 

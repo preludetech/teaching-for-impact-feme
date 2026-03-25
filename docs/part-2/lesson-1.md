@@ -1,8 +1,17 @@
-## 1. Designing for Openness
+---
+learning_outcomes:
+  - Explain how designing for openness supports reuse, adaptation, and impact
+  - Decide when to reuse, adapt, or create resources
+  - Identify key features of reusable and adaptable training materials
+  - Recognise hidden assumptions that limit reuse and accessibility
+guiding_questions:
+  - Can your training be used without you being present?
+  - Where could existing resources be reused or adapted?
+  - What makes a training resource easy to reuse or modify?
+  - What assumptions are embedded in your materials?
+---
 
-| **🎯 Learning Outcomes** | **📍 Guiding Questions** |
-|------------------|------------------|
-| <ul><li>Explain how designing for openness supports reuse, adaptation, and impact</li><li>Decide when to reuse, adapt, or create resources</li><li>Identify key features of reusable and adaptable training materials</li><li>Recognise hidden assumptions that limit reuse and accessibility</li></ul> | <ul><li>Can your training be used without you being present?</li><li>Where could existing resources be reused or adapted?</li><li>What makes a training resource easy to reuse or modify?</li><li>What assumptions are embedded in your materials?</li></ul> |
+{% include "lesson_header.md" %}
 
 ## Why this matters
 

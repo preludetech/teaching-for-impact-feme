@@ -1,8 +1,19 @@
-## Lesson 4 — Adapting and Localising Open Educational Resources
+---
+learning_outcomes:
+  - Adapt OER to align with your learning outcomes, learners, and context
+  - Identify and modify assumptions embedded in existing resources
+  - Distinguish between surface-level and structural adaptation
+  - Make informed decisions about what to change, retain, or remove
+  - Document adaptations to support reuse and transparency
+guiding_questions:
+  - What needs to change for this resource to work in your context?
+  - What assumptions are embedded in the original material?
+  - How much adaptation is required?
+  - What should you keep, modify, or remove?
+  - How do you make your adaptations visible to others?
+---
 
-| **🎯 Learning Outcomes** | **📍 Guiding Questions** |
-|------------------|------------------|
-| <ul><li>Adapt OER to align with your learning outcomes, learners, and context</li><li>Identify and modify assumptions embedded in existing resources</li><li>Distinguish between surface-level and structural adaptation</li><li>Make informed decisions about what to change, retain, or remove</li><li>Document adaptations to support reuse and transparency</li></ul> | <ul><li>What needs to change for this resource to work in your context?</li><li>What assumptions are embedded in the original material?</li><li>How much adaptation is required?</li><li>What should you keep, modify, or remove?</li><li>How do you make your adaptations visible to others?</li></ul> |
+{% include "lesson_header.md" %}
 
 ## Why this matters
 

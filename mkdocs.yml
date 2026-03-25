@@ -77,6 +77,8 @@ markdown_extensions:
 plugins:
   - glightbox
   - search
+  - macros:
+      include_dir: includes
 
 
 extra:
@@ -99,7 +101,7 @@ nav:
   - Introduction: introduction.md
   - Part 1 - Designing Training:
       - Overview: part-1/index.md
-      - 1. Getting Started: part-1/lesson-1.md
+      - 1. Understanding the larger context: part-1/lesson-1.md
       - 2. Understanding Your Learners: part-1/lesson-2.md
       - 3. How People Learn: part-1/lesson-3.md
       - 4. Learning Outcomes: part-1/lesson-4.md
@@ -122,13 +124,13 @@ nav:
       - 2. Theory of Change: activities/template_2_theory_of_change.md
       - 3. Learner Reality Mapping: activities/template_3_learner_reality.md
       - 4. Learning Experience Audit: activities/template_4_learner_exp_audit.md
-      - 5.  Learning Outcomes: activities/template_5_learning_outcomes.md
+      - 5. Learning Outcomes: activities/template_5_learning_outcomes.md
       - 6. Alignment Table: activities/template_6_alignment.md  
       - 7. Co-Design Plan: activities/template_7_co_design.md  
       - 8. Learning Activity Design: activities/template_8_activity_design.md  
       - 9. Practice & Feedback Plan: activities/template_9_practice_feedback.md  
       - 10. Assessment & Evaluation Plan: activities/template_10_assess_evaluate.md  
-      - 11.Training Design Snapshot: activities/template_11_snapshot.md  
+      - 11. Training Design Snapshot: activities/template_11_snapshot.md  
       - 12. OER Workflow: activities/template_12_oer.md
   - Resources:
       - Glossary: resources/glossary.md

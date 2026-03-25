@@ -1,31 +1,12 @@
-# Template 10: Assessment & Evaluation Plan
-
-> **How to use this template**
->  
-> This template supports practical application of the concepts in your lesson.  
-> Work through it step by step. Keep your answers concise and focused.  
-> Return to your lesson when you are done.
-
+---
+used_in:
+- "Part 1 — [Lesson 8: Assessment and Evaluation for Learning and Impact](../part-1/lesson-8.md#in-practice)"
+what_to_do: "Define indicators, assessment methods, and evidence sources for one training sequence"
+expected_output: "A plan for assessment and evaluation"
+approximate_time: "20–30 minutes"
 ---
 
-### Used in
-
-- Part 1 — [Lesson 8: Assessment and Evaluation for Learning and Impact](../part-1/lesson-8.md#in-practice)
-
----
-
-### Before you start
-
-You will typically need:
-
-- Your learning outcomes
-- Outputs from Template 7 (Practice & Feedback Plan)
-- Your training context
-
----
-
-### Version
-- v0 / v1 / v2
+{% include "activity_header.md" %}
 
 ---
 

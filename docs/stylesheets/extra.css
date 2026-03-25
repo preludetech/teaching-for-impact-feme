@@ -178,3 +178,27 @@ html, body {
 .nav-next a:hover {
   color: var(--md-accent-fg-color);
 }
+
+/* =========================
+   DOWNLOAD BUTTON
+   ========================= */
+
+.download-btn-wrapper {
+  margin: 1rem 0 1.5rem;
+}
+
+.download-doc-btn {
+  background-color: #d46852;
+  color: #ffffff !important;
+  border: none;
+  padding: 0.5rem 1.2rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+  border-radius: 4px;
+  font-weight: 500;
+}
+
+.download-doc-btn:hover {
+  background-color: #004b6c;
+  color: #ffffff !important;
+}

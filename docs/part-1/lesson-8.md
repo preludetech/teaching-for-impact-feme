@@ -1,8 +1,19 @@
-# 8. Assessment and Evaluation for Learning and Impact
+---
+learning_outcomes:
+  - Distinguish between assessment (learning-focused) and evaluation (impact-focused)
+  - Design formative and summative assessments aligned with learning outcomes
+  - Define clear, observable indicators of success
+  - Select appropriate and feasible methods for collecting evidence of learning and impact
+  - Evaluate evidence to distinguish meaningful signal from noise
+guiding_questions:
+  - How will you know if learning has occurred?
+  - What is the difference between assessing learning and evaluating impact in this context?
+  - Are your assessments aligned with your intended outcomes?
+  - What indicators best reflect meaningful success?
+  - What evidence will you collect, and how will it help you improve your training?
+---
 
-| **🎯 Learning Outcomes** | **📍 Guiding Questions** |
-|------------------|------------------|
-| <ul><li>Distinguish between assessment (learning-focused) and evaluation (impact-focused)</li><li>Design formative and summative assessments aligned with learning outcomes</li><li>Define clear, observable indicators of success</li><li>Select appropriate and feasible methods for collecting evidence of learning and impact</li><li>Evaluate evidence to distinguish meaningful signal from noise</li></ul> | <ul><li>How will you know if learning has occurred?</li><li>What is the difference between assessing learning and evaluating impact in this context?</li><li>Are your assessments aligned with your intended outcomes?</li><li>What indicators best reflect meaningful success?</li><li>What evidence will you collect, and how will it help you improve your training?</li></ul>|
+{% include "lesson_header.md" %}
 
 ## Why this matters
 
@@ -116,15 +127,7 @@ Your choice affects how well you can understand learning and improve the trainin
 
 👉 Use [Template 10: Assessment & Evaluation Plan](../activities/template10_assess_evaluate.md)
 
-Include:
-
-- **what to do:** Define indicators, assessment methods, and evidence sources for one training sequence
-- **expected output:** A plan for assessment and evaluation
-- **approximate time:** 20–30 minutes
-
 👉 Revisit [Template 6: Alignment Table](../activities/template_6_alignment.md)
-
-Include:
 
 - **what to do:** Check that each assessment method reflects the intended outcome
 - **expected output:** A refined alignment between outcomes and assessment

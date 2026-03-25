@@ -1,8 +1,19 @@
-# 2. Understanding Your Learners, Contexts, and Knowledge Systems
+---
+learning_outcomes:
+  - Analyse the characteristics, needs, and realities of your primary and secondary audiences
+  - Identify contextual factors (access, time, language, culture, power) that influence participation and learning
+  - Conduct a simple, participatory needs assessment to inform training design
+  - Recognise and incorporate learners’ prior knowledge, lived experience, and mental models
+  - Identify potential barriers to participation and design strategies to reduce them
+guiding_questions:
+  - Who are your learners, and what distinguishes primary from secondary audiences?
+  - What constraints shape their participation?
+  - What do learners already know?
+  - What barriers might affect participation and success?
+  - How can you incorporate lived experience and local knowledge?
+---
 
-| **🎯 Learning Outcomes** | **📍 Guiding Questions** |
-|------------------|------------------|
-| <ul><li>Analyse the characteristics, needs, and realities of your primary and secondary audiences</li><li>Identify contextual factors (access, time, language, culture, power) that influence participation and learning</li><li>Conduct a simple, participatory needs assessment to inform training design</li><li>Recognise and incorporate learners’ prior knowledge, lived experience, and mental models</li><li>Identify potential barriers to participation and design strategies to reduce them</li></ul> | <ul><li>Who are your learners, and what distinguishes primary from secondary audiences?</li><li>What constraints shape their participation?</li><li>What do learners already know?</li><li>What barriers might affect participation and success?</li><li>How can you incorporate lived experience and local knowledge?</li></ul> |
+{% include "lesson_header.md" %}
 
 ## Why this matters
 
@@ -113,12 +124,6 @@ Your answer will shape your content, format, pace, and delivery choices.
 ## In practice
 
 👉 Use [Template 3: Learner Reality Mapping](../activities/template_3_learner_reality.md)
-
-Include:
-
-- **what to do:** Map your audiences, their realities, constraints, strengths, and needs
-- **expected output:** A structured summary of learner needs and contextual design considerations
-- **approximate time:** 20–30 minutes
 
 ## Key takeaways
 
