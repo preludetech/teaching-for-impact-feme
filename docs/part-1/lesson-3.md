@@ -23,7 +23,7 @@ If you design without understanding how learning works, you risk overwhelming le
 !!! quote "This section helps you move from..."
     *“How do I present content?”*  
     to:  
-    *“How do people actually learn—and how do I design for that?”*
+    *“How do people actually learn, and how do I design for that?”*
 
 ## Core concepts
 
@@ -44,12 +44,17 @@ Discussion, collaboration, observation, and shared problem-solving help learners
 
 ## Practical guidance
 
+Now that you understand the core principles, here is how to apply them when designing your training. Each step targets a specific aspect of how people learn — from managing cognitive load to building in active learning, retrieval, spacing, reinforcement, and social interaction.
+
 ### Step 1 — Reduce unnecessary cognitive load
 
 - break content into smaller segments
 - keep instructions clear and simple
 - avoid introducing multiple new ideas at once
 - remove avoidable complexity
+- make sure any expectations you set are clear
+
+The goal is to remove *unnecessary* load, not all difficulty. Learners need to think, struggle, and work things out. If everything is simplified to the point where no effort is required, learning is unlikely to stick. Keep the thinking — cut the confusion.
 
 ### Step 2 — Design for active learning
 
@@ -57,22 +62,24 @@ For each part of your training, ask:
 
 - What are learners doing?
 - What will they produce, decide, explain, or apply?
+- How can you make sure that your learners are not passive observers?
 
 Include:
 
 - short exercises
 - problem-solving tasks
 - explanation and reflection activities
+- activities that connect new ideas to what learners already know
 
-### Step 3 — Build in retrieval
+### Step 3 — Build in retrieval and application
 
 Design opportunities where learners:
 
 - recall key ideas
-- answer questions without prompts
+- answer questions without hints and prompts
 - apply concepts in realistic tasks
 
-### Step 4 — Plan for reinforcement
+### Step 4 — Plan for spacing and reinforcement
 
 - revisit key ideas across sessions
 - use follow-up activities
@@ -84,22 +91,18 @@ Design opportunities where learners:
 - design small-group or peer activities
 - create opportunities for learners to compare approaches and explain their thinking
 
-### Decision point
-
-> How much active learning and retrieval will you build into your training?
-
-- Mostly content delivery with limited activity
-- A balanced mix of explanation and practice
-- Practice-focused, highly interactive design
-
-Your choice will influence retention, confidence, and transfer into practice.
 
 ## Example
 
-- **Context:** A team is developing training on local climate risk assessment.
-- **Decision:** Should they cover more content, or reduce content to create time for retrieval and practice?
-- **Action:** They cut non-essential slides, break the material into smaller chunks, add short recall questions, revisit key ideas later in the session, and use pair discussion to test understanding.
-- **Outcome:** Participants tend to remember more, ask better questions, and are better able to apply the method afterwards.
+**Context:** A team is developing training on local climate risk assessment. They notice past sessions covered a lot of ground, but participants struggled to remember key steps or apply the method afterwards. They decide to redesign the session using the steps above.
+
+1. **Reduce unnecessary cognitive load:** They cut non-essential slides and break the material into smaller segments, each focused on one stage of the risk assessment process. Instructions for each activity are simplified and made explicit.
+2. **Design for active learning:** Instead of presenting the full method as a lecture, they add short exercises where participants identify climate risks for a sample area, explain their reasoning, and connect the method to local examples they already know.
+3. **Build in retrieval and application:** After each segment, participants answer recall questions without referring to their notes or apply the concept to a realistic scenario.
+4. **Plan for spacing and reinforcement:** Key ideas from earlier segments are revisited later in the session. A follow-up activity is scheduled for the following week so participants practise the method again in a new context.
+5. **Use social learning intentionally:** Pair discussions are built in so participants compare their risk assessments, explain their thinking, and test each other's understanding.
+
+**Outcome:** Participants tend to remember more, ask better questions, and are better able to apply the method afterwards.
 
 ## In practice
 
