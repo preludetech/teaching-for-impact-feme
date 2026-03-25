@@ -112,9 +112,9 @@ Specify what participants should be able to do after the training. These are par
 
 Using the Inputs → Activities → Outputs → Outcomes → Impact chain introduced earlier, link:
 
-- what you do (inputs and activities)
-- what participants gain (outputs and outcomes)
-- what changes in the wider system afterwards (impact)
+- What you do (inputs and activities)
+- What participants gain (outputs and outcomes)
+- What changes in the wider system afterwards (impact)
 
 Make sure your outcomes connect back to the intended impact you defined in Step 2. Only include links you have evidence or strong reason to believe will hold.
 
@@ -172,9 +172,9 @@ Here are a few exercises that will help you put these ideas into practice in you
 
 Include:
 
-- **what to do:** Map actors, resources, constraints, relationships, and external influences
-- **expected output:** A simple system map showing how your training fits into a broader context
-- **approximate time:** 20–30 minutes
+- **What to do:** Map actors, resources, constraints, relationships, and external influences
+- **Expected output:** A simple system map showing how your training fits into a broader context
+- **Approximate time:** 20–30 minutes
 
 ### Exercise 2: Your theory of change
 
@@ -182,9 +182,9 @@ Include:
 
 Include:
 
-- **what to do:** Link inputs, activities, outputs, outcomes, and impact
-- **expected output:** A one-page Theory of Change for your training
-- **approximate time:** 20–30 minutes
+- **What to do:** Link inputs, activities, outputs, outcomes, and impact
+- **Expected output:** A one-page Theory of Change for your training
+- **Approximate time:** 20–30 minutes
 
 ## Key takeaways
 
@@ -198,9 +198,9 @@ Include:
 
 You should now have:
 
-- a basic system map of your training context
-- a draft Theory of Change
-- a clearer understanding of your role, assumptions, and key constraints
+- A basic system map of your training context
+- A draft Theory of Change
+- A clearer understanding of your role, assumptions, and key constraints
 
 ## Further reading (optional)
 
