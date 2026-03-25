@@ -4,8 +4,6 @@ used_in:
 - "Part 1 — [Lesson 3: How People Learn: Cognitive, Social, and Contextual Perspectives](../part-1/lesson-3.md#in-practice)"
 ---
 
-# Template 3: Learner Reality Mapping
-
 {% include "activity_header.md" %}
 
 ---

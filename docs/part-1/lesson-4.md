@@ -13,8 +13,6 @@ guiding_questions:
   - Where might misalignment exist between learning outcomes, activities, assessment, and content?
 ---
 
-# 4. Defining Impact, Learning Outcomes, and Alignment
-
 {% include "lesson_header.md" %}
 
 ## Why this matters

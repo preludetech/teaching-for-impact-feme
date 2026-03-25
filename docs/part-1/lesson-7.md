@@ -14,8 +14,6 @@ guiding_questions:
   - How will participants learn with and from each other in this context?
 ---
 
-# 7. Practice, Feedback, and Iteration in Community Contexts
-
 {% include "lesson_header.md" %}
 
 ## Why this matters

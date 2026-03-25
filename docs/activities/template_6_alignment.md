@@ -3,8 +3,6 @@ used_in:
 - "Part 1 — [Lesson 4: Defining Impact, Learning Outcomes, and Alignment](../part-1/lesson-4.md#in-practice)"
 ---
 
-# Template 6: Alignment Table
-
 {% include "activity_header.md" %}
 
 ---

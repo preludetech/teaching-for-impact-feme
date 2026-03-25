@@ -15,8 +15,6 @@ guiding_questions:
   - Will this work in my context (time, resources, group)?
 ---
 
-# 6. Designing Learning Experiences for Participation and Co-Creation
-
 {% include "lesson_header.md" %}
 
 ## Why this matters

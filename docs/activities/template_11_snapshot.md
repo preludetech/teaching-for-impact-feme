@@ -3,8 +3,6 @@ used_in:
 - "[TODO: add lesson links]"
 ---
 
-# Template 11: Training Design Snapshot
-
 {% include "activity_header.md" %}
 
 ---

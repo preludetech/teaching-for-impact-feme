@@ -13,8 +13,6 @@ guiding_questions:
   - How will you make sure participants have real influence, not just provide input?
 ---
 
-# 5. Co-design and Constraints
-
 {% include "lesson_header.md" %}
 
 ## Why this matters

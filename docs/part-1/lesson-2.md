@@ -13,8 +13,6 @@ guiding_questions:
   - How can you incorporate lived experience and local knowledge?
 ---
 
-# 2. Understanding Your Learners, Contexts, and Knowledge Systems
-
 {% include "lesson_header.md" %}
 
 ## Why this matters

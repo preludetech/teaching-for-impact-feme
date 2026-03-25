@@ -13,8 +13,6 @@ guiding_questions:
   - How do your role and positionality influence the design and delivery of this training?
 ---
 
-# 1. Getting Started: Training as Intervention and System
-
 {% include "lesson_header.md" %}
 
 ## Why this matters

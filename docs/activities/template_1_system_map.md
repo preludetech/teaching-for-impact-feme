@@ -3,8 +3,6 @@ used_in:
 - "Part 1 — [Lesson 1: Training as Intervention and System](../part-1/lesson-1.md#in-practice)"
 ---
 
-# Template 1: System Map
-
 {% include "activity_header.md" %}
 
 ## Instructions

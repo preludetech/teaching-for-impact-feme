@@ -3,8 +3,6 @@ used_in:
 - "Part 1 — [Lesson 5: Co-Design and Constraints](../part-1/lesson-5.md#in-practice)"
 ---
 
-# Template 7: Co-Design Plan
-
 {% include "activity_header.md" %}
 
 ---

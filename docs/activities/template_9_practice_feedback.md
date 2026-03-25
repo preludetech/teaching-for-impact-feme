@@ -3,8 +3,6 @@ used_in:
 - "Part 1 — [Lesson 7: Practice, Feedback, and Iteration](../part-1/lesson-7.md#in-practice)"
 ---
 
-# Template 9: Practice & Feedback Plan
-
 {% include "activity_header.md" %}
 
 ---

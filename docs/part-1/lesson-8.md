@@ -13,8 +13,6 @@ guiding_questions:
   - What evidence will you collect, and how will it help you improve your training?
 ---
 
-# 8. Assessment and Evaluation for Learning and Impact
-
 {% include "lesson_header.md" %}
 
 ## Why this matters

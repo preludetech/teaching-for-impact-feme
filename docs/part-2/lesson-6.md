@@ -13,8 +13,6 @@ guiding_questions:
   - When should you update, maintain, or stop maintaining materials?
 ---
 
-# Lesson 6 — Sustaining and Improving Open Educational Resources
-
 {% include "lesson_header.md" %}
 
 ## Why this matters

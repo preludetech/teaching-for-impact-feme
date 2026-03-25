@@ -3,8 +3,6 @@ used_in:
 - "Part 1 — [Lesson 6: Designing Learning Experiences for Participation and Co-Creation](../part-1/lesson-6.md#in-practice)"
 ---
 
-# Template 8: Learning Activity Design
-
 {% include "activity_header.md" %}
 
 ---

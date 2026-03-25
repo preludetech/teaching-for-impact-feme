@@ -8,8 +8,6 @@ used_in:
 - "Part 2 — [Lesson 6: Sustaining and Improving OER](../part-2/lesson-6.md)"
 ---
 
-# Template 12: OER Workflow
-
 {% include "activity_header.md" %}
 
 ---

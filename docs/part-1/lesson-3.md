@@ -13,8 +13,6 @@ guiding_questions:
   - How will you incorporate social learning and collaboration?
 ---
 
-# 3. How People Learn: Cognitive, Social, and Contextual Perspectives
-
 {% include "lesson_header.md" %}
 
 ## Why this matters

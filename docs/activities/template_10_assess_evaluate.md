@@ -3,8 +3,6 @@ used_in:
 - "Part 1 — [Lesson 8: Assessment and Evaluation for Learning and Impact](../part-1/lesson-8.md#in-practice)"
 ---
 
-# Template 10: Assessment & Evaluation Plan
-
 {% include "activity_header.md" %}
 
 ---
