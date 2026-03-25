@@ -77,6 +77,8 @@ markdown_extensions:
 plugins:
   - glightbox
   - search
+  - macros:
+      include_dir: includes
 
 
 extra:

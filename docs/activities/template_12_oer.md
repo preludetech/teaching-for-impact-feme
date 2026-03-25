@@ -1,14 +1,16 @@
-# Template 12: OER Workflow 
+---
+used_in:
+- "Part 2 — [Lesson 1: Designing for Openness](../part-2/lesson-1.md)"
+- "Part 2 — [Lesson 2: Finding and Evaluating Existing OER](../part-2/lesson-2.md)"
+- "Part 2 — [Lesson 3: What Makes Resources Open?](../part-2/lesson-3.md)"
+- "Part 2 — [Lesson 4: Adapting, Remixing, and Localising OER](../part-2/lesson-4.md)"
+- "Part 2 — [Lesson 5: Sharing and Publishing OER](../part-2/lesson-5.md)"
+- "Part 2 — [Lesson 6: Sustaining and Improving OER](../part-2/lesson-6.md)"
+---
 
-!!! info "How to use this template"
-    This template supports an **iterative workflow** across Module 2.  
-    You will not complete everything at once. Instead, you will:
-    
-    - start with a specific resource or part of your training  
-    - build and refine this template across lessons  
-    - revisit and improve earlier sections as your design evolves  
+# Template 12: OER Workflow
 
-    Treat this as a **living document**, not a one-time activity.
+{% include "activity_header.md" %}
 
 ---
 

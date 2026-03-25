@@ -1,17 +1,5 @@
----
-used_in:
-- "Part 1 — [Lesson 1: Training as Intervention and System](../part-1/lesson-1.md#in-practice)"
----
 
 # Template 1: System Map
-
-{% include "activity_header.md" %}
-
-## Instructions
-
-In this exercise, you'll consider the larger system in which your training exists. 
-
-[download template](../downloads/template_1_system_map.docx)
 
 
 ### Your training

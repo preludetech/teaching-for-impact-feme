@@ -38,7 +38,10 @@ jobs:
             mkdocs-material-
 
       - name: Install dependencies
-        run: pip install mkdocs-material mkdocs-glightbox
+        run: pip install mkdocs-material mkdocs-glightbox mkdocs-macros-plugin python-md2docx w3lib beautifulsoup4
+
+      - name: Build downloadable templates
+        run: python scripts/build_downloads.py
 
       - name: Deploy
         run: mkdocs gh-deploy --force
