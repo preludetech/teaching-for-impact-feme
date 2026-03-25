@@ -32,22 +32,25 @@ As a result, participants may engage with training but struggle to apply what th
 **Outputs, outcomes, and impact (from Theory of Change)**  
 Outputs are immediate products of training, such as worksheets, discussions, or completed tasks. Outcomes are what learners do differently after the training in their real-world context. Impact is the longer-term change that results.
 
-In this section, we focus specifically on **learning outcomes**—what participants should be able to do by the end of the training—which contribute to these broader outcomes.
+In this section, we focus specifically on **learning outcomes**—what participants should be able to do by the end of the training. These are not the same as the outcomes in a theory of change, which describe changes in behaviour or practice after the training. Learning outcomes are scoped to the training itself: they describe what learners should be able to do by the end of a session or course, and they contribute to the broader outcomes defined in your theory of change.
+
+!!! example
+    A theory of change outcome might be: "Community health workers routinely use data to prioritise household visits." A learning outcome for the training that supports this might be: "Use data to identify and prioritise households for follow-up visits." The learning outcome is what participants practise and demonstrate during the training; the theory of change outcome is the change you hope to see afterwards.
 
 **Backward design**  
 Building on the theory of change, backward design applies the same logic at the level of training design.
 
-Instead of starting with content, start with what learners should be able to do, then define how you will recognise that, and then design activities to support it.
+Instead of starting with content, start with what learners should be able to do, then define how you will recognise that, and then design activities and instruction to support it.
 
 Backward design follows a simple sequence:
 
-- Learning outcomes → Evidence → Activities
+- Learning outcomes → Evidence → Activities and content
 
-Evidence helps you judge whether learners have achieved the intended learning outcomes. This can be captured in different ways, including assessment, where learners demonstrate what they can do. You will develop assessment in more detail in later sections.
+Evidence helps you judge whether learners have achieved the intended learning outcomes. This can be captured in different ways, including assessment, where learners demonstrate what they can do. We will cover assessment in more detail in later sections.
 
-Content is developed after activities have been designed, to support those activities.
+Content and activities are then planned together: you identify what knowledge and skills learners need, and design activities and supporting content to deliver them.
 
-It keeps design focused on what matters.
+This keeps design focused on what matters.
 
 **Constructive alignment**  
 Alignment means your learning outcomes, activities, and assessment support each other. Learners should practise what they are expected to do, and assessment should reflect that same capability.
@@ -61,16 +64,15 @@ Effective training design involves four key elements. This section focuses on ho
 - **Activities** — how learners will practise and apply skills  
 - **Content** — the information and resources that support learning  
 
-These elements are connected, but they do not have equal roles. Activities are the bridge between learning outcomes and assessment: they are where learning is practised and made visible.
+These elements are connected, but they do not have equal roles. Activities are where learning is practised and made visible, and are supported by content. 
 
 ### Design order (how you plan)
 
 When designing training, follow this sequence:
 
-1. **Define learning outcomes**  
-2. **Decide what evidence will demonstrate success**  
-3. **Design activities that enable learners to achieve those outcomes**  
-4. **Develop content that supports those activities**
+1. **Define learning outcomes**
+2. **Decide what evidence will demonstrate success**
+3. **Design activities and develop supporting content** — identify what learners need to know and do, then plan activities and content together to deliver that
 
 This helps ensure that everything in your training serves a clear purpose.
 
@@ -79,7 +81,7 @@ This helps ensure that everything in your training serves a clear purpose.
 During the training, learners typically experience:
 
 - content (input)
-- activities (practice)
+- activities (practice and demonstration)
 - assessment (demonstration)
 
 This means the design process works in the opposite direction to the learning experience.
@@ -100,7 +102,7 @@ Strong learning outcomes are:
 
 - observable
 - action-oriented
-- relevant to real-world use
+- contextually relevant — they reflect what learners actually need to do, the conditions they work within, and the decisions they are likely to face
 
 For example:
 
@@ -118,59 +120,41 @@ Ask:
 
 Keep this manageable. Two or three clear indicators are enough.
 
-### Step 3 — Design aligned activities
+### Step 3 — Design activities and develop supporting content
 
-For each learning outcome, design activities where learners can:
+For each learning outcome, identify what knowledge and skills learners will need, then plan activities and content together:
 
-- practise the skill
-- apply knowledge
-- receive feedback
+- What do learners need to know or be able to do?
+- What activities will let them practise, apply, and receive feedback?
+- What content (explanations, examples, demonstrations, resources) do they need to participate in those activities?
 
-### Step 4 — Develop supporting content
+Avoid creating content that is not directly related to an outcome, or used in an activity. If you give a learner information then that doesn't necessarily mean they will be able to apply the information. 
 
-Once activities are defined, identify and create only the content needed to support those activities.
-
-This may include:
-
-- explanations
-- examples
-- demonstrations
-- resources
-
-Avoid creating content that is not directly used in an activity.
-
-### Step 5 — Check and refine alignment
+### Step 4 — Check and refine alignment
 
 Review and revise your design (this will be iterative across later sections):
 
 - What is taught but not practised?
 - What is practised but not assessed?
 - Which activities do not contribute to learning outcomes?
-
-### Step 6 — Ensure contextual relevance
-
-Make sure learning outcomes reflect:
-
-- what learners actually need to do
-- the conditions they work within
-- the decisions they are likely to face
-
-### Decision point
-
-> How specific and practice-oriented will your learning outcomes be?
-
-- Broad and general
-- Moderately specific
-- Clear, observable, and linked to practice
-
-Your choice will affect the quality of your activities, assessment, and evaluation.
+- Can some activities count as evidence?
+- Does the evidence match the depth of the outcome? (eg, if an outcome expects the learner to apply a skill, does the assessment go beyond checking memorisation?)
 
 ## Example
 
-- **Context:** A team wants to train participants on climate data interpretation.
-- **Decision:** Should the main learning outcome be “understand climate data” or something more specific?
-- **Action:** They rewrite the outcome as “interpret a local dataset to identify two practical risks and explain them to a non-specialist audience.” They then define evidence, design a matching activity, and remove unrelated content.
-- **Outcome:** The training becomes clearer, more practical, and easier to assess.
+A team wants to train participants on climate data interpretation. Their initial learning outcome is “understand climate data.”
+
+**Step 1 — Define intended learning outcomes**
+They rewrite the outcome to be observable and action-oriented: “Interpret a local climate dataset to identify two practical risks and explain them to a non-specialist audience.”
+
+**Step 2 — Define evidence of success**
+They ask: what would demonstrate that learners have achieved this? They decide that participants should produce a short briefing (written or verbal) that identifies two risks from the dataset and explains them in non-technical language.
+
+**Step 3 — Design activities and develop supporting content**
+They design an activity where small groups analyse a sample dataset and prepare a briefing for a community audience. To support this, they develop content covering how to read the dataset, what counts as a practical risk, and how to communicate findings without jargon.
+
+**Step 4 — Check and refine alignment**
+They review the design and notice they had originally planned a lecture on global climate trends. This content is not used in the activity and does not support the learning outcome, so they remove it. They also confirm that the briefing activity can double as evidence of success, keeping assessment manageable.
 
 ## In practice
 
