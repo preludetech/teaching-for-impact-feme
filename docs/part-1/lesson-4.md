@@ -145,7 +145,7 @@ Review and revise your design (this will be iterative across later sections):
 A team wants to train participants on climate data interpretation. Their initial learning outcome is “understand climate data.”
 
 **Step 1 — Define intended learning outcomes**
-They rewrite the outcome to be observable and action-oriented: “Interpret a local climate dataset to identify two practical risks and explain them to a non-specialist audience.”
+They rewrite the outcome to be observable and action-oriented: “Interpret a local climate dataset to identify practical risks and explain them to a non-specialist audience.”
 
 **Step 2 — Define evidence of success**
 They ask: what would demonstrate that learners have achieved this? They decide that participants should produce a short briefing (written or verbal) that identifies two risks from the dataset and explains them in non-technical language.

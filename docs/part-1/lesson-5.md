@@ -91,6 +91,8 @@ Be clear about what kind of participation you are offering, and avoid presenting
 
 ## Practical guidance
 
+The more feedback you can get on your training the better. Sometimes it is possible to completely co-design with your learners, and sometimes you can only get feedback later on. The main thing is to try to find opportunities to validate your training with the people who will use it.
+
 ### Step 1 — Identify who is shaping the training
 
 Clarify:
@@ -118,7 +120,7 @@ Use manageable approaches such as:
 - example gathering
 - feedback on draft activities
 - in-session adaptation based on participant input
-- use participant input to surface constraints you may not have identified
+- participant input to surface constraints you may not have identified
 
 ### Step 4 — Make trade-offs explicit
 
@@ -136,22 +138,16 @@ Check that participants:
 - are not only providing unpaid input with no visible effect
 - see how their knowledge is used in the design
 
-### Decision point
-
-> How much influence will participants have in shaping your training?
-
-- Minimal input
-- Moderate input
-- Strong co-design
-
-Your choice will influence relevance, trust, and long-term usefulness.
 
 ## Example
 
-- **Context:** A team is designing training for local organisations with very different levels of digital access.
-- **Decision:** Should they finalise the training before speaking to participants, or involve them first?
-- **Action:** They run short pre-session conversations, ask participants what examples are most relevant, and identify where offline options are needed. They cut some planned content to make room for locally relevant material.
-- **Outcome:** The training becomes more realistic, more trusted, and easier for participants to use.
+A team is designing training for local organisations with very different levels of digital access.
+
+1. **Identify who is shaping the training:** The team recognises that all design decisions are currently being made internally. They identify community coordinators and a few experienced participants who should have input into the training focus and format.
+2. **Identify key constraints:** They map out that some organisations have limited internet access, sessions need to fit into existing meeting schedules, and participants speak a mix of languages. Funding limits the number of sessions they can run.
+3. **Design with participants:** They run short pre-session conversations with coordinators and a sample of participants. They ask what topics matter most, gather locally relevant examples, and learn where offline options are needed.
+4. **Make trade-offs explicit:** Based on what they learn, they cut some planned content to make room for participant-suggested material. They choose to prioritise depth on two high-relevance topics rather than covering five at surface level.
+5. **Ensure participation is meaningful:** They share a summary of how participant input shaped the final design, so contributors can see the effect of their involvement. Coordinators are credited and invited to co-facilitate parts of the training.
 
 ## In practice
 
