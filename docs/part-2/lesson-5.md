@@ -147,7 +147,7 @@ This helps others quickly decide whether your materials are relevant and worth u
 
 ## In practice
 
-👉 Use [Activity 12: OER Workflow](../activities/activity_12_oer.md)
+👉 Use [Activity 14: OER Workflow](../activities/activity_14_oer.md)
 
 Focus on:
 

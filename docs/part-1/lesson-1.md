@@ -2,15 +2,9 @@
 learning_outcomes:
   - Describe training as an intervention within a broader system
   - Identify key elements of the system your training operates in (actors, resources, constraints, influences)
-  - Articulate a simple theory of change linking activities to outcomes and impact
-  - Analyse how context, power, and positionality influence training design and outcomes
-  - Identify key assumptions and risks that may affect the success of your training
 guiding_questions:
   - What system does your training sit within, and who are the key actors?
-  - What change are you trying to contribute to, and how will training support that?
-  - What assumptions are you making about how change will happen?
   - What factors outside your control could affect success?
-  - How do your role and positionality influence the design and delivery of this training?
 ---
 
 {% include "lesson_header.md" %}
@@ -54,53 +48,6 @@ Look for three things in particular:
 
 ![Training as intervention and system](../assets/images/lesson-visual-aids/tfi-systems-intervention_v2.svg)
 
-## From system to theory of change
-
-Once you understand the system, the next question is: *how does your training lead to change within it?*
-
-A Theory of Change is a simple, honest account of the logic connecting what you do to the impact you hope for. It makes your assumptions visible — which is exactly the point. Hidden assumptions are where training designs quietly fail.
-
-The basic structure looks like this:
-
-```mermaid
-flowchart LR
-    A["<strong>Inputs</strong><br/>what you bring"] --> B["<strong>Activities</strong><br/>what happens<br/>during training"] --> C["<strong>Outputs</strong><br/>what participants<br/>produce or complete"] --> D["<strong>Outcomes</strong><br/>what changes in their<br/>behaviour or practice"] --> E["<strong>Impact</strong><br/>the broader change<br/>this contributes to"]
-```
-
-<!-- This chain is deliberately simplified. Lesson 8 revisits assessment of outcomes in more depth, and Part 2 covers activity design. Here we just need readers to grasp the system-level logic. -->
-
-### Building yours step by step
-
-Start from the right side of the chain, not the left. Begin with the impact you hope to contribute to, then work backwards. This keeps you honest — it's easy to list activities you enjoy delivering, but harder to explain exactly how they lead to real-world change.
-
-For each link in the chain, ask: *What has to be true for this step to lead to the next?* Those are your assumptions. Write them down. For example, if your chain says "participants learn data analysis skills → they apply those skills at work," you're assuming they have access to relevant data, that their managers support new approaches, and that they have time to practice. Each assumption is a potential point of failure.
-
-!!! example "A Theory of Change in action"
-    A university team designs a two-day workshop on open research practices for early-career researchers. Their chain: **Inputs** (facilitators, case studies, institutional buy-in) → **Activities** (hands-on sessions with open-access tools) → **Outputs** (participants publish one dataset openly) → **Outcomes** (researchers adopt open practices in their ongoing work) → **Impact** (increased transparency in regional research output).
-
-    Their key assumption? That participants' departments won't penalise them for spending time on open practices instead of traditional publication metrics. When they surface this assumption, they realise they need to involve department heads *before* the workshop — not after.
-
-![Theory of change](../assets/images/lesson-visual-aids/tfi-theory-of-change-v3.svg)
-
-You'll return to your Theory of Change throughout this workbook — refining it as you define learning outcomes in Lesson 3, design activities in Part 2, and think about assessment in Lesson 8. Treat it as a living document, not a one-off exercise.
-
-## Your role in the system
-
-Training is not neutral. The choices you make as a designer — what to include, whose examples to use, what counts as "good" performance — reflect your position, your background, and your assumptions about what matters.
-
-This isn't a problem to solve; it's a reality to be aware of. Consider the difference between these roles:
-
-| Role | What it looks like | When it fits |
-|---|---|---|
-| **Instructor** | You set the agenda, deliver content, assess outcomes | When learners need specific technical skills and you have clear expertise |
-| **Facilitator** | You guide discussion and create conditions for learning, but participants drive the content | When learners have significant existing knowledge or the topic requires local adaptation |
-| **Co-designer** | You build the training *with* participants, not just *for* them | When power dynamics matter, when local context is essential, or when you're an outsider to the community |
-
-Most real training involves a mix of these roles. The key is to choose deliberately rather than defaulting to "instructor" because it's familiar.
-
-!!! question "Pause and reflect"
-    Think about a training you've delivered or are planning. What role did you (or would you) naturally take? Who decided the content, the format, the success criteria — and who was left out of those decisions?
-
 ## A worked example: climate data training
 
 A team at an environmental research institute is asked to design training on climate data analysis for community organisers across three rural districts. The organisers work for local NGOs and have strong relationships with farming communities, but limited experience with data tools.
@@ -117,11 +64,9 @@ Notice what made this work: not better content, but better understanding of the 
 
 ## In practice
 
-You've now seen how system mapping and a Theory of Change work together to shape training design. It's time to apply these ideas to your own context.
+You've seen how system mapping works to reveal the conditions your training operates in. It's time to apply this to your own context.
 
 👉 [Activity 1: System Map](../activities/activity_1_system_map.md) — Map the actors, resources, constraints, and relationships that surround your training. This gives you the foundation for every design decision that follows.
-
-👉 [Activity 2: Theory of Change](../activities/activity_2_theory_of_change.md) — Build the logical chain from what you do to the impact you hope for, and surface the assumptions hiding in that chain.
 
 ## Key takeaways
 
@@ -133,11 +78,10 @@ You've now seen how system mapping and a Theory of Change work together to shape
 You should now have:
 
 - a system map showing the actors, resources, constraints, and relationships around your training
-- a draft Theory of Change with assumptions made visible
-- a deliberate choice about your role (instructor, facilitator, co-designer, or a mix)
+- at least one cluster, gatekeeper, or missing connection you hadn't previously considered
 
-!!! tip "These are living documents"
-    Nothing here needs to be final. Training design is iterative — your system map, Theory of Change, and role will all evolve as you work through the rest of this workbook and as you learn more about your learners. Revisit and rework these outputs whenever your thinking shifts.
+!!! tip "This is a living document"
+    Your system map will evolve as you work through the rest of this workbook — especially when you analyse your learners in Lesson 3 and revisit constraints in Lesson 6. Rework it whenever your thinking shifts.
 
 ## Further reading (optional)
 
@@ -145,13 +89,3 @@ You should now have:
   → Supports: systems thinking and understanding training as part of a broader system
   → Why it matters: provides practical tools for mapping actors, constraints, and system dynamics — directly applicable to the system mapping method in this lesson
   → Source: [https://donellameadows.org/archives/thinking-in-systems-a-primer/](https://donellameadows.org/archives/thinking-in-systems-a-primer/)
-
-- Weiss, C. (1995) — *Nothing as Practical as Good Theory: Exploring Theory-Based Evaluation for Comprehensive Community Initiatives*
-  → Supports: Theory of Change linking activities to outcomes and impact
-  → Why it matters: explains how making assumptions explicit improves programme design and evaluation
-  → Source: [https://www.jstor.org/stable/10.2307/1349159](https://www.jstor.org/stable/10.2307/1349159)
-
-- Freire, P. (1970) — *Pedagogy of the Oppressed*
-  → Supports: positionality, power, and the non-neutrality of education
-  → Why it matters: highlights how power relations shape participation and knowledge in learning environments
-  → Source: [https://www.penguinrandomhouse.com/books/112874/pedagogy-of-the-oppressed-by-paulo-freire/](https://www.penguinrandomhouse.com/books/112874/pedagogy-of-the-oppressed-by-paulo-freire/)

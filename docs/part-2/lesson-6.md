@@ -163,7 +163,7 @@ All of these are valid outcomes. This step helps you decide what to do next.
 
 ## In practice
 
-👉 Use [Activity 12: OER Workflow](../activities/activity_12_oer.md)
+👉 Use [Activity 14: OER Workflow](../activities/activity_14_oer.md)
 
 Focus on:
 
@@ -180,7 +180,7 @@ Include:
 
 ---
 
-👉 Revisit [Activity 12: OER Workflow](../activities/activity_12_oer.md)
+👉 Revisit [Activity 14: OER Workflow](../activities/activity_14_oer.md)
 
 Focus on:
 

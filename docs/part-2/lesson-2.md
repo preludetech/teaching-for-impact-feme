@@ -146,7 +146,7 @@ There is no single correct choice. The goal is to make a decision that is **real
 
 ## In practice
 
-👉 Use [Activity 12: OER Workflow](../activities/activity_12_oer.md)
+👉 Use [Activity 14: OER Workflow](../activities/activity_14_oer.md)
 
 Include:
 

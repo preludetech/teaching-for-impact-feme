@@ -151,7 +151,7 @@ Coherence does not need to be perfect — it needs to be workable in your contex
 
 ## In practice
 
-👉 Use [Activity 12: OER Workflow](../activities/activity_12_oer.md)
+👉 Use [Activity 14: OER Workflow](../activities/activity_14_oer.md)
 
 Focus on:
 

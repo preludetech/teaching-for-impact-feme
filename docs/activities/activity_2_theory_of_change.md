@@ -1,6 +1,6 @@
 ---
 used_in:
-- "Part 1 — [Lesson 1: Training as Intervention and System](../part-1/lesson-1.md#in-practice)"
+- "Part 1 — [Lesson 2: Theory of Change, Positionality, and Your Role](../part-1/lesson-2.md#in-practice)"
 what_to_do: "Build the logical chain from your training inputs to real-world impact, and surface the assumptions hiding at each link"
 expected_output: "A one-page Theory of Change with a completed chain and documented assumptions"
 approximate_time: "20–30 minutes"
