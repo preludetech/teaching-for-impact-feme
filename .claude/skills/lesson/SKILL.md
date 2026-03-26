@@ -146,6 +146,8 @@ Don't force references where they don't serve the reader.
 
 # Formatting (Material for MkDocs)
 
+**Straight quotes only in MkDocs syntax.** Admonition titles, Jinja `{% include %}` tags, and any other MkDocs/template syntax must use straight double quotes (`"`, U+0022), never directional/curly quotes (`"` `"`, U+201C/U+201D). Curly quotes silently break rendering. Curly quotes are fine in body prose — this rule applies only to syntax.
+
 **Admonitions** — use these to break up the flow of content and draw attention to specific kinds of information. Each type has a distinct purpose:
 
 - `!!! abstract "Title"` — **Key concept or definition.** Use when introducing a core idea that the reader needs to hold onto. Good for the one-sentence version of a concept before the fuller explanation.
