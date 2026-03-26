@@ -10,47 +10,113 @@ approximate_time: "20–30 minutes"
 
 ## Instructions
 
-In this exercise, you'll consider the larger system in which your training exists. 
+Before you design content, you need to understand the system your training operates in. In this activity, you'll map the people, resources, relationships, and constraints that determine whether your training leads to real change. The goal is a concrete map you can refer back to throughout this workbook — not a polished diagram, but a working picture of where your training sits.
 
+## Build your system map
 
+### Step 1: Place your training at the centre
 
-### Your training
+Start a new page — paper or digital, whichever you'll actually use. Place your training in the middle.
 
-- What is the training called? If it does not yet have a title, leave this out
-- What does your training aim to do?
+- **Title:** (if it has one — skip this if you haven't named it yet)
+- **Aim:** What does this training aim to do? One or two sentences.
 
-### System mapping
+---
 
-List key elements:
+### Step 2: Map the actors
 
-**Actors**
+Around your training, add every person, group, or organisation that affects whether it succeeds. Go beyond the people in the room.
 
-- Who is involved? (learners, trainers, institutions, funders, communities)
+| Actor | Role in relation to your training |
+|---|---|
+| *e.g. learners* | *Participate directly* |
+| *e.g. learners' line managers* | *Decide whether learners can attend and apply what they learn* |
+| *e.g. funding body* | *Sets reporting requirements and timeline* |
+| | |
+| | |
+| | |
 
-**Resources**
+Push further: Who influences your learners *after* they leave the training? Who controls resources your training depends on? Who benefits from the status quo and might resist change?
 
-- What resources are used? (time, tools, data, funding)
-- What resources are lacking? 
+---
 
-**Wider system influences**
+### Step 3: Map resources and constraints
 
-- What else affects outcomes? (context, policy, infrastructure, culture)
+What does your training depend on, and where are the gaps?
 
-### Reality check
+| Resource | Available? | Constraint or gap |
+|---|---|---|
+| *e.g. reliable internet* | *Partially — not in all training venues* | *Limits use of cloud-based tools* |
+| *e.g. time for practice* | *No — sessions are back-to-back* | *Learners can't apply skills during training* |
+| | | |
+| | | |
+| | | |
 
-- What assumptions are you making about this system?
-- Where are the biggest risks or uncertainties?
+Include material resources (funding, tools, venues), time, expertise, and institutional support.
 
-### Translation to your learners
+---
 
-- How does this system reflect your learners’ real context?
-- What factors matter most for them?
+### Step 4: Draw the relationships
 
-### Context check
+This is where your map becomes more than a list. Draw lines between actors and resources to show how they connect.
 
-- What constraints affect this system?
-- What is outside your control?
+For each relationship, consider:
 
-### Reflection
+- **Direction** — who depends on whom? (Draw an arrow.)
+- **What flows** — information, funding, authority, support?
+- **Strength** — is this connection reliable, or fragile?
 
-- What did you discover about where your training sits in a broader system? 
+You don't need a formal notation. Lines, arrows, and short labels are enough.
+
+---
+
+### Step 5: Look for patterns
+
+Review your map and mark the following:
+
+- **Clusters** — where do multiple actors depend on the same resource or person? These are fragile points. If that one person or resource disappears, what breaks?
+- **Gatekeepers** — who sits between your training and its intended impact? A manager who won't release staff. A policy that blocks learners from applying new methods. An ethics board that slows things down.
+- **Missing connections** — which actors *should* be linked but aren't? If your training produces skilled people but nobody connects them to opportunities to use those skills, the chain breaks.
+
+Write down at least one example of each. If you can't find any, push your map outward — you probably haven't mapped far enough beyond the training room.
+
+---
+
+### If you already have a training
+
+You have the advantage of experience. Map what you already know, then challenge yourself:
+
+- Add at least two actors you haven't considered before — people who affect outcomes but aren't directly involved in delivery.
+- Look at your constraints column: which ones have you been designing around without questioning? Are any of them assumptions rather than facts?
+
+### If you are creating a new training
+
+You're working with less certainty, which makes mapping even more useful.
+
+- Start from your intended aim. Who needs to be involved for that aim to be realistic? Add them as actors.
+- Think about where your learners will go *after* the training. Who or what will they encounter when they try to apply what they've learned? Add those actors too.
+- For resources, be honest about what you don't yet know. Mark anything uncertain with a question mark — these are things to investigate before you design further.
+
+---
+
+## Context check
+
+Look at your completed map and identify:
+
+- What external factors (policy, infrastructure, culture, institutional norms) shape this system but are outside your control?
+- Which constraints are fixed, and which might be negotiable if you involve the right people?
+
+---
+
+## Reflection
+
+- What did mapping the system reveal that you hadn't considered before?
+
+---
+
+## Reuse in later sections
+
+Your system map feeds directly into:
+
+- [Activity 2: Theory of Change](../activities/activity_2_theory_of_change.md), where you'll trace how your training leads to change *within* this system
+- [Activity 7: Co-Design](../activities/activity_7_co_design.md), where you'll decide which actors to involve in shaping the training itself
