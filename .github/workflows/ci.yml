@@ -40,7 +40,7 @@ jobs:
       - name: Install dependencies
         run: pip install mkdocs-material mkdocs-glightbox mkdocs-macros-plugin python-md2docx w3lib beautifulsoup4
 
-      - name: Build downloadable templates
+      - name: Build downloadable activities
         run: python scripts/build_downloads.py
 
       - name: Deploy

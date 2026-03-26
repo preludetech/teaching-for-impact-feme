@@ -114,9 +114,9 @@ Your choice will influence retention, confidence, and transfer into practice.
 
 ## In practice
 
-👉 Use [Template 4: Learner Experience Audit](../activities/template_4_learner_exp_audit.md)
+👉 Use [Activity 4: Learner Experience Audit](../activities/activity_4_learner_exp_audit.md)
 
-👉 Revisit [Template 3: Learner Reality Mapping](../activities/template_3_learner_reality.md)
+👉 Revisit [Activity 3: Learner Reality Mapping](../activities/activity_3_learner_reality.md)
 
 - **what to do:** Use your learner realities to identify where overload, confusion, or disengagement may occur
 - **expected output:** Notes on how learner constraints affect learning design decisions

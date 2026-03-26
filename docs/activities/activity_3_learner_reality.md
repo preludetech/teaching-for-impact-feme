@@ -15,8 +15,8 @@ approximate_time: "20–30 minutes"
 Understand your learners as they really are, not as you assume. This will inform your later training design decisions.
 
 ### You will use
-- Your system map from Template 1
-- Use 1 system constraint or influence from Template 1
+- Your system map from Activity 1
+- Use 1 system constraint or influence from Activity 1
 
 ### If you already have a training (recommended)
 
@@ -50,7 +50,7 @@ Understand your learners as they really are, not as you assume. This will inform
 #### Barriers
 
 - What prevents participation or success?
-- Use 1 system constraint from Template 1
+- Use 1 system constraint from Activity 1
 
 ### Reflection
 
@@ -80,7 +80,7 @@ Define your learners using the same categories above.
 - v0 = draft
 - v1 = revised
 - v2 = final
-- Update previous templates if needed
+- Update previous activities if needed
 
 ---
 

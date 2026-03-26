@@ -125,9 +125,9 @@ Your choice affects how well you can understand learning and improve the trainin
 
 ## In practice
 
-👉 Use [Template 10: Assessment & Evaluation Plan](../activities/template10_assess_evaluate.md)
+👉 Use [Activity 10: Assessment & Evaluation Plan](../activities/activity_10_assess_evaluate.md)
 
-👉 Revisit [Template 6: Alignment Table](../activities/template_6_alignment.md)
+👉 Revisit [Activity 6: Alignment Table](../activities/activity_6_alignment.md)
 
 - **what to do:** Check that each assessment method reflects the intended outcome
 - **expected output:** A refined alignment between outcomes and assessment

@@ -47,9 +47,9 @@ def convert_file(source: Path, output: Path) -> None:
 def main() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    sources = sorted(DOWNLOAD_SOURCES.glob("template_*.md"))
+    sources = sorted(DOWNLOAD_SOURCES.glob("activity_*.md"))
     if not sources:
-        print("No activity template files found.")
+        print("No activity files found.")
         return
 
     print(f"Converting {len(sources)} file(s):")

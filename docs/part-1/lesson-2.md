@@ -123,7 +123,7 @@ Your answer will shape your content, format, pace, and delivery choices.
 
 ## In practice
 
-👉 Use [Template 3: Learner Reality Mapping](../activities/template_3_learner_reality.md)
+👉 Use [Activity 3: Learner Reality Mapping](../activities/activity_3_learner_reality.md)
 
 ## Key takeaways
 

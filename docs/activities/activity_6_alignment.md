@@ -15,8 +15,8 @@ Check that everything connects.
 Use this as an initial alignment check. You will refine this after developing activities and assessment.
 
 ### You will use
-- Your outcomes from Template 5
-- Your activity from Template 7
+- Your outcomes from Activity 5
+- Your activity from Activity 7
 
 ### Alignment mapping
 
@@ -36,7 +36,7 @@ Fill in based on what you currently do.
 - Where are mismatches?
 - What is taught but not assessed?
 - What is assessed but not taught?
-- Use 1 outcome from Template 5
+- Use 1 outcome from Activity 5
 
 ---
 
@@ -60,13 +60,13 @@ Update the table to fix alignment issues.
 - v0 = draft
 - v1 = revised
 - v2 = final
-- Update previous templates if needed
+- Update previous activities if needed
 
 ---
 
 ### Reuse in later sections
-- Template 8 (Evaluation Plan)
-- Template 9 (Training Snapshot)
+- Activity 8 (Evaluation Plan)
+- Activity 9 (Training Snapshot)
 
 ---
 

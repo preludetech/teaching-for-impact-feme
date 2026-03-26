@@ -146,11 +146,11 @@ Your choice will influence clarity, engagement, and learning quality.
 
 ## In practice
 
-👉 Use [Template 8: Learning Activity Design](../activities/template_8_activity_design.md)
+👉 Use [Activity 8: Learning Activity Design](../activities/activity_8_activity_design.md)
 
 ---
 
-👉 Revisit [Template 9: Practice & Feedback Plan](../activities/template_9_practice_feedback.md)
+👉 Revisit [Activity 9: Practice & Feedback Plan](../activities/activity_9_practice_feedback.md)
 
 - **what to do:** Identify where learners will practise, receive feedback, and improve within your activity
 - **expected output:** A clearer link between your activity and learning processes

@@ -166,9 +166,9 @@ Your choice will influence relevance, trust, and long-term usefulness.
 
 ## In practice
 
-👉 Use [Template 7: Co-Design Plan](../activities/template_7_co_design.md)
+👉 Use [Activity 7: Co-Design Plan](../activities/activity_7_co_design.md)
 
-👉 Revisit [Template 1: System Map](../activities/template_1_system_map.md)
+👉 Revisit [Activity 1: System Map](../activities/activity_1_system_map.md)
 
 - **what to do:** Add the key constraints and power dynamics affecting your training
 - **expected output:** An updated system map with clearer design implications

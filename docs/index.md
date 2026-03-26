@@ -73,7 +73,7 @@ The contents of this workbook were designed to be used:
 3. as a **practical working document**, where you actively design, test, and refine your own training materials.
 
 !!! tip
-    Use the templates and activities throughout the workbook to develop your own materials as you progress.
+    Use the activities throughout the workbook to develop your own materials as you progress.
 
 ---
 
