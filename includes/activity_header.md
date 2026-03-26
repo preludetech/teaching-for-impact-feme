@@ -1,8 +1,10 @@
 > **How to use this template**
 >
 > This template supports practical application of the concepts in your lesson.
-> Work through it step by step. Keep your answers concise and focused.
-> Return to your lesson when you are done.
+> 
+> 1. Download this activity as a docx file
+> 2. Work through the activity step by step. Keep your answers concise and focused
+> 3. Return to your lesson when you are done.
 >
 > {% if page.meta.what_to_do %}**What to do:** {{ page.meta.what_to_do }}{% endif %}
 >
