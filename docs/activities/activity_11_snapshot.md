@@ -39,11 +39,11 @@ used_in:
 
 ### Integrated design
 
-- System (from Template 1):
-- Key learner constraints (from Template 2):
-- Outcomes (from Template 5):
-- Core activity (from Template 7):
-- Evaluation approach (from Template 8):
+- System (from Activity 1):
+- Key learner constraints (from Activity 2):
+- Outcomes (from Activity 5):
+- Core activity (from Activity 7):
+- Evaluation approach (from Activity 8):
 
 ---
 
@@ -76,12 +76,12 @@ used_in:
 
 Update this snapshot as your design evolves.
 
-You may revisit earlier templates to improve alignment, activities, or evaluation before updating this summary.
+You may revisit earlier activities to improve alignment, activities, or evaluation before updating this summary.
 
 ---
 
 ### Reuse in later sections
-- Supports OER development (Template 10)
+- Supports OER development (Activity 10)
 
 ---
 

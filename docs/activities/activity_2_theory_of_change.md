@@ -14,8 +14,8 @@ approximate_time: "20–30 minutes"
 Map how your training leads to real-world impact. This will inform your later training design decisions.
 
 ### You will use
-- Your system map from Template 1
-- Use 1 learner constraint from Template 2
+- Your system map from Activity 1
+- Use 1 learner constraint from Activity 2
 
 ### If you already have a training (recommended)
 
@@ -31,7 +31,7 @@ Inputs → Activities → Outputs → Outcomes → Impact
 
 - Where is the logic unclear?
 - Where are assumptions not validated?
-- Use 1 system risk from Template 1
+- Use 1 system risk from Activity 1
 
 ---
 
@@ -65,7 +65,7 @@ Develop your theory of change from scratch.
 - v0 = draft
 - v1 = revised
 - v2 = final
-- Update previous templates if needed
+- Update previous activities if needed
 
 ---
 

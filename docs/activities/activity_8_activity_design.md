@@ -15,8 +15,8 @@ approximate_time: "20–30 minutes"
 Design or improve one key activity. You will refine this activity after defining feedback and evaluation.
 
 ### You will use
-- 1 outcome from [Template 5](../activities/template_5_learning_outcomes.md)
-- 1 learner constraint from [Template 3](../activities/template_3_learner_reality.md)
+- 1 outcome from [Activity 5](../activities/activity_5_learning_outcomes.md)
+- 1 learner constraint from [Activity 3](../activities/activity_3_learner_reality.md)
 
 ### If you already have a training (recommended)
 
@@ -31,13 +31,13 @@ Design or improve one key activity. You will refine this activity after defining
 - What works well?
 - What doesn’t work?
 - Where do learners struggle?
-- Use 1 learner constraint from Template 2
+- Use 1 learner constraint from Activity 2
 
 ---
 
 #### Redesign
 
-- Objective (use 1 outcome from Template 5):
+- Objective (use 1 outcome from Activity 5):
 - Activity steps:
 - Materials needed:
 - Time required:
@@ -56,7 +56,7 @@ Design or improve one key activity. You will refine this activity after defining
 
 ### If you are creating a new training
 
-Design one core activity using 1 outcome from Template 5.
+Design one core activity using 1 outcome from Activity 5.
 
 ---
 
@@ -76,14 +76,14 @@ Design one core activity using 1 outcome from Template 5.
 - v0 = draft
 - v1 = revised
 - v2 = final
-- Update previous templates if needed
+- Update previous activities if needed
 
 ---
 
 ### Reuse in later sections
-- [Template 6](../activities/template_6_alignment.md) (Alignment Table)
-- [Template 9](../activities/template_9_evaluation.md) (Evaluation Plan)
-- [Template 10](../activities/template_10_snapshot.md) (Training Snapshot)
+- [Activity 6](../activities/activity_6_alignment.md) (Alignment Table)
+- [Activity 9](../activities/activity_9_practice_feedback.md) (Evaluation Plan)
+- [Activity 10](../activities/activity_11_snapshot.md) (Training Snapshot)
 
 ---
 

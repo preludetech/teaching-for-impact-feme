@@ -119,9 +119,9 @@ Notice what made this work: not better content, but better understanding of the 
 
 You've now seen how system mapping and a Theory of Change work together to shape training design. It's time to apply these ideas to your own context.
 
-👉 [Activity 1: System Map](../activities/template_1_system_map.md) — Map the actors, resources, constraints, and relationships that surround your training. This gives you the foundation for every design decision that follows.
+👉 [Activity 1: System Map](../activities/activity_1_system_map.md) — Map the actors, resources, constraints, and relationships that surround your training. This gives you the foundation for every design decision that follows.
 
-👉 [Activity 2: Theory of Change](../activities/template_2_theory_of_change.md) — Build the logical chain from what you do to the impact you hope for, and surface the assumptions hiding in that chain.
+👉 [Activity 2: Theory of Change](../activities/activity_2_theory_of_change.md) — Build the logical chain from what you do to the impact you hope for, and surface the assumptions hiding in that chain.
 
 ## Key takeaways
 

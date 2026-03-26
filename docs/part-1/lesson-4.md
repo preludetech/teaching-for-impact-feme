@@ -185,11 +185,11 @@ Your choice will affect the quality of your activities, assessment, and evaluati
 
 ## In practice
 
-👉 Use [Template 5: Learning Outcomes](../activities/template_5_learning_outcomes.md)
+👉 Use [Activity 5: Learning Outcomes](../activities/activity_5_learning_outcomes.md)
 
 - **optional:** Use the [Bloom’s Taxonomy — Quick Guide](../resources/blooms_taxonomy.md) if you need help refining action verbs.
 
-👉 Use [Template 6: Alignment Table](../activities/template_6_alignment.md)
+👉 Use [Activity 6: Alignment Table](../activities/activity_6_alignment.md)
 
 This is an initial alignment check to structure your design. You will revisit and improve this as you develop activities and assessment in later sections.
 

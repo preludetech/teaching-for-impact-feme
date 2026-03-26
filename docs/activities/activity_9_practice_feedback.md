@@ -15,7 +15,7 @@ approximate_time: "20–30 minutes"
 Design how learners will practise, receive feedback, and improve within the learning process.
 
 ### You will use
-- Your outcomes from [Template 5](../activities/template_5_learning_outcomes.md)
+- Your outcomes from [Activity 5](../activities/activity_5_learning_outcomes.md)
 
 ---
 
@@ -67,14 +67,14 @@ Update the table to ensure:
 - v0 = draft  
 - v1 = revised  
 - v2 = final  
-- Update previous templates if needed  
+- Update previous activities if needed
 
 ---
 
 ### Reuse in later sections
 
-- [Template 6](../activities/template_6_alignment.md) (Alignment Table)  
-- [Template 10](../activities/template10_assess_evaluate.md) (Assessment & Evaluation Plan)  
+- [Activity 6](../activities/activity_6_alignment.md) (Alignment Table)
+- [Activity 10](../activities/activity_10_assess_evaluate.md) (Assessment & Evaluation Plan)
 
 ---
 

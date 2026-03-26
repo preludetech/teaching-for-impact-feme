@@ -15,9 +15,9 @@ approximate_time: "20–30 minutes"
 Decide who has a voice in designing this training.
 
 ### You will use
-- Your systems map from [Template 1](../activities/template_1_system_map.md)
-- Your learner analysis from [Template 3](../activities/template_3_learner_reality.md)
-- Use 1 learner group or constraint from Template 3
+- Your systems map from [Activity 1](../activities/activity_1_system_map.md)
+- Your learner analysis from [Activity 3](../activities/activity_3_learner_reality.md)
+- Use 1 learner group or constraint from Activity 3
 
 ### If you already have a training (recommended)
 
@@ -38,7 +38,7 @@ Decide who has a voice in designing this training.
 #### Gaps
 
 - Where are learners or communities excluded from decision-making?
-- Use 1 learner constraint from Template 2
+- Use 1 learner constraint from Activity 2
 
 ---
 
@@ -47,7 +47,7 @@ Decide who has a voice in designing this training.
 - What decisions can be shared?
 - How will you involve participants meaningfully?
 - What methods will you use? (workshops, feedback loops, co-creation sessions)
-- Use 1 learner group from Template 2
+- Use 1 learner group from Activity 2
 
 ---
 
@@ -73,7 +73,7 @@ Define your co-design approach from the start.
 - v0 = draft
 - v1 = revised
 - v2 = final
-- Update previous templates if needed
+- Update previous activities if needed
 
 ---
 

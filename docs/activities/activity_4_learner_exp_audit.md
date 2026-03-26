@@ -24,8 +24,8 @@ Focus on:
 
 ### You will use
 - 1 part of your training (planned or existing)
-- Your learner realities from Template 2
-- Use 1 learner constraint from Template 2
+- Your learner realities from Activity 2
+- Use 1 learner constraint from Activity 2
 
 ---
 
@@ -40,7 +40,7 @@ Focus on:
 - Where might learners feel overwhelmed?
 - What prior knowledge are you assuming?
 - Where are too many new ideas introduced at once?
-- Use 1 learner constraint from Template 2
+- Use 1 learner constraint from Activity 2
 
 ---
 
@@ -92,7 +92,7 @@ Propose:
 - v0 = draft
 - v1 = revised
 - v2 = refined
-- Update later templates if needed
+- Update later activities if needed
 
 ---
 

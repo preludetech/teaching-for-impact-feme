@@ -119,9 +119,9 @@ Your choice influences how well learning translates into real-world capability.
 
 ## In practice
 
-👉 Use [Template 9: Practice and Feedback Plan](../activities/template_9_practice_feedback.md)
+👉 Use [Activity 9: Practice and Feedback Plan](../activities/activity_9_practice_feedback.md)
 
-👉 Revisit [Template 8: Learning Activity Design](../activities/template_8_activity_design.md)
+👉 Revisit [Activity 8: Learning Activity Design](../activities/activity_8_activity_design.md)
 
 - **what to do:** Refine one activity to include practice, feedback, and at least one revision cycle
 - **expected output:** An improved activity design aligned with learning processes

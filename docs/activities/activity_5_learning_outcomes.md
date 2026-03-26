@@ -14,8 +14,8 @@ approximate_time: "15–20 minutes"
 Define what learners will be able to DO. You will refine these as you develop activities and assessment.
 
 ### You will use
-- Your theory of change from Template 4
-- Use 1 learner constraint from Template 2
+- Your theory of change from Activity 4
+- Use 1 learner constraint from Activity 2
 
 ### If you already have a training (recommended)
 
@@ -31,7 +31,7 @@ For each outcome:
 - Is it observable?
 - Is it measurable?
 - Is it realistic in your context?
-- Use 1 learner constraint from Template 2
+- Use 1 learner constraint from Activity 2
 
 ---
 
@@ -65,7 +65,7 @@ Write 3–5 learning outcomes.
 - v0 = draft
 - v1 = revised
 - v2 = final
-- Update previous templates if needed
+- Update previous activities if needed
 
 ---
 

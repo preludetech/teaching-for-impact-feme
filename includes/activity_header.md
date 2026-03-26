@@ -1,6 +1,6 @@
-> **How to use this template**
+> **How to use this activity**
 >
-> This template supports practical application of the concepts in your lesson.
+> This activity supports practical application of the concepts in your lesson.
 > 
 > 1. Download this activity as a docx file
 > 2. Work through the activity step by step. Keep your answers concise and focused
@@ -21,7 +21,7 @@
 >
 > You will typically need:
 >
-> - Outputs from earlier templates (if applicable)
+> - Outputs from earlier activities (if applicable)
 > - Notes from your current lesson
 
 {% set docx_name = page.file.src_path.split('/')[-1].replace('.md', '.docx') %}

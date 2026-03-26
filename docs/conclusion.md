@@ -71,7 +71,7 @@ You might:
 ### Next steps
 
 - **Apply the workbook in your own context**  
-  Use the templates and guidance to design or refine your training.
+  Use the activities and guidance to design or refine your training.
 
 - **Revisit and improve**  
   Return to your materials after delivery and refine them based on what you learn.

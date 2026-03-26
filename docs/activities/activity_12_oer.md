@@ -14,11 +14,11 @@ approximate_time: "20–30 minutes per section"
 {% include "activity_header.md" %}
 
 
-This template supports an **iterative workflow** across Module 2.  
+This activity supports an **iterative workflow** across Module 2.
 You will not complete everything at once. Instead, you will:
 
-- start with a specific resource or part of your training  
-- build and refine this template across lessons  
+- start with a specific resource or part of your training
+- build and refine this activity across lessons  
 - revisit and improve earlier sections as your design evolves  
 
 Treat this as a **living document**, not a one-time activity.

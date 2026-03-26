@@ -15,8 +15,8 @@ approximate_time: "20–30 minutes"
 Define how you will recognise learning and understand impact across the training.
 
 ### You will use
-- Your outcomes from Template 5
-- Your practice and feedback design from Template 7
+- Your outcomes from Activity 5
+- Your practice and feedback design from Activity 7
 
 ---
 
@@ -69,13 +69,13 @@ Update the table to ensure:
 - v0 = draft  
 - v1 = revised  
 - v2 = final  
-- Update previous templates if needed  
+- Update previous activities if needed
 
 ---
 
 ### Reuse in later sections
 
-- [Template 11](../activities/template_11_snapshot.md) (Training Snapshot)  
+- [Activity 11](../activities/activity_11_snapshot.md) (Training Snapshot)
 
 ---
 
