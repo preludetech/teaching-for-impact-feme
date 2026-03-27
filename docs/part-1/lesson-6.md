@@ -85,6 +85,16 @@ Meaningful participation requires more than good intentions. Check that:
 
 If participants contribute their expertise, local knowledge, or time to your design process, they should benefit from it. This might mean access to the finished materials, acknowledgement of their contribution, or simply a training that is genuinely more useful to them because they shaped it.
 
+!!! warning "Red flags: when participation becomes extractive"
+    Watch for these patterns in your own design process:
+
+    - You asked for input but had already finalised the design — the consultation was performative
+    - Participants contributed local knowledge that improved your training, but received no credit or access to the resulting materials
+    - You offered a choice between options that don't meaningfully differ
+    - The participation process cost participants time or effort without a clear benefit to them
+
+    If any of these apply, revisit your co-design plan.
+
 ## In practice
 
 👉 [Activity 7: Co-Design Plan](../activities/activity_7_co_design.md) — Map who should be involved in your design decisions, identify your key constraints, and plan how you will involve participants meaningfully.

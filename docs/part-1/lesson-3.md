@@ -3,7 +3,7 @@ learning_outcomes:
   - Analyse the characteristics, needs, and realities of your primary and secondary audiences
   - Identify contextual factors (access, time, language, culture, power) that influence participation and learning
   - Conduct a simple, participatory needs assessment to inform training design
-  - Recognise and incorporate learners' prior knowledge, lived experience, and mental models
+  - Recognise and incorporate learners' prior knowledge and lived experience
   - Identify potential barriers to participation and design strategies to reduce them
 guiding_questions:
   - Who are your learners, and what distinguishes primary from secondary audiences?
@@ -34,7 +34,7 @@ When you start with learners rather than content, your training becomes more rel
 
 ### Primary and secondary audiences
 
-Your primary audience is the people who will participate directly in your training. But in many programmes — especially train-the-trainer models — those participants will go on to support, train, or influence others. Those downstream groups are your secondary audience, and your design needs to account for both.
+Your primary audience is the people who will participate directly in your training. But in many programmes those participants will go on to support, train, or influence others. Those downstream groups are your secondary audience, and your design needs to account for both.
 
 Think about what this means in practice. If you are training health workers who will later educate community members, your workshop needs to do two things at once: help the health workers learn the content *and* prepare them to teach it in contexts you may never see. That changes what you include, how you structure activities, and what outputs you ask participants to produce.
 
@@ -60,6 +60,28 @@ Every group of learners faces barriers — some visible, some not. Access barrie
 For each barrier you identify, ask whether your design can reduce it. Sometimes the answer is straightforward: provide materials in the learners' language, schedule sessions around harvest season, offer offline alternatives. Sometimes the answer requires rethinking your approach: if learners are unlikely to speak up in a large group, design for pair work and small-group discussion instead.
 
 At the same time, look for what you can build on. Prior knowledge and lived experience are not obstacles to learning — they are the foundation for it. When your training connects new ideas to what learners already know and do, learning is faster, deeper, and more likely to stick.
+
+In practice, this means designing moments that surface and use what learners bring. Open a session with *"What do you already do when you encounter this problem?"* and use their answers as the starting point for new material. Have learners bring real examples from their work as case material rather than using generic scenarios. When introducing a new concept, ask learners to compare it with approaches they already use — the differences reveal exactly where the new idea adds value.
+
+### What drives your learners?
+
+Understanding who your learners are and what barriers they face is necessary — but not sufficient. You also need to understand what motivates them. A learner who shows up because their manager told them to is in a fundamentally different position from one who sought out the training to solve a problem they care about. Both might complete the same activities, but only one is likely to apply what they learn afterwards.
+
+This matters especially when your training depends on secondary effects — when participants need to take what they have learned back to their teams, communities, or classrooms. That transfer requires effort, initiative, and persistence after the workshop ends. Without motivation, even well-designed training stops at the door.
+
+!!! question "Why are your learners in the room?"
+    Think about the people who will attend your training. Are they there by choice or by assignment? What problem are they trying to solve? What would "success" look like from *their* perspective — not yours, not the funder's? If you don't know, that is your first needs assessment question.
+
+Motivation is not a fixed trait. It is shaped by context, and your design can strengthen or undermine it. Three things consistently help:
+
+- **Relevance** — learners engage when they can see how the content connects to problems they actually face. If that connection is not obvious, make it explicit — don't assume learners will figure out why something matters.
+- **Agency** — people are more motivated when they have some control over what and how they learn. Even small choices — which example to work on, which problem to tackle first — increase ownership.
+- **Confidence** — learners who believe they can succeed are more likely to try. This means pitching the difficulty right, building on what they already know, and creating early wins that build momentum. It also means helping them to see that they will be able to actually apply the skills they learn in real life.
+
+!!! question "Where might motivation break down?"
+    Consider your learners' journey from the training room back to their own context. What might stop them from applying what they learn? Is it that they don't see the relevance? That they lack confidence? That their environment doesn't support the change? Your design can address some of these — but only if you anticipate them.
+
+When you conduct your needs assessment, ask about motivation directly. Not "Are you motivated?" — that tells you nothing. Instead: "What made you sign up?" or "What would make this training worth your time?" The answers will tell you what your design needs to connect to.
 
 ## A worked example: designing with, not just for
 

@@ -70,7 +70,16 @@ Design your co-design approach from the start. This is your chance to build part
 ## Context check
 
 - What limits meaningful participation? Think about institutional gatekeeping, time, geography, digital access, and power imbalances that could make co-design performative rather than real.
-- What trade-offs are required? If full co-design is not feasible, what is the most meaningful level of participation you can achieve?
+- If full co-design is not feasible, what is the most meaningful level of participation you can achieve?
+
+### Trade-offs
+
+List at least two design trade-offs you are making. For each, record what you chose, what you gave up, and why.
+
+| Decision | What I chose | What I gave up | Why |
+|----------|-------------|----------------|-----|
+| | | | |
+| | | | |
 
 ---
 

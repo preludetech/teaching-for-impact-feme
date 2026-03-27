@@ -52,6 +52,8 @@ Design or improve one key activity from your training. A well-structured activit
 - How does this activity manage cognitive load? (Think about what you covered in Lesson 4.)
 - Where is retrieval or active practice built in?
 - How is participation ensured — not just allowed, but structured so it happens?
+- Where do learners contribute their own knowledge, experience, or context? If they don't, consider how you could build that in.
+- Where might learners get stuck? What support will you provide at that point (a worked example, a checklist, a guided first step)?
 
 ---
 
@@ -65,6 +67,9 @@ Design one core activity using one outcome from [Activity 5: Learning Outcomes](
 - **How long it will take:**
 - **What materials or resources are needed:**
 - **How you will know it worked** — what evidence of learning will this activity generate?
+- **How participation is structured** — how will you ensure all learners are actively involved, not just those who volunteer?
+- **Where learners contribute their own knowledge** — where in this activity do learners draw on their own experience or context?
+- **Where learners might get stuck** — what support will you provide at that point (a worked example, a checklist, a guided first step)?
 
 ---
 

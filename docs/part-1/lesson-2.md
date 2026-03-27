@@ -39,12 +39,20 @@ flowchart LR
 
 Start from the right side of the chain, not the left. Begin with the impact you hope to contribute to, then work backwards. This keeps you honest — it's easy to list activities you enjoy delivering, but harder to explain exactly how they lead to real-world change.
 
-For each link in the chain, ask: *What has to be true for this step to lead to the next?* Those are your assumptions. Write them down. For example, if your chain says "participants learn data analysis skills → they apply those skills at work," you're assuming they have access to relevant data, that their managers support new approaches, and that they have time to practice. Each assumption is a potential point of failure.
+For each link in the chain, ask: *What has to be true for this step to lead to the next?* Those are your assumptions. Write them down. For example, if your chain says "participants learn data analysis skills → they apply those skills at work," you're assuming they have access to relevant data, that their managers support new approaches, that they are motivated to apply the skills, and that they have time to practice. Each assumption is a potential point of failure.
 
 !!! example "A Theory of Change in action"
-    An NGO runs a three-day training on data collection methods for community health workers in rural clinics. Their chain: **Inputs** (experienced trainers, mobile devices, sample datasets) → **Activities** (hands-on practice entering and cleaning patient data) → **Outputs** (each participant submits a complete, accurate dataset from their clinic) → **Outcomes** (health workers routinely collect reliable data as part of their workflow) → **Impact** (better data drives better resource allocation across the district).
+    An NGO runs a three-day training on data collection methods for community health workers in rural clinics. Their chain: 
+    
+    - **Inputs** experienced trainers, mobile devices, sample datasets
+    - **Activities** hands-on practice entering and cleaning patient data
+    - **Outputs** each participant submits a complete, accurate dataset from their clinic
+    - **Outcomes** health workers routinely collect reliable data as part of their workflow
+    - **Impact** better data drives better resource allocation across the district
 
     Their key assumption? That participants will have reliable phone signal and electricity to charge devices back at their clinics. When they surface this assumption, they realise they need to build in an offline-first workflow — and talk to district managers about charging stations *before* the training, not after.
+
+Here is another example: Can you figure out what it's referring to?
 
 ![Theory of change](../assets/images/lesson-visual-aids/tfi-theory-of-change-v3.svg)
 
