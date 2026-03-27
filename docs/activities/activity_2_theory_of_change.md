@@ -98,6 +98,16 @@ Pick your most important outcome and pressure-test it:
 
 Revise the outcome if needed.
 
+### Power and positionality check
+
+Your position — your expertise, institutional role, funding relationship, cultural background — shapes what you include in your theory of change and whose priorities it reflects. Consider:
+
+- What authority or expertise do you have that your learners don't — and how does that shape what you've prioritised in this chain?
+- Whose perspective is absent from your theory of change? Are there stakeholders or affected communities who would draw the chain differently?
+- If your learners designed this theory of change themselves, what would they change?
+
+If these questions surface a gap, revise your chain or flag it as an assumption to test.
+
 ---
 
 ## Context check

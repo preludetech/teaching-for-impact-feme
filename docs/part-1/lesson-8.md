@@ -77,7 +77,11 @@ Iteration does not require elaborate structures. A few practical approaches:
 
 Peer learning is not just a nice addition — it is one of the most effective learning strategies available, especially in contexts where facilitator time is limited. When learners explain their reasoning to each other, review each other's work, or solve problems together, they process material more deeply than they would alone.
 
-For peer learning to work well, it needs structure. Ask learners to review a specific aspect of each other's work using clear criteria. Pair stronger and developing learners intentionally. Set ground rules that keep feedback respectful and constructive. Make sure participation is inclusive — if the same voices dominate peer discussions, quieter learners miss out on both giving and receiving feedback.
+For peer learning to work well, it needs structure. Ask learners to review a specific aspect of each other's work using clear criteria. Pair stronger and developing learners intentionally. Set ground rules that keep feedback respectful and constructive.
+
+Make sure participation is inclusive — if the same voices dominate peer discussions, quieter learners miss out on both giving and receiving feedback. Concrete strategies that help: use think-write-share (everyone writes before anyone speaks), assign rotating roles in peer review (reviewer, note-taker, presenter), or collect written feedback before opening verbal discussion. These structures level the playing field without singling anyone out.
+
+In community settings — where participants may have unequal status, different comfort levels with critique, or cultural norms around hierarchy and who speaks — these structures matter even more. Pay attention to who is and is not participating, and adapt your groupings and methods accordingly.
 
 ## A worked example: climate data training
 

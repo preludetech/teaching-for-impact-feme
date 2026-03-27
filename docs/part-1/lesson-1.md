@@ -31,7 +31,7 @@ When you understand the system first, you make better design decisions: what to 
 
 Training can introduce new knowledge, build skills, create space for practice, or shift how people think about a problem. But whether any of that leads to lasting change depends on factors beyond the training itself: whether learners have time to apply what they learn, whether their institutions support new approaches, whether funding continues, whether the right people are in the room.
 
-This is what it means to think about training as an *intervention in a system* rather than a standalone event. A system, in this context, simply means the web of people, resources, relationships, constraints, and external forces that surround your training. You don't control this system — but you need to understand it well enough to design something that can work within it.
+This is what it means to think about training as an *intervention in a system* rather than a standalone event. A system, in this context, simply means the web of people, resources, relationships, constraints, and influences that surround your training — where "influences" means the external forces you don't control but need to account for, like policy changes, institutional incentives, or cultural norms. You don't control this system — but you need to understand it well enough to design something that can work within it.
 
 ### Mapping your system
 
@@ -66,7 +66,7 @@ Notice what made this work: not better content, but better understanding of the 
 
 You've seen how system mapping works to reveal the conditions your training operates in. It's time to apply this to your own context.
 
-👉 [Activity 1: System Map](../activities/activity_1_system_map.md) — Map the actors, resources, constraints, and relationships that surround your training. This gives you the foundation for every design decision that follows.
+👉 [Activity 1: System Map](../activities/activity_1_system_map.md) — Map the actors, resources, constraints, relationships, and influences that surround your training. This gives you the foundation for every design decision that follows.
 
 ## Key takeaways
 
@@ -77,7 +77,7 @@ You've seen how system mapping works to reveal the conditions your training oper
 
 You should now have:
 
-- a system map showing the actors, resources, constraints, and relationships around your training
+- a system map showing the actors, resources, constraints, relationships, and influences around your training
 - at least one cluster, gatekeeper, or missing connection you hadn't previously considered
 
 !!! tip "This is a living document"

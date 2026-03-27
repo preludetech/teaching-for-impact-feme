@@ -77,6 +77,20 @@ Work through the same context factors and barriers prompts from the "existing tr
 
 Pick the assumption about your learners that you are least confident about. Write down one concrete step you could take to test it — a conversation, a survey, a pilot session, or a document to review.
 
+### Draft your needs assessment questions
+
+You've mapped what you know (or assume) about your learners. Now prepare to learn directly from them. Draft three questions you could ask potential or current learners before the training — in a short conversation, a survey, or an informal check-in.
+
+Good needs-assessment questions ask about practice, not self-ratings. Compare: *"How confident are you with data analysis?"* (invites inflated answers) versus *"Walk me through what you do when you receive a new dataset"* (reveals actual practice).
+
+Write three questions targeted at the gaps or assumptions you're least sure about:
+
+1. ___
+2. ___
+3. ___
+
+For each, note how you'd realistically gather this — a quick call, a message to a colleague, a question at the start of the first session, or something else.
+
 ---
 
 ## Translation to your learners

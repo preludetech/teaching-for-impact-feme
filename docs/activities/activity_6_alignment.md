@@ -45,6 +45,8 @@ Fill in the table based on what you currently do. For each outcome, record the a
 
 Update the table to fix the alignment issues you found. For each gap, decide whether the problem is a missing activity, a missing assessment, or an outcome that no longer belongs.
 
+For one row in your table, list the content learners would need to successfully participate in the activity. Note anything you were tempted to include that does not directly serve the activity — that is content you can cut or move.
+
 ---
 
 ## If you are creating a new training
@@ -54,6 +56,7 @@ Start with your outcomes from [Activity 5: Learning Outcomes](../activities/acti
 - Pick 2–3 of your strongest outcomes and fill in the table for those first.
 - For each, ask: what would a learner need to do to demonstrate this outcome? Write that in the Activity column.
 - What would you look for as evidence that the outcome was met? Write that in the Assessment column.
+- For one row, list the content learners would need to successfully participate in the activity. If you find yourself listing content that doesn't directly enable the activity, set it aside — it may not belong in the training.
 
 ---
 

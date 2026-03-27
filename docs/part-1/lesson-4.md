@@ -1,16 +1,17 @@
 ---
 learning_outcomes:
   - Explain key principles of how people learn (cognitive load, retrieval, spacing, social learning)
-  - Identify factors that support or hinder effective learning
+  - Identify factors that support or hinder effective learning — including recognising common myths like learning styles
   - Apply strategies to manage cognitive load — reducing extraneous load while preserving productive challenge
-  - Design learning experiences that include retrieval, practice, and reinforcement
-  - Incorporate social and contextual dimensions of learning into training design
+  - Describe how retrieval, practice, and reinforcement support learning — and identify where they are missing in a training design
+  - Incorporate social learning into training design through structured collaboration
 guiding_questions:
   - How do people move information from short-term to long-term memory?
   - Where might cognitive overload occur in your training — and where might you be making things too easy?
   - How will learners actively retrieve and apply knowledge?
   - How can learning be reinforced over time?
   - How will you incorporate social learning and collaboration?
+  - How can productive struggle build learner confidence rather than undermine it?
 ---
 
 {% include "lesson_header.md" %}
@@ -29,6 +30,15 @@ If you design training without understanding how learning works, you risk two op
 
 The principles in this lesson are ones you will return to throughout the rest of the workbook. When you design activities in Lesson 7, structure practice in Lesson 8, or build assessment in Lesson 9, the ideas here are the foundation. This is the single place where these concepts are explained — later lessons will reference back here rather than re-introducing them.
 
+## A note on learning styles
+
+Before we look at what the evidence says about how people learn, it is worth addressing the most persistent myth in training: that people have distinct learning styles (visual, auditory, kinaesthetic) and that effective training must match content delivery to each learner's preferred style.
+
+This idea is intuitive, widely repeated, and wrong. Decades of research have failed to find evidence that matching instruction to supposed learning styles improves learning outcomes. People do have preferences — some enjoy watching videos, others prefer reading — but designing around those preferences does not produce better results. What does produce better results is varying your methods for a different reason: because different *content* benefits from different *approaches*. A hands-on skill needs practice. A spatial concept benefits from a diagram. A nuanced argument is best explored through discussion. The method should match the material and the learning outcome, not an individual's self-reported style.
+
+!!! warning "Why this matters for your design"
+    Learning styles are not just harmless — they can actively mislead. Trainers who believe in them may waste design effort creating three versions of the same content, or may excuse poor outcomes by saying the training "wasn't suited to that learner's style" rather than examining the design itself. If you have been told to design for learning styles in the past, you are not alone — but the principles in the rest of this lesson will serve your learners far better!
+
 ## Cognitive load: not all struggle is bad
 
 Working memory is limited. When too much new information arrives at once — or when instructions are confusing, materials are cluttered, or multiple unfamiliar ideas compete for attention — learners cannot process any of it well. This is the standard case for managing cognitive load, and it is real: poor design genuinely overwhelms people.
@@ -37,7 +47,7 @@ But there is an important nuance that gets lost when the advice is simply "reduc
 
 The distinction that matters is between two kinds of load:
 
-**Intrinsic load** is the mental effort of engaging with the material itself. A concept is inherently complex, a skill requires coordination, a problem demands reasoning. This load is the point. You cannot remove it without removing the learning.
+**Intrinsic load** is the mental effort of engaging with the material itself. A concept is inherently complex, a skill requires coordination, a problem demands reasoning. This load is the point. You cannot remove it without removing the learning!
 
 **Extraneous load** is mental effort caused by poor design — confusing instructions, cluttered slides, unnecessary jargon, unclear task structure. This load adds nothing. It competes with intrinsic load for the same limited working memory.
 
@@ -48,6 +58,13 @@ In practice, this means asking two questions about every part of your training. 
 
 !!! example "Cognitive load in action"
     A trainer teaching data analysis asks participants to clean a messy dataset, identify patterns, and present findings — all in one activity with a single set of instructions. Learners struggle, but not with the analysis. They struggle to understand what they are supposed to do first. The trainer breaks the activity into three stages, each with its own clear instruction. The analysis is still challenging — that is the point — but learners can now direct their effort at the data rather than at decoding the task.
+
+!!! tip "Practical strategies for reducing extraneous load"
+    - **Simplify instructions** — give one step at a time rather than a wall of text
+    - **Remove decorative clutter** — slides, handouts, and screens should show only what learners need right now
+    - **Pre-teach key vocabulary** — introduce unfamiliar terms before they appear in a complex task
+    - **Provide a worked example** before asking learners to solve a similar problem independently
+    - **Chunk longer activities** into stages with clear transitions, as in the example above
 
 ## Retrieval and application
 
@@ -68,6 +85,12 @@ If you are designing a multi-session training, plan for this deliberately. Retur
 Discussion, collaboration, and shared problem-solving are not just engagement strategies — they are learning mechanisms. When learners explain their thinking to someone else, they have to organise and articulate ideas that might otherwise remain vague. When they hear a different perspective, they have to reconcile it with their own understanding. Both of these processes deepen learning.
 
 Design social learning intentionally rather than assuming it will happen on its own. This means creating structured opportunities: pair discussions with specific prompts, small-group tasks with clear outputs, peer review where learners give each other feedback, or collaborative problem-solving where different people contribute different expertise.
+
+!!! question "Think about your training"
+    Where in your training would it help learners to **articulate their thinking out loud** — to put half-formed ideas into words, explain a process, or walk someone else through their reasoning? These moments force learners to organise what they know and surface gaps they might not notice on their own.
+
+!!! question "Think about your training"
+    Where would it be valuable for learners to have their ideas **challenged through conversation** — not to create conflict, but to push them beyond their first interpretation? A well-placed peer discussion or small-group task can do what no slide deck can: make learners defend, revise, and strengthen their understanding in real time.
 
 ## Putting the principles to work
 

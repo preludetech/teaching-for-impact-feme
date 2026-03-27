@@ -21,6 +21,22 @@ Define how you will recognise whether learning is happening. Assessment is not a
 
 ---
 
+## Warm-up: practise writing indicators
+
+Before filling in the full table, take two or three of your outcomes from [Activity 5](../activities/activity_5_learning_outcomes.md) and draft an indicator for each — a concrete, observable sign that a learner has met the outcome.
+
+For each indicator, check: *Could someone hit this indicator without actually having learned the skill?* If yes, the indicator is measuring surface behaviour, not real capability. Sharpen it.
+
+| Outcome | Draft indicator | Passes the check? |
+|---------|----------------|-------------------|
+| | | |
+| | | |
+| | | |
+
+Once you're satisfied with these, carry them into the full table below.
+
+---
+
 ## Assessment mapping
 
 | Outcome | Indicator(s) of success | Assessment method | Evidence | Method of collection |
