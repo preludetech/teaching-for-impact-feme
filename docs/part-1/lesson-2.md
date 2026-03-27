@@ -42,9 +42,9 @@ Start from the right side of the chain, not the left. Begin with the impact you 
 For each link in the chain, ask: *What has to be true for this step to lead to the next?* Those are your assumptions. Write them down. For example, if your chain says "participants learn data analysis skills → they apply those skills at work," you're assuming they have access to relevant data, that their managers support new approaches, and that they have time to practice. Each assumption is a potential point of failure.
 
 !!! example "A Theory of Change in action"
-    A university team designs a two-day workshop on open research practices for early-career researchers. Their chain: **Inputs** (facilitators, case studies, institutional buy-in) → **Activities** (hands-on sessions with open-access tools) → **Outputs** (participants publish one dataset openly) → **Outcomes** (researchers adopt open practices in their ongoing work) → **Impact** (increased transparency in regional research output).
+    An NGO runs a three-day training on data collection methods for community health workers in rural clinics. Their chain: **Inputs** (experienced trainers, mobile devices, sample datasets) → **Activities** (hands-on practice entering and cleaning patient data) → **Outputs** (each participant submits a complete, accurate dataset from their clinic) → **Outcomes** (health workers routinely collect reliable data as part of their workflow) → **Impact** (better data drives better resource allocation across the district).
 
-    Their key assumption? That participants' departments won't penalise them for spending time on open practices instead of traditional publication metrics. When they surface this assumption, they realise they need to involve department heads *before* the workshop — not after.
+    Their key assumption? That participants will have reliable phone signal and electricity to charge devices back at their clinics. When they surface this assumption, they realise they need to build in an offline-first workflow — and talk to district managers about charging stations *before* the training, not after.
 
 ![Theory of change](../assets/images/lesson-visual-aids/tfi-theory-of-change-v3.svg)
 
