@@ -4,8 +4,6 @@ learning_outcomes:
   - Evaluate evidence to distinguish meaningful signal from noise
 ---
 
-# Evaluation for Impact
-
 <!-- This is a structured outline, not full content. Each section contains key points to be developed into full prose during content writing. -->
 
 ## Why this matters

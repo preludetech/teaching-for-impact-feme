@@ -11,8 +11,6 @@ guiding_questions:
   - How will you make sure every learner has space to participate?
 ---
 
-# Facilitation, Delivery, and Session Structure
-
 You have a training design. You have outcomes, activities, and an assessment plan. Now you have to stand in front of a group of people and make it work. This is a different skill from design — and a well-designed training can still fail if the delivery falls apart.
 
 If you are facilitating for the first time, that gap between plan and room can feel daunting. This topic gives you practical guidance for what to do once you are standing at the front: how to open a session, manage time, read the room, handle the unexpected, and close in a way that lands. It is not a comprehensive facilitation course — it is enough to walk in prepared and recover when things go sideways.
