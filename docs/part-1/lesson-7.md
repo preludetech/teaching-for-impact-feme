@@ -17,7 +17,7 @@ guiding_questions:
 
 {% include "lesson_header.md" %}
 
-You have defined your learning outcomes, mapped your constraints, and planned how participants will shape the training. Now comes the question at the heart of any training: what will learners actually *do*?
+You have defined your learning outcomes, mapped your constraints, and planned if and how participants will shape the training. Now comes the question at the heart of any training: what will learners actually *do*?
 
 Activities are where learning happens. Not in your slides, not in your explanations — in the moments where learners discuss, analyse, build, practise, and apply. A well-designed activity turns an intended outcome into visible, practised learning. A poorly designed one wastes everyone's time, no matter how good the content behind it is.
 
@@ -55,7 +55,7 @@ Missing any of these creates friction. Unclear instructions mean learners spend 
 !!! example "Before and after"
     **Vague activity:** "In groups, discuss how you would design a training session for your colleagues. Report back to the group."
 
-    **Structured activity:** "In pairs, select one learning outcome from your Activity 5 work. Design a 20-minute activity that helps learners practise that outcome. Write down: the objective, three instructions a learner would follow, what materials are needed, and what the learner will produce. You have 25 minutes. Each pair will swap plans with another pair for feedback using the checklist provided."
+    **Structured activity:** "In pairs, select one learning outcome from your Activity 5 work. Design a 20-minute activity that helps learners practise that outcome. Write down: the objective, instructions a learner would follow, what materials are needed, and what the learner will produce. You have 25 minutes. Each pair will swap plans with another pair for feedback using the checklist provided."
 
     The second version tells learners exactly what to do, how long they have, what to produce, and how they will get feedback. It also generates a concrete artefact that can be refined later.
 
@@ -94,7 +94,7 @@ Co-creation in practice means designing activities where learner contributions a
 
 Not every learner will be ready for every activity at the same level. Scaffolding means providing support early and reducing it as learners gain confidence. Sequencing means ordering activities so each one builds on what came before.
 
-A practical method for scaffolding: start with a guided version of the activity. Walk through the first step together, or provide a worked example that learners can follow. Then remove the supports — take away the worked example, reduce the step-by-step guidance, increase the complexity of the task. The goal is that by the end, learners can do independently what they initially needed help with.
+A practical method for scaffolding: start with a guided version of the activity. Walk through the first step together, or provide a worked example that learners can follow. Then remove the supports — take away the worked example, reduce the step-by-step guidance, increase the complexity of the task, ask the learners to practice a skill in a new context or situation. The goal is that by the end, learners can do independently what they initially needed help with.
 
 Apply the cognitive load and retrieval principles from Lesson 4 when structuring your activities. Focus learner attention on the key ideas rather than on navigating confusing instructions or unnecessary complexity. Build in moments where learners must recall and apply what they have already learned, rather than simply recognising it when presented again.
 
