@@ -1,156 +1,122 @@
 ---
 learning_outcomes:
-  - Explain key principles of how people learn (cognitive load, retrieval, spacing, social learning)
-  - Identify factors that support or hinder effective learning
-  - Apply strategies to reduce cognitive overload and improve retention
-  - Design learning experiences that include retrieval, practice, and reinforcement
-  - Incorporate social and contextual dimensions of learning into training design
+  - Analyse the characteristics, needs, and realities of your primary and secondary audiences
+  - Identify contextual factors (access, time, language, culture, power) that influence participation and learning
+  - Conduct a simple, participatory needs assessment to inform training design
+  - Recognise and incorporate learners' prior knowledge and lived experience
+  - Identify potential barriers to participation and design strategies to reduce them
 guiding_questions:
-  - How do people move information from short-term to long-term memory?
-  - Where might cognitive overload occur in your training?
-  - How will learners actively retrieve and apply knowledge?
-  - How can learning be reinforced over time?
-  - How will you incorporate social learning and collaboration?
+  - Who are your learners, and what distinguishes primary from secondary audiences?
+  - What constraints shape their participation?
+  - What do learners already know?
+  - What barriers might affect participation and success?
+  - How can you incorporate lived experience and local knowledge?
 ---
 
 {% include "lesson_header.md" %}
 
+You now have a system map and a Theory of Change. Both are about the bigger picture — the structures, actors, and intended change that surround your training. But there is one part of the system that deserves far more attention than a box on a diagram: the people who will actually be in the room.
+
+This lesson is about understanding your learners deeply enough to design training that fits their lives, not just your expertise.
+
 ## Why this matters
 
-In the previous section, you analysed your learners, their contexts, and the knowledge they bring. This section focuses on how learning actually happens so that your design decisions support it.
+It is tempting to jump from "I know what change I want" to "Here is what I will teach." That jump skips a question that determines whether your training will actually work: *Who are these learners, and what is their reality?*
 
-Training is not effective simply because content is delivered. Content supports learning, but learning depends on what learners do with it. 
+Training is most effective when it aligns with how people actually live, work, and learn. A workshop designed around stable internet access fails when half your participants connect by phone. Content pitched at beginners wastes time when learners already have years of practice. Activities requiring individual reflection may not land in cultures where learning is deeply collaborative.
 
-Learning is more likely to happen when participants:
+!!! quote "The shift"
+    Not *"What should I teach?"* but *"Who are my learners, and what is possible in their context?"*
 
-- engage actively
-- connect new ideas to what they already know
-- retrieve and apply knowledge
-- revisit key ideas over time
-- learn with and from others
+When you start with learners rather than content, your training becomes more relevant, easier to apply, and more likely to contribute to the change you articulated in your Theory of Change.
 
-If you design without understanding how learning works, you risk overwhelming learners, creating passive experiences, and limiting retention and real-world application.
+## Who are your learners?
 
-!!! quote "This section helps you move from..."
-    *“How do I present content?”*  
-    to:  
-    *“How do people actually learn—and how do I design for that?”*
+### Primary and secondary audiences
 
-## Core concepts
+Your primary audience is the people who will participate directly in your training. But in many programmes those participants will go on to support, train, or influence others. Those downstream groups are your secondary audience, and your design needs to account for both.
 
-!!! abstract "How learning strengthens"
-    Learning becomes more durable when cognitive load is managed, learners actively retrieve and apply knowledge, key ideas are revisited over time, and interaction supports sense-making.
+Think about what this means in practice. If you are training health workers who will later educate community members, your workshop needs to do two things at once: help the health workers learn the content *and* prepare them to teach it in contexts you may never see. That changes what you include, how you structure activities, and what outputs you ask participants to produce.
 
-**Cognitive load**  
-Working memory is limited. When too much new information appears at once, learners are more likely to struggle to process it. Clear instructions, smaller chunks, and simpler materials reduce unnecessary load.
+### Understanding learner realities
 
-**Retrieval and application**  
-Learning becomes more robust when people recall information, explain it, use it, and make decisions with it. Re-reading alone is rarely enough.
+The most important design information is rarely on a registration form. You need to understand the conditions that shape whether and how people can learn. Start with direct conversation — talk to a few potential participants, their managers, or colleagues who know the context. Even three or four conversations will reveal patterns that reshape your design.
 
-**Spacing and reinforcement**  
-Single exposure is usually insufficient. Revisiting key ideas across sessions and in new contexts improves retention.
+What you are looking for falls into several areas. First, practical access: what devices, tools, connectivity, and physical spaces do learners have? Second, time and competing demands: are participants being released from other work, or fitting this around existing responsibilities? Third, language and communication: what languages do learners work in, and does the training match? Fourth, social and cultural context: are there expectations around hierarchy, gender, age, or formality that will shape how people participate? And fifth, what success looks like from the learners' perspective — which may be quite different from what success looks like to you or your funder.
 
-**Social learning**  
-Discussion, collaboration, observation, and shared problem-solving help learners test understanding and refine ideas.
+!!! warning "Don't assume the gap"
+    It is easy to frame a needs assessment as "finding out what learners don't know." But learners always bring something: professional experience, local knowledge, informal skills, community relationships. A needs assessment that only maps deficits misses the assets your training can build on.
 
-## Practical guidance
+### Conducting a simple needs assessment
 
-### Step 1 — Reduce unnecessary cognitive load
+A needs assessment does not need to be a formal research project. Short conversations, a quick survey, informal interviews, or a co-mapping exercise where potential participants sketch their own context — any of these can give you what you need. The goal is to understand three things: what learners already know, what they need to be able to do, and what obstacles stand between those two points.
 
-- break content into smaller segments
-- keep instructions clear and simple
-- avoid introducing multiple new ideas at once
-- remove avoidable complexity
+Focus your questions on practice, not theory. Instead of "How would you rate your knowledge of X?" ask "When was the last time you needed to do X, and what happened?" The first question gets you a self-assessment that may not be accurate. The second gets you a story that reveals real capability, real constraints, and real context.
 
-### Step 2 — Design for active learning
+### Barriers and opportunities
 
-For each part of your training, ask:
+Every group of learners faces barriers — some visible, some not. Access barriers (no internet, no quiet space, no childcare) are practical but solvable if you know about them. Knowledge barriers (unfamiliar terminology, assumed prerequisites) are design problems you can fix. But participation barriers — power dynamics that silence certain voices, cultural norms that discourage questioning, past negative experiences with training or education — are subtler and more consequential.
 
-- What are learners doing?
-- What will they produce, decide, explain, or apply?
+For each barrier you identify, ask whether your design can reduce it. Sometimes the answer is straightforward: provide materials in the learners' language, schedule sessions around harvest season, offer offline alternatives. Sometimes the answer requires rethinking your approach: if learners are unlikely to speak up in a large group, design for pair work and small-group discussion instead.
 
-Include:
+At the same time, look for what you can build on. Prior knowledge and lived experience are not obstacles to learning — they are the foundation for it. When your training connects new ideas to what learners already know and do, learning is faster, deeper, and more likely to stick.
 
-- short exercises
-- problem-solving tasks
-- explanation and reflection activities
+In practice, this means designing moments that surface and use what learners bring. Open a session with *"What do you already do when you encounter this problem?"* and use their answers as the starting point for new material. Have learners bring real examples from their work as case material rather than using generic scenarios. When introducing a new concept, ask learners to compare it with approaches they already use — the differences reveal exactly where the new idea adds value.
 
-### Step 3 — Build in retrieval
+### What drives your learners?
 
-Design opportunities where learners:
+Understanding who your learners are and what barriers they face is necessary — but not sufficient. You also need to understand what motivates them. A learner who shows up because their manager told them to is in a fundamentally different position from one who sought out the training to solve a problem they care about. Both might complete the same activities, but only one is likely to apply what they learn afterwards.
 
-- recall key ideas
-- answer questions without prompts
-- apply concepts in realistic tasks
+This matters especially when your training depends on secondary effects — when participants need to take what they have learned back to their teams, communities, or classrooms. That transfer requires effort, initiative, and persistence after the workshop ends. Without motivation, even well-designed training stops at the door.
 
-### Step 4 — Plan for reinforcement
+!!! question "Why are your learners in the room?"
+    Think about the people who will attend your training. Are they there by choice or by assignment? What problem are they trying to solve? What would "success" look like from *their* perspective — not yours, not the funder's? If you don't know, that is your first needs assessment question.
 
-- revisit key ideas across sessions
-- use follow-up activities
-- encourage continued practice beyond the session
+Motivation is not a fixed trait. It is shaped by context, and your design can strengthen or undermine it. Three things consistently help:
 
-### Step 5 — Use social learning intentionally
+- **Relevance** — learners engage when they can see how the content connects to problems they actually face. If that connection is not obvious, make it explicit — don't assume learners will figure out why something matters.
+- **Agency** — people are more motivated when they have some control over what and how they learn. Even small choices — which example to work on, which problem to tackle first — increase ownership.
+- **Confidence** — learners who believe they can succeed are more likely to try. This means pitching the difficulty right, building on what they already know, and creating early wins that build momentum. It also means helping them to see that they will be able to actually apply the skills they learn in real life.
 
-- include discussion prompts
-- design small-group or peer activities
-- create opportunities for learners to compare approaches and explain their thinking
+!!! question "Where might motivation break down?"
+    Consider your learners' journey from the training room back to their own context. What might stop them from applying what they learn? Is it that they don't see the relevance? That they lack confidence? That their environment doesn't support the change? Your design can address some of these — but only if you anticipate them.
 
-### Decision point
+When you conduct your needs assessment, ask about motivation directly. Not "Are you motivated?" — that tells you nothing. Instead: "What made you sign up?" or "What would make this training worth your time?" The answers will tell you what your design needs to connect to.
 
-> How much active learning and retrieval will you build into your training?
+## A worked example: designing with, not just for
 
-- Mostly content delivery with limited activity
-- A balanced mix of explanation and practice
-- Practice-focused, highly interactive design
+A team at an environmental research institute is designing training for early-career researchers who will later train community members on climate data tools. Their initial plan is a standard two-day workshop: presentations on data analysis methods, followed by hands-on exercises with the software they use in their own lab.
 
-Your choice will influence retention, confidence, and transfer into practice.
+Before building the agenda, they talk to five potential participants and two of their supervisors. What they learn changes everything.
 
-## Example
+The researchers are comfortable with technical tools — more so than the team expected. But the community members they will later train have limited device access and prefer learning through practical, hands-on examples rather than screen-based tutorials. The researchers themselves are nervous about the facilitation part: they know the content, but they have never taught anyone and are not sure how to adapt technical material for non-technical audiences.
 
-- **Context:** A team is developing training on local climate risk assessment.
-- **Decision:** Should they cover more content, or reduce content to create time for retrieval and practice?
-- **Action:** They cut non-essential slides, break the material into smaller chunks, add short recall questions, revisit key ideas later in the session, and use pair discussion to test understanding.
-- **Outcome:** Participants tend to remember more, ask better questions, and are better able to apply the method afterwards.
+These conversations reveal that the real design challenge is not "teach climate data analysis" but "prepare researchers to teach climate data analysis in contexts very different from their own." The team restructures the workshop around this. Instead of presenting methods, they have researchers practise explaining concepts to each other using low-tech materials. Instead of lab exercises, they design activities where researchers adapt a data tool for a specific community scenario. And they build in time for researchers to develop their own simplified training plans — giving them a concrete output they can use when they return to their communities.
+
+The result is a training programme shaped by learner realities rather than by the team's assumptions about what those realities were. The researchers leave with both the technical knowledge and the practical tools to teach it forward.
 
 ## In practice
 
-👉 Use [Template 4: Learner Experience Audit](../activities/template_4_learner_exp_audit.md)
+👉 [Activity 3: Learner Reality Mapping](../activities/activity_3_learner_reality.md) — Map who your learners are, what shapes their participation, what they already know, and what barriers and opportunities your design needs to account for.
 
-👉 Revisit [Template 3: Learner Reality Mapping](../activities/template_3_learner_reality.md)
-
-- **what to do:** Use your learner realities to identify where overload, confusion, or disengagement may occur
-- **expected output:** Notes on how learner constraints affect learning design decisions
-- **approximate time:** 10–15 minutes
-
-## Key takeaways
-
-!!! tip "Key takeaway"
-    Learning is strengthened by retrieval, practice, reinforcement, and interaction, not only by explanation.
-
-!!! tip "Key takeaway"
-    Reducing unnecessary complexity creates more room for learners to think, apply, and remember.
+You will build on this learner map throughout the workbook — it directly informs how you define learning outcomes in Lesson 5, design activities in Lesson 7, and think about co-design in Lesson 6.
 
 ## Before you move on
 
 You should now have:
 
-- identified where overload may occur in your design
-- selected ways to build retrieval and reinforcement into learning
-- a clearer plan for how learners will actively engage with content
+- a clear picture of your primary and secondary audiences
+- a basic needs assessment based on real information (conversations, surveys, or existing knowledge)
+- a list of learner realities, barriers, strengths, and design implications
 
 ## Further reading (optional)
 
-- Sweller, J. (1988) — *Cognitive Load During Problem Solving: Effects on Learning*  
-  → Supports: cognitive load and managing working memory in training design  
-  → Why it matters: explains why reducing overload improves learning effectiveness  
-  → Source: [https://doi.org/10.1207/s15516709cog1202_4](https://doi.org/10.1207/s15516709cog1202_4)
+- Knowles, M., Holton, E., & Swanson, R. (2015) — *The Adult Learner*
+  → Supports: understanding learner needs, prior knowledge, and self-directed learning
+  → Why it matters: provides foundational principles for designing training aligned with adult learners' realities
+  → Source: [https://www.routledge.com/The-Adult-Learner-The-Definitive-Classic-in-Adult-Education-and-Human/Knowles-Holton-Swanson/p/book/9781138209398](https://www.routledge.com/The-Adult-Learner-The-Definitive-Classic-in-Adult-Education-and-Human/Knowles-Holton-Swanson/p/book/9781138209398)
 
-- Brown, P., Roediger, H., & McDaniel, M. (2014) — *Make It Stick: The Science of Successful Learning*  
-  → Supports: retrieval, spacing, and reinforcement strategies  
-  → Why it matters: synthesises evidence-based techniques for improving retention and transfer  
-  → Source: [https://www.hup.harvard.edu/books/9780674729018](https://www.hup.harvard.edu/books/9780674729018)
-
-- Bandura, A. (1977) — *Social Learning Theory*  
-  → Supports: social learning through observation and interaction  
-  → Why it matters: explains how collaboration and modelling support learning processes  
-  → Source: [https://psycnet.apa.org/record/1977-25733-000](https://psycnet.apa.org/record/1977-25733-000)
+- Kolb, D. (1984) — *Experiential Learning: Experience as the Source of Learning and Development*
+  → Supports: connecting learning to lived experience and prior knowledge
+  → Why it matters: explains how experience shapes learning and informs participatory training design
+  → Source: [https://www.pearson.com/en-us/subject-catalog/p/experiential-learning-experience-as-the-source-of-learning-and-development/P200000003495/9780132952613](https://www.pearson.com/en-us/subject-catalog/p/experiential-learning-experience-as-the-source-of-learning-and-development/P200000003495/9780132952613)

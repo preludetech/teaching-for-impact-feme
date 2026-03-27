@@ -146,7 +146,7 @@ There is no single correct choice. The goal is to make a decision that is **real
 
 ## In practice
 
-👉 Use [Template 12: OER Workflow](../activities/template_12_oer.md)
+👉 Use [Activity 14: OER Workflow](../activities/activity_14_oer.md)
 
 Include:
 
@@ -157,7 +157,7 @@ Include:
 
 ---
 
-👉 Revisit [Template 8: Learning Activity Design](../activities/template_8_activity_design.md)
+👉 Revisit [Activity 8: Learning Activity Design](../activities/activity_8_activity_design.md)
 
 Include:
 

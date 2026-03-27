@@ -101,14 +101,16 @@ nav:
   - Introduction: introduction.md
   - Part 1 - Designing Training:
       - Overview: part-1/index.md
-      - 1. Understanding the larger context: part-1/lesson-1.md
-      - 2. Understanding Your Learners: part-1/lesson-2.md
-      - 3. How People Learn: part-1/lesson-3.md
-      - 4. Learning Outcomes: part-1/lesson-4.md
-      - 5. Co-Design and Constraints: part-1/lesson-5.md
-      - 6. Designing Learning Experiences: part-1/lesson-6.md
-      - 7. Practice, Feedback, and Iteration: part-1/lesson-7.md
-      - 8. Assessment and Evaluation: part-1/lesson-8.md
+      - 1. Training as a System Intervention: part-1/lesson-1.md
+      - 2. Theory of Change, Positionality, and Your Role: part-1/lesson-2.md
+      - 3. Understanding Your Learners: part-1/lesson-3.md
+      - 4. How People Learn: part-1/lesson-4.md
+      - 5. Learning Outcomes and Alignment: part-1/lesson-5.md
+      - 6. Co-Design and Constraints: part-1/lesson-6.md
+      - 7. Designing Learning Activities: part-1/lesson-7.md
+      - 8. Practice, Feedback, and Iteration: part-1/lesson-8.md
+      - 9. Assessment for Learning: part-1/lesson-9.md
+      - Closing: part-1/closing.md
   - Part 2 - From Training Design to OER:
       - Overview: part-2/index.md
       - 1. Designing for Openness: part-2/lesson-1.md
@@ -117,21 +119,27 @@ nav:
       - 4. Adapting, Remixing, and Localising OER: part-2/lesson-4.md
       - 5. Sharing and Publishing OER: part-2/lesson-5.md
       - 6. Sustaining and Improving OER: part-2/lesson-6.md      
+  - Extra Topics:
+      - Overview: extra-topics/index.md
+      - Facilitation, Delivery, and Session Structure: extra-topics/facilitation.md
+      - Evaluation for Impact: extra-topics/evaluation.md
   - Conclusion: conclusion.md
-  - Activity Templates:
+  - Activities:
       - Overview: activities/index.md
-      - 1. System Map: activities/template_1_system_map.md 
-      - 2. Theory of Change: activities/template_2_theory_of_change.md
-      - 3. Learner Reality Mapping: activities/template_3_learner_reality.md
-      - 4. Learning Experience Audit: activities/template_4_learner_exp_audit.md
-      - 5. Learning Outcomes: activities/template_5_learning_outcomes.md
-      - 6. Alignment Table: activities/template_6_alignment.md  
-      - 7. Co-Design Plan: activities/template_7_co_design.md  
-      - 8. Learning Activity Design: activities/template_8_activity_design.md  
-      - 9. Practice & Feedback Plan: activities/template_9_practice_feedback.md  
-      - 10. Assessment & Evaluation Plan: activities/template_10_assess_evaluate.md  
-      - 11. Training Design Snapshot: activities/template_11_snapshot.md  
-      - 12. OER Workflow: activities/template_12_oer.md
+      - 1. System Map: activities/activity_1_system_map.md
+      - 2. Theory of Change: activities/activity_2_theory_of_change.md
+      - 3. Learner Reality Mapping: activities/activity_3_learner_reality.md
+      - 4. Learning Experience Audit: activities/activity_4_learner_exp_audit.md
+      - 5. Learning Outcomes: activities/activity_5_learning_outcomes.md
+      - 6. Alignment Table: activities/activity_6_alignment.md
+      - 7. Co-Design Plan: activities/activity_7_co_design.md
+      - 8. Learning Activity Design: activities/activity_8_activity_design.md
+      - 9. Practice & Feedback Plan: activities/activity_9_practice_feedback.md
+      - 10. Assessment Plan: activities/activity_10_assessment.md
+      - 11. Facilitation and Session Plan: activities/activity_11_facilitation_session_plan.md
+      - 12. Evaluation Plan: activities/activity_12_evaluation_plan.md
+      - 13. Training Design Snapshot: activities/activity_13_snapshot.md
+      - 14. OER Workflow: activities/activity_14_oer.md
   - Resources:
       - Glossary: resources/glossary.md
       - Bloom's Taxonomy Cheatsheet: resources/blooms-taxonomy.md

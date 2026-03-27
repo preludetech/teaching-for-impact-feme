@@ -187,7 +187,7 @@ Clear attribution helps others understand where materials come from and supports
 
 ## In practice
 
-👉 Use [Template 12: OER Workflow](../activities/template_12_oer.md)
+👉 Use [Activity 14: OER Workflow](../activities/activity_14_oer.md)
 
 Focus on:
 
@@ -203,7 +203,7 @@ Include:
 
 ---
 
-👉 Revisit [Template 12: OER Workflow](../activities/template_12_oer.md)
+👉 Revisit [Activity 14: OER Workflow](../activities/activity_14_oer.md)
 
 Include:
 

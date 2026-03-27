@@ -40,13 +40,13 @@ This works well for:
 
 - individual lessons  
 - activities  
-- templates  
+- activities
 
 ---
 
-## Use templates offline
+## Use activities offline
 
-Templates are designed to work independently.
+Activities are designed to work independently.
 
 You can:
 
@@ -63,7 +63,7 @@ You do not need everything offline.
 Start with:
 
 - the lessons you will teach  
-- the templates you will use  
+- the activities you will use  
 
 Download more only if needed.
 

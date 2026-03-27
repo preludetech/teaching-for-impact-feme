@@ -1,213 +1,133 @@
 ---
 learning_outcomes:
-  - Design activities where learners actively work toward the intended outcomes
-  - Structure activities with clear instructions, materials, timing, and outputs
-  - Design for inclusive participation so all learners are actively involved
-  - Enable co-creation by drawing on learners’ knowledge, experience, and context
-  - Support learners through challenging parts of an activity using appropriate scaffolding
-  - Adapt activities to fit your specific context (time, resources, group)
+  - Use co-design principles to make more relevant and context-aware design decisions
+  - Identify key constraints that shape what is possible in your training
+  - Make informed trade-offs based on context, priorities, and available resources
+  - Create opportunities for meaningful participant contribution in your design
+  - Avoid extractive or tokenistic participation practices
 guiding_questions:
-  - What will learners actually do in this activity?
-  - What do I need to prepare or provide so they can do it?
-  - How will I make sure everyone participates, not just a few people?
-  - How can learners contribute their own knowledge, experience, or ideas (co-creation)?
-  - Where might learners get stuck, and how will I support them?
-  - Will this work in my context (time, resources, group)?
+  - Who is currently shaping your training, and who should be involved?
+  - What constraints most strongly affect your design decisions?
+  - What trade-offs are you making, and why?
+  - How can participants meaningfully influence the training design?
+  - How will you make sure participants have real influence, not just provide input?
 ---
 
 {% include "lesson_header.md" %}
 
+You have already analysed your learners, their context, and what they bring to the training. But understanding alone is not enough. The question now is: what do you do differently *because* of what you know?
+
+Many training designs default to ideal conditions, fixed content, and one-way delivery — even when the designer knows these do not match reality. This lesson introduces **co-design** and **constraints** as lenses for making design decisions that reflect your actual situation.
+
 ## Why this matters
 
-In the previous section, you considered how co-design and constraints shape your design decisions.
+Training does not happen in a vacuum. It happens inside organisations, communities, and systems with real limitations — limited time, unreliable internet, power dynamics between participants, institutional rules about what can be taught and how. If your design ignores these realities, it will break on contact with them.
 
-Now, you apply that thinking to designing learning activities.
+Co-design is how you bring those realities into the design process itself. Rather than designing alone and hoping for the best, you involve the people who will participate in or be affected by the training. They help shape what the training will be and how it works — which topics to prioritise, how sessions are structured, what format suits the group.
 
-This section focuses on turning your outcomes into effective learning experiences where participants actively engage, contribute, and apply what they learn.
+!!! abstract "Co-design"
+    Participants help shape what the training will be and how it works. This means involving them in decisions about focus, structure, format, and priorities — not just asking for feedback after everything has been decided.
 
-**Activities are the bridge between your learning outcomes and what learners actually do in practice.** They are where learning is practised and made visible.
+This is different from what happens *within* activities during the training itself. In the next lesson, you will see how learners can contribute their knowledge and experience during activities — what we call co-creation. For now, the focus is on the design process: who shapes the training, under what constraints, and with what trade-offs.
 
-Training often breaks down at the activity level:
+## Constraints as design conditions
 
-- activities are unclear
-- participation is limited
-- tasks do not support outcomes
-- activities do not fit the context
+Constraints are not obstacles to work around — they are conditions to design within. Treating them as part of the brief, rather than problems to solve later, leads to more realistic and more effective training.
 
-Effective training is strongly influenced by what learners do, not only by what you present.
+The constraints that matter most vary by context, but they typically fall into a few categories:
 
-!!! quote "This section helps you move from..."
-    *“What content should I include?”*  
-    to:  
-    *“What should learners do to achieve the outcomes — in this context?”*
+- **Time and scheduling** — how much time learners have, when they are available, competing demands on their attention
+- **Technology and infrastructure** — internet reliability, device access, software availability, physical space
+- **Language and communication** — whether materials need translation, whether participants share a common working language, literacy levels
+- **Institutional dynamics** — who has authority over curriculum, what topics are sensitive, what approval processes exist
+- **Power and social dynamics** — relationships between participants, between participants and facilitators, between the training team and the community
 
-## Core concepts
+!!! question "What constraints are you designing within?"
+    Look at your system map from Lesson 1. Which actors, resources, or relationships create constraints on your training? Which of these constraints have you been treating as problems to solve rather than conditions to design within?
 
-!!! abstract "Structured, participatory activity design"
-    Strong learning activities are clearly structured, actively engage learners, and provide enough support at the right time to move from guided participation to more independent practice.
+### Making trade-offs explicit
 
-**Activities as part of alignment**  
-Activities are where learners work toward the intended outcomes and generate evidence of learning. They should be closely aligned with what learners need to do and what success looks like.
+Every design involves trade-offs. You cannot cover everything in the time available. You cannot make every activity work for every connectivity level. You cannot give participants full control over every decision and still deliver a coherent programme.
 
-**Co-creation in activities**  
-In this section, co-creation refers specifically to how learners contribute within activities. Co-creation can also happen during design and material development, but here the focus is on how it supports learning during the training itself.
+The danger is not in making trade-offs — it is in making them invisibly, without acknowledging what you are giving up. When trade-offs are invisible, they tend to favour the designer's assumptions over the learners' realities.
 
-**Activity structure**  
-A well-structured activity includes:
+A useful method: for each major design decision, write down what you chose, what you did not choose, and why. This does not need to be elaborate — a sentence for each is enough. The act of making it explicit forces you to check whether the trade-off is justified.
 
-- objective
-- instructions
-- materials
-- time
-- output
-- feedback
+!!! example "Trade-offs in practice"
+    A team designing data analysis training for community health workers has three days. They originally planned to cover both spreadsheet skills and basic statistical interpretation. After mapping constraints — participants have limited computer access between sessions, and the statistical content requires spreadsheet proficiency as a foundation — they cut the statistics module entirely. They document the trade-off: "We chose depth in spreadsheets over breadth across both topics, because participants cannot practise statistics without first being confident with spreadsheets. Statistics moves to a follow-up session." The cut is painful but honest.
 
-Clarity reduces confusion and makes participation easier.
+### Designing with participants, not just for them
 
-**Active learning**  
-Active learning means learners are discussing, solving, analysing, making, or applying something meaningful.
+Co-design means participants have real influence over decisions that matter. This sounds straightforward, but in practice it is easy to slip into tokenistic participation — asking for input with no intention of changing anything, or offering choices that do not meaningfully affect the training.
 
-**Scaffolding, sequencing, and psychological safety**  
-Scaffolding provides support early and reduces it over time. Sequencing places simpler or more guided tasks before more complex ones. Psychological safety matters because learners participate more fully when they know they can contribute, try, and revise without embarrassment or unnecessary risk.
+Start by clarifying what decisions participants can actually influence. Be honest about the boundaries. If the funder has already fixed the topic, say so — and then identify where genuine choice exists. Perhaps participants can influence which aspects of the topic get the most time, what examples are used, how groups are formed, or what format the final output takes.
 
-Learning is more likely to be effective when activities:
+Then choose co-design methods that fit your constraints:
 
-- focus attention on key ideas (managing cognitive load)
-- require learners to recall, use, or apply knowledge (retrieval)
-- connect to realistic tasks and contexts
+- **Pre-session consultations** — short conversations or surveys to understand priorities and surface constraints you may have missed
+- **Example gathering** — ask participants to bring cases, problems, or questions from their own work
+- **Feedback on drafts** — share activity outlines and ask what would make them more useful
+- **In-session adaptation** — build in decision points where participants can redirect the session based on what is emerging
 
+The key test is: can you point to a specific design decision that changed because of participant input? If not, the co-design may be more performative than substantive.
 
-## Practical guidance
+!!! warning "Participation is not always welcome"
+    Not all participants want to co-design. Some are exhausted by consultation processes that never lead to change. Some have been asked to contribute their expertise for free too many times. Before inviting participation, consider whether you are offering something genuinely valuable in return — and whether the people you are asking have reason to trust the process.
 
-### Step 1 — Design activities from outcomes
+### Ensuring participation is meaningful
 
-For each outcome, define:
+Meaningful participation requires more than good intentions. Check that:
 
-- what learners will do
-- what they will produce or decide
-- how this supports the outcome
+- Participants influence something that actually matters to them — not just minor details
+- Their input visibly shapes the training — they can see the connection between what they said and what was designed
+- The process does not extract knowledge or labour without reciprocity
+- You are transparent about what is and is not negotiable
 
-### Step 2 — Structure each activity clearly
+If participants contribute their expertise, local knowledge, or time to your design process, they should benefit from it. This might mean access to the finished materials, acknowledgement of their contribution, or simply a training that is genuinely more useful to them because they shaped it.
 
-Specify:
+!!! warning "Red flags: when participation becomes extractive"
+    Watch for these patterns in your own design process:
 
-- objective
-- step-by-step instructions
-- materials
-- time
-- output
-- feedback
+    - You asked for input but had already finalised the design — the consultation was performative
+    - Participants contributed local knowledge that improved your training, but received no credit or access to the resulting materials
+    - You offered a choice between options that don't meaningfully differ
+    - The participation process cost participants time or effort without a clear benefit to them
 
-Write it so that another facilitator could run the activity.
-
-### Step 3 — Design for participation
-
-Design participation intentionally:
-
-- use pair or small-group work
-- allow think time before discussion
-- offer multiple ways to contribute
-- make expectations visible
-
-### Step 4 — Apply scaffolding and sequencing
-
-Support learners by:
-
-- starting with guided examples
-- increasing complexity gradually
-- reducing support over time
-- sequencing activities so each one prepares for the next
-
-### Step 5 — Adapt activities using co-design and constraints
-
-Ensure activities:
-
-- work with the available tools and time
-- use locally relevant examples
-- leave room for participant knowledge and examples
-- support inclusive participation
-
-### Decision point
-
-> How structured and participatory will your learning activities be?
-
-- Loosely structured and facilitator-led
-- Moderately structured with some participation
-- Highly structured, participant-driven, and interactive
-
-Your choice will influence clarity, engagement, and learning quality.
-
-## Example
-
-- **Context:** A team is designing a session to help researchers analyse and interpret climate data.
-- **Decision:** Should they use a lecture-based approach or a structured hands-on activity?
-- **Action:** They design an activity with a clear objective, step-by-step instructions, a real local dataset, small-group work, a defined output, and time for feedback. They begin with a guided example and then move to more independent work.
-- **Outcome:** Participants actively engage, apply the method, and are more able to use it independently after the session.
+    If any of these apply, revisit your co-design plan.
 
 ## In practice
 
-👉 Use [Template 8: Learning Activity Design](../activities/template_8_activity_design.md)
+👉 [Activity 7: Co-Design Plan](../activities/activity_7_co_design.md) — Map who should be involved in your design decisions, identify your key constraints, and plan how you will involve participants meaningfully.
 
----
+👉 Come back to [Activity 1: System Map](../activities/activity_1_system_map.md)
 
-👉 Revisit [Template 9: Practice & Feedback Plan](../activities/template_9_practice_feedback.md)
-
-- **what to do:** Identify where learners will practise, receive feedback, and improve within your activity
-- **expected output:** A clearer link between your activity and learning processes
-- **approximate time:** 10–15 minutes
-
----
-
-### Suggested process
-
-**Step 1 — Start from outcomes**  
-Select one learning outcome.
-
-**Step 2 — Define the activity**  
-Decide what learners will do and produce.
-
-**Step 3 — Structure clearly**  
-Add instructions, materials, time, and output.
-
-**Step 4 — Add support**  
-Include scaffolding and participation strategies.
-
-**Step 5 — Check alignment**  
-Ensure the activity supports the intended outcome.
-
-## Key takeaways
+**what to do:** Add the key constraints and power dynamics you have identified in this lesson. Mark which relationships in your system create design constraints, and note any actors who should be involved in co-design but are not yet included.
 
 !!! tip "Key takeaway"
-    Activities are where learning is practised and made visible. They should align closely with your intended outcomes.
-
-!!! tip "Key takeaway"
-    Clear structure, scaffolding, and psychological safety make it easier for learners to engage and improve.
+    Constraints are not design failures — they are the design brief. A training that works within real conditions is more valuable than one that assumes ideal ones.
 
 ## Before you move on
 
-You have now designed what learners will do in your training.
-
-In the next lesson, you will focus on how learners practise, receive feedback, and improve through iteration.
-
 You should now have:
 
-- at least one clearly structured learning activity
-- a plan for participation and support
-- stronger alignment between your activities, outcomes, and context
+- a clear picture of who is shaping your training and who else should be involved
+- a map of the key constraints affecting your design choices
+- explicit trade-offs with reasoning for each
+- a plan for meaningful participant involvement in your design process
 
 ## Further reading (optional)
 
-- Prince, M. (2004) — *Does Active Learning Work? A Review of the Research*  
-  → Supports: active learning and participation in training design  
-  → Why it matters: provides evidence that active engagement improves learning outcomes  
-  → Source: [https://doi.org/10.1002/j.2168-9830.2004.tb00809.x](https://doi.org/10.1002/j.2168-9830.2004.tb00809.x)
+- Sanders, E., & Stappers, P. (2008) — *Co-creation and the New Landscapes of Design*
+  → Supports: co-design principles and participant involvement
+  → Why it matters: explains how involving stakeholders improves relevance and outcomes
+  → Source: [https://doi.org/10.1080/15710880701875068](https://doi.org/10.1080/15710880701875068)
 
-- Vygotsky, L. (1978) — *Mind in Society: The Development of Higher Psychological Processes*  
-  → Supports: scaffolding and social dimensions of learning  
-  → Why it matters: explains how guided support enables learners to progress toward independence  
-  → Source: [https://www.hup.harvard.edu/books/9780674576292](https://www.hup.harvard.edu/books/9780674576292)
+- IDEO.org (2015) — *The Field Guide to Human-Centered Design*
+  → Supports: designing with participants under real-world constraints
+  → Why it matters: provides practical methods for participatory design in constrained contexts
+  → Source: [https://www.designkit.org/resources/1](https://www.designkit.org/resources/1)
 
-- Ambrose, S., Bridges, M., DiPietro, M., Lovett, M., & Norman, M. (2010) — *How Learning Works: Seven Research-Based Principles for Smart Teaching*  
-  → Supports: structuring activities and supporting effective participation  
-  → Why it matters: translates learning science into practical guidance for designing effective activities  
-  → Source: [https://www.wiley.com/en-us/How+Learning+Works%3A+Seven+Research-Based+Principles+for+Smart+Teaching-p-9780470484104](https://www.wiley.com/en-us/How+Learning+Works%3A+Seven+Research-Based+Principles+for+Smart+Teaching-p-9780470484104)
+- Chambers, R. (1994) — *Participatory Rural Appraisal (PRA): Challenges, Potentials and Paradigm*
+  → Supports: ethical participation and avoiding extractive practices
+  → Why it matters: offers Global South-informed approaches to inclusive and participatory design
+  → Source: [https://doi.org/10.1016/0305-750X(94)90030-2](https://doi.org/10.1016/0305-750X(94)90030-2)

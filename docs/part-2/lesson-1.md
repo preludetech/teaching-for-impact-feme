@@ -142,7 +142,7 @@ You do not need full answers yet — this helps you start noticing what supports
 
 ## In practice
 
-👉 Use [Template 12: OER Workflow](../activities/template_12_oer.md)
+👉 Use [Activity 14: OER Workflow](../activities/activity_14_oer.md)
 
 Focus on:
 
@@ -158,7 +158,7 @@ Include:
 
 ---
 
-👉 Revisit [Template 12: OER Workflow](../activities/template_12_oer.md)
+👉 Revisit [Activity 14: OER Workflow](../activities/activity_14_oer.md)
 
 Include:
 
@@ -168,7 +168,7 @@ Include:
 
 ---
 
-👉 Revisit [Template 8: Learning Activity Design](../activities/template_8_activity_design.md)
+👉 Revisit [Activity 8: Learning Activity Design](../activities/activity_8_activity_design.md)
 
 Include:
 
@@ -190,7 +190,7 @@ Decide whether to reuse, adapt, or create.
 Make one targeted improvement.
 
 **Step 4 — Update your decisions**  
-Capture what changed and why in Template 12.
+Capture what changed and why in Activity 14.
 
 ## Key takeaways
 

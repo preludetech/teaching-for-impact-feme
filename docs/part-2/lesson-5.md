@@ -147,7 +147,7 @@ This helps others quickly decide whether your materials are relevant and worth u
 
 ## In practice
 
-👉 Use [Template 12: OER Workflow](../activities/template_12_oer.md)
+👉 Use [Activity 14: OER Workflow](../activities/activity_14_oer.md)
 
 Focus on:
 
@@ -163,7 +163,7 @@ Include:
 
 ---
 
-👉 Revisit [Template 9: Practice & Feedback Plan](../activities/template_9_practice_feedback.md)
+👉 Revisit [Activity 9: Practice & Feedback Plan](../activities/activity_9_practice_feedback.md)
 
 Include:
 

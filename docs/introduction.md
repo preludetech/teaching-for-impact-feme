@@ -34,7 +34,7 @@ Throughout the workbook, you will find:
 
 - practical steps and decision points  
 - examples grounded in real contexts  
-- templates to apply directly to your own work  
+- activities to apply directly to your own work  
 
 !!! tip
     Engage actively with the workbook. Apply each section to your own context as you progress.

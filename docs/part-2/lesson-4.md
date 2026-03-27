@@ -151,7 +151,7 @@ Coherence does not need to be perfect — it needs to be workable in your contex
 
 ## In practice
 
-👉 Use [Template 12: OER Workflow](../activities/template_12_oer.md)
+👉 Use [Activity 14: OER Workflow](../activities/activity_14_oer.md)
 
 Focus on:
 
@@ -168,7 +168,7 @@ Include:
 
 ---
 
-👉 Revisit [Template 8: Learning Activity Design](../activities/template_8_activity_design.md)
+👉 Revisit [Activity 8: Learning Activity Design](../activities/activity_8_activity_design.md)
 
 Include:
 
