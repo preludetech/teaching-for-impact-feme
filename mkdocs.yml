@@ -114,11 +114,13 @@ nav:
   - Part 2 - From Training Design to OER:
       - Overview: part-2/index.md
       - 1. Designing for Openness: part-2/lesson-1.md
-      - 2. Finding and Evaluating Existing OER: part-2/lesson-2.md
-      - 3. What Makes Resources Open?: part-2/lesson-3.md
+      - 2. Finding and Evaluating OER: part-2/lesson-2.md
+      - 3. Understanding Open Licenses: part-2/lesson-3.md
       - 4. Adapting, Remixing, and Localising OER: part-2/lesson-4.md
-      - 5. Sharing and Publishing OER: part-2/lesson-5.md
-      - 6. Sustaining and Improving OER: part-2/lesson-6.md      
+      - 5. Creating OER from Scratch: part-2/lesson-5.md
+      - 6. Sharing and Publishing OER: part-2/lesson-6.md
+      - 7. Sustaining and Improving OER: part-2/lesson-7.md
+      - Closing: part-2/closing.md
   - Extra Topics:
       - Overview: extra-topics/index.md
       - Facilitation, Delivery, and Session Structure: extra-topics/facilitation.md

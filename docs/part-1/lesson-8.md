@@ -60,6 +60,8 @@ Consider building multiple feedback sources into your design. Peer feedback work
 !!! tip "Feedback as a two-way signal"
     When multiple learners struggle with the same thing, that is feedback on your teaching, not just their learning. Pay attention to patterns in learner difficulty — they often point to gaps in your instruction or activity design that you can address in real time.
 
+    As an educator, it's very helpful to get creative about where you can get feedback about the quality of your teaching. Learner struggles are a great source of information.
+
 ## Building in iteration
 
 One of the simplest and most powerful design moves is to let learners try something more than once. A first attempt reveals gaps. Feedback illuminates what to change. A second attempt lets learners act on that feedback. This is where the deepest learning happens — in the revision, not the first draft.

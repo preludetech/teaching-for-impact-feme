@@ -6,17 +6,24 @@ Now you shift from **designing training** to **making that design usable beyond 
 
 Well-designed training is not enough if it:
 
-- depends on you being present to work  
-- cannot be reused without redesign  
-- cannot be adapted to new contexts  
+- depends on you being present to work
+- cannot be reused without redesign
+- cannot be adapted to new contexts
 
 Part 2 focuses on turning your training into **open, adaptable, and reusable resources**.
 
 This means creating materials that:
 
-- can be understood without additional explanation  
-- can be reused and adapted by others (and your future self)  
-- can travel across contexts while remaining meaningful  
+- can be understood without additional explanation
+- can be reused and adapted by others (and your future self)
+- can travel across contexts while remaining meaningful
+
+By the end of Part 2, you will be able to:
+
+- Make your training materials clear enough to be used without additional explanation
+- Apply open practices — reuse, adaptation, creation, licensing, and sharing — to extend the reach of your training design
+- Prepare materials that can travel across contexts while remaining meaningful
+- Plan realistic approaches to sustaining and improving your materials over time
 
 This is not about perfection or completeness.
 
@@ -27,8 +34,9 @@ It is about making your work **a little more usable, a little more shareable, an
 ## Lessons in this part
 
 1. [Designing for Openness](../part-2/lesson-1.md)
-2. [Finding and Evaluating Existing OERs](../part-2/lesson-2.md)
-3. [What Makes Resources Open?](../part-2/lesson-3.md)
-4. [Adapting, Remixing, and Localising OERs](../part-2/lesson-4.md)
-5. [Sharing and Publishing OERs](../part-2/lesson-5.md)
-6. [Sustaining and Improving OERs](../part-2/lesson-6.md)
+2. [Finding and Evaluating OER](../part-2/lesson-2.md)
+3. [Understanding Open Licenses](../part-2/lesson-3.md)
+4. [Adapting, Remixing, and Localising OER](../part-2/lesson-4.md)
+5. [Creating OER from Scratch](../part-2/lesson-5.md)
+6. [Sharing and Publishing OER](../part-2/lesson-6.md)
+7. [Sustaining and Improving OER](../part-2/lesson-7.md)
