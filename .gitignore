@@ -2,3 +2,4 @@
 site/
 .claude/settings.local.json
 docs/downloads/
+.playwright-mcp/
