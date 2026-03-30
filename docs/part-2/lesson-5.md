@@ -65,7 +65,7 @@ When you create examples, build in replaceability:
 
 Every resource carries assumptions. When you create from scratch, you have the opportunity to make them visible from the start — rather than leaving them for someone else to discover.
 
-At the top of each module or resource, state:
+It's useful to state:
 
 - **What learners need to know** — prior knowledge, skills, or concepts
 - **What learners need to have** — tools, software, connectivity, physical materials
