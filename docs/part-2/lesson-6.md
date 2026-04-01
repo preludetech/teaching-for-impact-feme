@@ -1,255 +1,142 @@
 ---
 learning_outcomes:
-  - Understand the lifecycle of OER beyond initial creation and sharing
-  - Identify realistic approaches to maintaining and updating materials
-  - Collect and use feedback to improve training materials
-  - Make decisions about when to update, maintain, or archive materials
-  - Ensure materials remain usable and relevant over time
+  - Prepare OER so they can be understood and used without additional explanation
+  - Choose an appropriate license for your materials
+  - Select platforms and formats that support access and reuse
+  - Document materials clearly to support discovery and adaptation
+  - Make practical decisions about when materials are ready to share
 guiding_questions:
-  - What happens to materials after they are shared?
-  - How do you keep your materials relevant over time?
-  - What feedback should you collect and use?
-  - 'What does "sustainable" mean in practice?'
-  - When should you update, maintain, or stop maintaining materials?
+  - When are your materials ready to share?
+  - What license should you choose for your materials?
+  - Where should you publish, and in what format?
+  - What information do others need to reuse your work?
+  - How do you make your materials findable?
 ---
 
 {% include "lesson_header.md" %}
 
-## Why this matters
+Your materials work for your training. Now the question shifts: can someone else use them?
 
-In the previous section, you prepared and shared your materials so they can be used by others.
+There is a gap between materials that work for you and materials that work for others. You know your sequencing logic, the unstated context, the way an activity flows — but that knowledge is invisible to someone encountering your work for the first time. A facilitator browsing a repository needs to quickly understand what a resource is, who it is for, and how to use it. If those questions require detective work, they will move on.
 
-Your materials **are now being used by others**.
+This lesson is about closing that gap — through documentation, licensing, format choices, and platform decisions that make your work genuinely shareable.
 
-Once materials are shared, they are used in real contexts, by different people, under changing conditions. Over time, they may become:
+## Choosing a license for your materials
 
-- outdated  
-- misaligned with new contexts  
-- unclear or incomplete  
-- difficult to use without revision  
+In Lesson 3, you learned how Creative Commons licenses work and what each condition (BY, SA, NC, ND) means. Now you need to choose one for your own materials. This is a design choice, not a legal formality — the license you pick shapes who can use your work and how far it can travel.
 
-Most OER do not fail because they are poorly designed.  
-They become less useful when they are **not maintained, improved, or reused effectively**.
+The decision comes down to one question: **how open do you want to be?**
 
-This section focuses on how to make practical decisions about maintaining and improving your materials over time.
+For training materials, **CC BY** is usually the right choice. It allows anyone to reuse, adapt, and redistribute your work as long as they credit you — maximising reach with no barriers. If you want adaptations to remain open on the same terms, **CC BY-SA** achieves that. Adding NC (NonCommercial) or ND (NoDerivatives) restrictions significantly limits who can use your work; ND in particular undermines the core value of open training materials, since it prevents the localisation and adaptation that make resources genuinely useful.
 
-!!! quote "This section helps you move from..."
-    *"My materials are shared"*  
-    to:  
-    *"My materials remain usable and improve over time"*
+!!! tip "When in doubt, choose CC BY"
+    CC BY is the default for materials intended to have the widest possible impact. It removes barriers to reuse while still ensuring you receive credit.
 
----
+One constraint to check: if you adapted materials from other sources, their licenses may limit your options. CC BY-SA source material, for example, requires your version to carry the same license. Review your source licenses before finalising your own.
 
-## Core concepts
+## Preparing materials for others
 
-!!! abstract "OER lifecycle"
-    OER exist within a cycle of use, feedback, and improvement.
+### Checking readiness
 
-Reuse → Adapt → Share → Use → Gather feedback → Improve → (repeat)
+In Lesson 5, you applied the "stranger test" — writing materials that someone in a different context could follow without your help. Now apply that same lens one more time, specifically for sharing. Work through your materials and ask:
 
-Materials gain value through use and iteration, not just publication.
+- **Can someone follow the instructions without you in the room?** Where would a new facilitator need to improvise or guess?
+- **Is the purpose of each component clear?** Not just what to do, but why?
+- **Are prerequisites stated?** What must learners know, have, or have completed beforehand?
+- **Is anything still in your head?** Verbal context, on-the-fly adjustments, delivery notes — if it matters, write it down.
 
----
+!!! tip "Ready enough is ready"
+    The most common reason materials are never shared is waiting until they feel complete. They will not. Share when materials are clear enough to be useful, and plan to improve them based on how they are actually used. A first version with rough edges is more valuable than a polished version that never leaves your hard drive.
 
-!!! abstract "Sustainability"
-    Sustainability is about making realistic decisions about how materials are maintained over time.
+### Adding documentation
 
-Not all materials need continuous updates. Sustainability depends on how materials are used, how relevant they remain, and what capacity is available.
+Documentation is the context that makes your materials usable by strangers. At minimum, include:
 
----
+- **Purpose and learning outcomes** — what the materials are designed to achieve
+- **Intended audience** — who the materials are for, including assumed background and skill level
+- **Instructions for use** — how to use the materials, including sequencing, timing, and any preparation needed
+- **Assumptions and requirements** — what tools, access, or prior knowledge is needed
+- **License and attribution** — your chosen license and credits for any adapted materials
 
-!!! abstract "Feedback for improvement"
-    Feedback shows how materials perform in real contexts.
+Place this documentation where users will find it. A README file in a repository, an introductory section in a document, or a metadata page on a platform all work. The key is that someone should not have to open and read every file to understand what the collection contains and how to use it.
 
-This builds on earlier work where you designed practice and feedback. Here, feedback helps identify what needs to improve in the materials themselves.
+## Choosing formats and platforms
 
----
+Where and how you share materials affects who can access and use them. These are practical decisions, not afterthoughts.
 
-!!! abstract "Versioning and transparency"
-    Versioning tracks changes over time and helps others understand what has changed and why.
+### Format for access
 
-Clear versioning supports reuse, trust, and ongoing improvement.
+The format you choose determines whether others can actually adapt your work — not just read it.
 
----
+**Share in editable formats** (Word, Markdown, Google Docs, LaTeX source). If you share only a PDF, you are technically allowing adaptation but practically making it very difficult. The accessibility principles from Lesson 5 — structured headings, alt text, clear language — also matter here, because they determine whether your materials work across devices, screen readers, and low-bandwidth settings.
 
-## Practical guidance
+!!! warning "PDF is not an open format"
+    PDF is useful for final, fixed-layout documents, but it is not ideal as a primary sharing format for OER. It is difficult to edit and does not adapt well to different screen sizes. If you share a PDF, also provide an editable source file.
 
-### Step 1 — Identify how your materials will be used
+### Platform for purpose
 
-Clarify:
+Where you publish depends on who you want to reach and how you expect materials to be used.
 
-- who is using the materials  
-- in what contexts  
-- how frequently they are used  
+**Institutional repositories** (your university's or organisation's open access platform) provide permanence and discoverability within academic systems. Good for materials you want to be citable.
 
-This helps you decide what level of maintenance is realistic for you.
+**Domain repositories** like [Zenodo](https://zenodo.org/) provide DOIs (persistent identifiers) and are designed for research outputs including training materials. Useful when you want a citable, permanent reference.
 
----
+**Code and content platforms** like [GitHub](https://github.com/) support versioning, collaboration, and community contributions. Well-suited for materials that will evolve over time, especially technical training.
 
-### Step 2 — Collect meaningful feedback
+**Open platforms** like [OER Commons](https://www.oercommons.org/) are designed specifically for educational resources, with metadata fields that support discovery by other educators.
 
-Focus on feedback that helps you improve your materials:
+**Your own website or blog** gives you full control and immediate accessibility, but lacks the discoverability and permanence of repositories.
 
-- where learners struggle or disengage  
-- what facilitators need to explain or adjust  
-- what does not work in different contexts  
+There is no single correct choice. You can publish in multiple places — a primary version on GitHub with a citable snapshot on Zenodo, for example. Choose based on where your intended audience is most likely to look.
 
-Avoid collecting feedback that does not lead to action.
+### Making materials findable
 
----
+Even well-prepared materials are useless if no one can find them. Help potential users discover your work:
 
-### Step 3 — Decide how to respond
-
-> What level of maintenance is appropriate?
-
-- Active maintenance → regularly update and improve  
-- Occasional updates → revise when needed  
-- No maintenance → archive and do not update  
-
-Choose based on:
-
-- relevance  
-- usage  
-- available time and capacity  
-
-There is no single correct approach — choose what is realistic for you.
-
----
-
-### Step 4 — Make targeted improvements
-
-Prioritise changes that:
-
-- improve clarity and usability  
-- address recurring issues  
-- adapt to new contexts  
-
-Focus on changes that make the biggest difference rather than trying to improve everything.
-
----
-
-### Step 5 — Track and communicate changes
-
-Record:
-
-- what changed  
-- why it changed  
-- which version is current  
-
-This helps others understand how to use your materials and what to expect.
-
----
-
-### Step 6 — Re-evaluate fit
-
-> Do these materials still serve their intended purpose?
-
-- Yes → continue using and maintaining  
-- Partially → adapt further  
-- No → retire or replace  
-
-All of these are valid outcomes. This step helps you decide what to do next.
-
----
-
-## Example
-
-- **Context:** A trainer has shared a set of workshop materials that are now being used by others in different regions.  
-- **Decision:** Should the materials be actively maintained or left as they are?  
-- **Action:** They collect feedback from facilitators and identify recurring issues with unclear instructions and context-specific examples. They prioritise updates to improve clarity and generalise examples, and release a revised version with documented changes.  
-- **Outcome:** The materials become easier to use across contexts, leading to broader adoption and more effective reuse.
-
----
+- **Clear, descriptive titles** — "Introduction to Qualitative Data Analysis: Workshop Materials for Community Health Researchers" is findable; "Module 3 Materials" is not
+- **Keywords and tags** — use terms your audience would search for, including discipline, level, method, and format
+- **A clear summary** — a 2–3 sentence description that tells someone what the materials are, who they are for, and what they cover
+- **Context for use** — a note about the setting the materials were designed for, which helps others judge relevance
 
 ## In practice
 
-👉 Use [Activity 14: OER Workflow](../activities/activity_14_oer.md)
+👉 Use [Activity 14: OER Workflow](../activities/activity_14_oer.md) — prepare your materials for sharing
 
-Focus on:
+Work through Section 4 (Prepare for Sharing). Document what you will share, in what format, with what license, on what platform, and with what documentation.
 
-- defining how your materials will be used and maintained  
-- planning how feedback will inform improvements  
-- making realistic decisions about sustainability  
-
-Include:
-
-- **what to do:** Define how your material will be used, what feedback you will collect, and what level of maintenance is realistic  
-- **focus sections:** 5 (Sustainability and Improvement)  
-- **expected output:** A sustainability plan that includes feedback approach, maintenance level, and update strategy  
-- **approximate time:** 20–30 minutes  
+- **what to do:** Prepare at least one set of materials for sharing — add documentation, choose a license, select a format and platform, and ensure the materials can be used without your explanation
+- **focus sections:** 4 (Prepare for Sharing)
+- **expected output:** Materials ready to share, with documentation, license, and a plan for where and how to publish
+- **approximate time:** 20–30 minutes
 
 ---
 
-👉 Revisit [Activity 14: OER Workflow](../activities/activity_14_oer.md)
+👉 Come back to [Activity 9: Practice & Feedback Plan](../activities/activity_9_practice_feedback.md)
 
-Focus on:
-
-**Versioning**
-
-Include:
-
-- **what to do:** Define how you will track changes and what counts as a new version  
-- **expected output:** A simple versioning approach that makes updates visible and understandable  
-- **approximate time:** 10–15 minutes  
-
----
-
-### Suggested process
-
-**Step 1 — Identify use patterns**  
-Clarify who will use the material and how often.
-
-**Step 2 — Define feedback sources**  
-Decide what feedback is meaningful and how it will be collected.
-
-**Step 3 — Choose maintenance level**  
-Select active, occasional, or no maintenance.
-
-**Step 4 — Plan updates**  
-Identify what will realistically be improved over time.
-
-**Step 5 — Define versioning**  
-Decide how changes will be tracked and communicated.
-
-**Step 6 — Repeat as needed**  
-Update your plan as your materials are used and improved.
-
----
-
-## Key takeaways
-
-!!! tip "Key takeaway"
-    OER gain value through use and improvement, not just publication.
-
-!!! tip "Key takeaway"
-    Sustainable materials are those that are maintained in ways that are realistic for your context and capacity.
+- **what to do:** Identify where someone using your materials might need clarification or support. Use this to refine your documentation — if you can anticipate where a facilitator would struggle, address it in the materials rather than leaving it to chance.
+- **expected output:** Refined documentation informed by anticipating how others will use your materials
+- **approximate time:** 10–15 minutes
 
 ## Before you move on
 
-At this point, you should have:
+You should now have:
 
-- a clearer understanding of how your materials will be used  
-- a plan for collecting meaningful feedback  
-- a defined maintenance approach (active, occasional, or none)  
-- a simple plan for tracking and communicating updates  
+- materials that can be used without your explanation
+- a chosen license applied to your materials
+- clear documentation (purpose, audience, instructions, assumptions, attribution)
+- a decision about format and platform for sharing
+- materials that are findable (clear title, keywords, summary)
 
-These are working plans. You can adjust them as your materials are used and as your context changes.
-
----
+In the next lesson, you will plan how to sustain and improve your materials over time as they are used in real contexts.
 
 ## Further reading (optional)
 
-- UNESCO (2019) — *Recommendation on Open Educational Resources*  
-  → Supports: sustainability and reuse of OER  
-  → Why it matters: emphasises long-term access, adaptation, and collaboration  
-  → Source: https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer  
+- UNESCO (2019) — *Recommendation on Open Educational Resources*
+  → Supports: sharing, access, and platform strategies for OER
+  → Why it matters: defines international principles for making resources widely available, including guidance on formats, platforms, and policies
+  → Source: https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer
 
-- Wiley, D., & Hilton, J. (2018) — *Defining OER-enabled pedagogy*  
-  → Supports: reuse and iterative improvement  
-  → Why it matters: links openness to continuous improvement and impact  
-  → Source: https://opencontent.org/blog/archives/5009  
-
-- Atenas, J., Havemann, L., & Timmermann, C. (2020) — *Critical literacies for open educational practices*  
-  → Supports: reflective and adaptive use of OER  
-  → Why it matters: highlights the importance of context and iteration in OER use  
-  → Source: https://doi.org/10.5334/jime.576  
+- Atenas, J., & Havemann, L. (2014) — *Questions of quality in repositories of open educational resources*
+  → Supports: discoverability and platform choice
+  → Why it matters: examines what makes OER repositories effective, including metadata, quality indicators, and user experience
+  → Source: https://www.irrodl.org/index.php/irrodl/article/view/2083

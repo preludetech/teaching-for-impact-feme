@@ -10,7 +10,7 @@ approximate_time: "20–30 minutes"
 
 ## Instructions
 
-You have worked through a full design cycle — from mapping your system to planning assessment and evaluation. This activity asks you to pull it all together into a single, structured snapshot of your training design. The snapshot is not new work; it is a consolidation. You are gathering decisions you have already made, checking that they still cohere, and producing a summary you can share with collaborators or use as a foundation for Part 2.
+You have worked through a full design cycle — from mapping your system to planning assessment. This activity pulls it all together into a single structured snapshot. This is not new work. You are gathering decisions you have already made, checking that they still cohere, and producing a summary you can share with collaborators or use as a foundation for Part 2.
 
 ## You will use
 
@@ -29,45 +29,38 @@ You have worked through a full design cycle — from mapping your system to plan
 ### Training overview
 
 - **Title:** (if it has one)
-- **Target audience:** (who are your learners?)
-- **Context:** (where, when, and under what conditions will this training run?)
+- **Target audience:** Who are your learners?
+- **Context:** Where, when, and under what conditions will this training run?
+- **Delivery format:** In-person, online, or hybrid?
+- **Duration:** Total time, number of sessions
 
 ---
 
-### Integrated design
+### Design summary
 
-Pull together the key decisions from your earlier activities:
+Bring together the key decisions from your earlier activities into one place. For each field, pull from the activity referenced — do not start from scratch.
 
-- **System:** What is the most important thing your system map revealed about where your training sits? (from Activity 1)
+- **System positioning:** What is the most important thing your system map revealed about where your training sits? (from [Activity 1](../activities/activity_1_system_map.md))
 - **Key learner constraints:** What are the 2–3 most significant constraints your learners face? (from [Activity 3: Learner Reality Mapping](../activities/activity_3_learner_reality.md))
-- **Outcomes:** What are your 3–5 most important learning outcomes? (from Activity 5)
-- **Core activity:** What is the central activity in your training — the one that most directly helps learners achieve the outcomes? (from [Activity 8: Learning Activity Design](../activities/activity_8_activity_design.md))
+- **Learning outcomes:** List your 3–5 most important outcomes. (from [Activity 5](../activities/activity_5_learning_outcomes.md))
+- **Core activities:** What are the central activities in your training — the ones that most directly helps learners achieve those outcomes? Name and describe each one in one sentence. (from [Activity 8: Learning Activity Design](../activities/activity_8_activity_design.md))
 - **Assessment approach:** How will you know whether learners are learning during the training? (from [Activity 10: Assessment Plan](../activities/activity_10_assessment.md))
 - **Evaluation approach:** How will you know whether the training contributed to change after the event? (from [Activity 12: Evaluation Plan](../activities/activity_12_evaluation_plan.md))
 
 ---
 
-### Core elements
-
-- **Delivery format:** (in-person, online, hybrid)
-- **Duration:** (total time, number of sessions)
-- **Key outcomes:** (list your top 3–5)
-- **Core activity:** (name and brief description)
-
----
-
 ### Coherence check
 
-Read through what you have written above, then answer:
+Read through what you have written, then answer:
 
 - Do your outcomes, activities, and assessment align? If you removed any one element, would the others still make sense?
-- Does this design work in your learners' real context — given the constraints you identified in Activity 3?
+- Does this design work in your learners' real context — given the constraints you identified?
 - Where is the weakest link in the chain from outcomes to activities to assessment? What would strengthen it?
 - What must change before you could deliver this training?
 
 ---
 
-### Final decision points
+### Decision points
 
 - What is the most important trade-off you made during this design process?
 - If time or resources are more limited than you planned, what will you prioritise and what will you cut?
@@ -83,7 +76,7 @@ Read through what you have written above, then answer:
 
 ## If you already have a training
 
-Your snapshot should capture both what exists and what you have changed through this design process. As you fill it in, note where your design has shifted from what you were doing before — those shifts are the value of the process.
+Your snapshot should capture both what exists and what you have changed through this design process. As you fill it in, note where your design has shifted — those shifts are the value of the process.
 
 - Where has your design changed most since you started this workbook?
 - Which earlier activity prompted the biggest change?
@@ -95,7 +88,7 @@ Your snapshot is your first complete picture of what you are building. It does n
 
 - Mark any field where you are still uncertain with a question mark. These are areas to resolve before delivery.
 - For the coherence check, pay particular attention to whether your outcomes are achievable in the time and format you have planned. First designs often aim too high.
-- Share your snapshot with someone who knows your context — a colleague, a potential co-facilitator, or someone from your target audience. Ask them: "Does this make sense? What am I missing?"
+- Share your snapshot with someone who knows your context — a colleague, a co-facilitator, or someone from your target audience. Ask them: "Does this make sense? What am I missing?"
 
 ---
 
@@ -112,9 +105,9 @@ Your snapshot is your first complete picture of what you are building. It does n
 
 ---
 
-## Updating this snapshot
+## Iteration
 
-This snapshot is a living document. Update it as your design evolves — particularly after working through Part 2, where your thinking about openness and sharing may change what you include and how you structure it.
+This snapshot is a living document. After working through Part 2, return here and update it — your thinking about openness and sharing may change what you include and how you structure your training.
 
 ---
 

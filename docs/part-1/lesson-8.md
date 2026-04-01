@@ -60,6 +60,8 @@ Consider building multiple feedback sources into your design. Peer feedback work
 !!! tip "Feedback as a two-way signal"
     When multiple learners struggle with the same thing, that is feedback on your teaching, not just their learning. Pay attention to patterns in learner difficulty — they often point to gaps in your instruction or activity design that you can address in real time.
 
+    As an educator, it's very helpful to get creative about where you can get feedback about the quality of your teaching. Learner struggles are a great source of information.
+
 ## Building in iteration
 
 One of the simplest and most powerful design moves is to let learners try something more than once. A first attempt reveals gaps. Feedback illuminates what to change. A second attempt lets learners act on that feedback. This is where the deepest learning happens — in the revision, not the first draft.
@@ -90,6 +92,7 @@ The climate data training team from earlier lessons has designed an activity whe
 When the team reviewed this design, they realised it offered no opportunity for feedback or revision. A participant who misinterpreted the data would only discover this when reading facilitator comments days later — too late to learn from the mistake.
 
 They restructured the activity into three phases. First, participants completed an initial analysis individually (independent practice). Then they paired up to review each other's reports using a simple checklist: Does the conclusion follow from the data? Are the recommendations specific and actionable? Is anything missing? (collaborative practice with peer feedback). Finally, participants revised their reports based on the feedback they received, labelling their versions v0 and v1.
+
 
 The facilitators also watched for common patterns during the peer review phase. When they noticed that most pairs were struggling to connect their data findings to practical recommendations, they paused the activity for a brief whole-group discussion on bridging analysis and action — addressing a gap in their own instruction rather than leaving individuals to figure it out alone.
 

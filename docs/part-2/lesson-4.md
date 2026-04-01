@@ -1,232 +1,158 @@
 ---
 learning_outcomes:
   - Adapt OER to align with your learning outcomes, learners, and context
-  - Identify and modify assumptions embedded in existing resources
-  - Distinguish between surface-level and structural adaptation
-  - Make informed decisions about what to change, retain, or remove
-  - Document adaptations to support reuse and transparency
+  - Identify and address assumptions embedded in existing resources
+  - Distinguish between surface-level, structural, and contextual adaptation
+  - Apply correct attribution when building on others' work
+  - Document adaptations to support transparency and future reuse
 guiding_questions:
   - What needs to change for this resource to work in your context?
-  - What assumptions are embedded in the original material?
-  - How much adaptation is required?
-  - What should you keep, modify, or remove?
-  - How do you make your adaptations visible to others?
+  - What assumptions does the original material make about its audience?
+  - How do you decide what to keep, change, or remove?
+  - How do you credit the original creators when you adapt their work?
+  - How do you make your changes visible so others can build on them?
 ---
 
 {% include "lesson_header.md" %}
 
+You have found resources, evaluated their fit, and checked their licenses. Some of what you found is close to what you need — but not quite right. That is normal. Adaptation is the most common way people work with OER, and it is exactly what open licenses are designed to enable.
+
+This lesson is about making existing resources work in your context. Not wholesale redesign — targeted, purposeful changes that close the gap between what a resource assumes and what your learners actually need.
+
 ## Why this matters
 
-In the previous section, you clarified what you are allowed to do with the resources you selected.
+Most open resources were created for a different audience, a different setting, or a different set of constraints than yours. An activity designed for postgraduate students in London may assume stable internet, familiarity with certain software, and fluency in academic English. A workshop originally delivered to NGO staff may assume organisational structures and workflows your learners do not share.
 
-Based on what is possible, you now focus on **making those resources work in your training**.
+These mismatches do not make the resource bad. They make it a starting point. Adaptation is how you transform someone else's good design into something that works in your context — preserving what is valuable while changing what does not fit.
 
-Even when a resource is relevant and can be reused, it often does not fit your learners, context, or constraints without modification.
+The risk of skipping this step is real. Resources used without adaptation can confuse learners, undermine your outcomes, or create barriers you did not intend. But over-adaptation has costs too: if you change so much that the original structure no longer holds together, you may have been better off creating from scratch.
 
-If you use resources without adapting them, you may introduce:
+The goal is targeted change — enough to make the resource work, documented well enough that others (including your future self) can understand what you changed and why.
 
-- examples that do not resonate with your learners  
-- activities that assume tools or infrastructure that are not available  
-- sequences that do not match your learning outcomes  
-- explanations that rely on prior knowledge your learners do not have  
+## How adaptation works
 
-Adapting resources is a normal and expected part of working with OER. You do not need to adapt everything — even small, targeted changes can make a resource more usable.
+### Surfacing assumptions and mismatches
 
-!!! quote "This section helps you move from..."
-    *“This resource is usable”*  
-    to:  
-    *“This resource works in my context”*
+The first move in any adaptation is understanding what the original resource assumes and where those assumptions diverge from your reality. You began this work in Lessons 1 and 2 — identifying hidden assumptions and evaluating context fit. Now you apply that analysis to specific changes.
 
-## Core concepts
+Take the resource you are adapting and work through it section by section. For each part, ask two questions:
 
-!!! abstract "Adaptation"
-    Adaptation is the process of modifying a resource so it aligns with your learners, context, and outcomes.
+1. **What does this assume?** — about learners' prior knowledge, available tools, cultural context, language level, institutional setting, or time available
+2. **Where does that assumption not hold for my learners?** — where your context differs in ways that would cause confusion, exclusion, or failure
 
-Adaptation is expected when working with OER. It helps ensure materials are usable and relevant in your setting.
+Write these down. You are building a map of what needs to change, and being specific about the mismatch helps you make targeted decisions rather than vague improvements.
 
----
+!!! example "Surfacing assumptions"
+    A facilitator in Nairobi is adapting an OER data literacy module originally designed for a European university. Working through the material, she identifies several assumptions: the exercises use a specific proprietary statistics package her learners do not have; the case studies reference EU regulatory frameworks; the instructions are written in dense academic prose; and the module assumes 90-minute sessions when her workshops run in 45-minute blocks. Each of these is a specific, addressable mismatch — not a reason to abandon the resource.
 
-!!! abstract "Localisation"
-    Localisation is a type of adaptation that focuses on language, examples, culture, and context.
+### Levels of adaptation
 
-It helps make materials more accessible and meaningful for specific groups of learners.
+Not all changes are equal. Understanding the level of adaptation you are making helps you gauge the effort required and the risks involved.
 
----
+**Surface adaptation** changes the presentation without altering the underlying structure or learning design. This includes updating terminology to match your context, replacing images or formatting, translating text, or adjusting tone and reading level. Surface changes are low-risk and often the first thing to tackle.
 
-!!! abstract "Levels of adaptation"
-    Adaptation can happen at different levels, depending on how much needs to change.
+**Structural adaptation** changes how the material is organised or how learners engage with it. This includes reordering sections to match your outcomes, splitting a long activity into shorter ones, changing the mode of engagement (from individual to group work, from online to face-to-face), or removing sections that do not serve your design. Structural changes require more thought because they can affect coherence — removing one section may leave another section without the context it needs.
 
-- Surface → wording, formatting, terminology  
-- Structural → sequence, activities, emphasis  
-- Contextual → goals, assumptions, delivery conditions  
+**Contextual adaptation** changes the underlying goals, assumptions, or conditions. This includes replacing case studies with locally relevant scenarios, substituting tools that are available in your setting, rethinking prerequisite knowledge, or reframing the purpose of an activity for a different professional context. Contextual changes are the deepest and most impactful — they are also where the original resource's design is most likely to need careful rethinking.
 
-You do not need to change everything — choose the level of adaptation that fits your needs.
+Most adaptations involve all three levels. You might update terminology (surface), reorder activities (structural), and replace examples (contextual) in a single pass.
 
----
+### Making adaptation decisions
 
-!!! abstract "Design trade-offs"
-    Adapting resources involves balancing what you keep from the original with what you change to fit your context.
+For each mismatch you identified, decide:
 
-You are not required to preserve everything. Changing or removing parts of a resource is often necessary to make it work effectively.
+- **Keep** — it works as-is, or the mismatch is minor enough to address verbally during delivery
+- **Modify** — it needs specific changes to work, but the core structure is sound
+- **Remove** — it does not serve your outcomes and would create confusion or wasted time
+- **Replace** — the purpose is right but the content needs to be entirely different (a new example, a different tool, an alternative activity format)
 
-## Practical guidance
+These are design decisions under real constraints. You will not have time to adapt everything perfectly, and you should not try. Focus your effort on the changes that make the biggest difference for your learners. A localised example that helps learners connect with the material is worth more than perfect formatting.
 
-### Step 1 — Identify assumptions
+### Accessibility as adaptation
 
-Review the resource and ask:
+Adaptation is also an opportunity to make materials more accessible than the original. Consider:
 
-- What does this assume about learners’ prior knowledge?  
-- What tools or infrastructure are required?  
-- What context or examples are used?  
+- **Alternative formats** — If the original is a PDF, can you provide an editable version (Word, Markdown, Google Docs) so others can adapt it further? Can you provide a version that works on mobile devices?
+- **Simplified language** — If the original uses dense academic prose, can you simplify without losing meaning? This benefits all learners, not just those working in a second language.
+- **Alt text and structure** — If images lack descriptions, add them. If the document lacks proper headings, add structure that supports navigation and screen readers.
+- **Offline usability** — If the original assumes constant internet access, can you make it work offline? Can embedded videos be replaced with text descriptions or downloadable alternatives?
 
-Make implicit assumptions visible so you can work with them directly.
+These changes are not extras — they are part of making the resource genuinely usable in your context.
 
----
+## Attribution: crediting what you build on
 
-### Step 2 — Identify what does not fit
+When you adapt someone else's work, you have both a legal obligation (from the license) and a professional responsibility to credit the original creator. Good attribution is straightforward: it tells the reader where the material came from and what you changed.
 
-Compare the resource against your training:
+### What to include
 
-- learning outcomes  
-- learner realities  
-- constraints (time, access, language, tools)  
+A complete attribution has four elements:
 
-Highlight where there are mismatches.
+- **Creator** — who made the original
+- **Title** — the name of the original work
+- **Source** — where it can be found (a URL or repository reference)
+- **License** — what license applies to the original
 
----
+When you have adapted the material, add a note about what you changed:
 
-### Step 3 — Decide what to change
+> *Adapted from "Introduction to Qualitative Coding" by J. Mwangi, available at [link]. Original licensed under CC BY 4.0. Adapted by [your name]: examples replaced with community health scenarios; exercises restructured for 45-minute sessions; instructions simplified for non-specialist audience.*
 
-For each mismatch, decide:
+### Where to place attribution
 
-- keep → if it already fits  
-- modify → if it can be adapted  
-- remove → if it does not support your goals  
+Put attribution where it is visible and useful — not buried in a footnote. For a document, the beginning or end of the section that uses adapted material works well. For a slide deck, a final slide or a notes section. For a collection of materials, a central attribution page that lists all sources.
 
-You are making practical decisions under real constraints — not ideal ones. You do not need to change everything — focus on what will have the most impact.
+!!! tip "Key takeaway"
+    Attribution is not just a legal requirement — it is part of the open ecosystem. When you credit sources clearly, you make it easier for others to find and build on the same materials. You also model good practice for your learners.
 
----
+## Documenting your adaptations
 
-### Step 4 — Apply targeted adaptations
+Beyond attribution, document *what* you changed and *why*. This serves two purposes: it helps others who might want to adapt your version further, and it helps you remember your reasoning when you revisit the materials later.
 
-Make small, purposeful changes such as:
+A simple adaptation log captures the essentials:
 
-- adjusting examples to local context  
-- simplifying or restructuring activities  
-- changing sequencing to match your design  
-- removing unnecessary complexity  
+- **What you changed** — content, structure, examples, difficulty level, format
+- **Why you changed it** — the specific mismatch between the original's assumptions and your context
+- **What remains context-specific** — changes you made that are tied to your particular setting and might need further adaptation for other contexts
 
-Start with changes that make the biggest difference.
-
----
-
-### Step 5 — Document your changes
-
-Record:
-
-- what you changed  
-- why you changed it  
-- what assumptions were addressed  
-
-This helps others — and your future self — understand and reuse your work more easily.
-
----
-
-### Step 6 — Check coherence
-
-> Does the adapted resource still function as a learning experience?
-
-- Works well → ready to use  
-- Works partially → refine further  
-- Does not yet work → revisit your changes  
-
-Coherence does not need to be perfect — it needs to be workable in your context.
-
-## Example
-
-- **Context:** A trainer is adapting an OER workshop on data analysis for use in a low-resource setting.  
-- **Decision:** How much adaptation is required to make the workshop usable?  
-- **Action:** They identify assumptions about internet access, software availability, and prior technical knowledge. They replace online tools with offline alternatives, simplify exercises, and reorder activities to build foundational understanding.  
-- **Outcome:** The adapted workshop is more accessible and better aligned with learner needs, while still achieving the intended learning outcomes.
+This does not need to be elaborate. A few sentences per significant change is enough. The goal is transparency, not bureaucracy.
 
 ## In practice
 
-👉 Use [Activity 14: OER Workflow](../activities/activity_14_oer.md)
+👉 Use [Activity 14: OER Workflow](../activities/activity_14_oer.md) — document your adaptations and their rationale
 
-Focus on:
+Work through Section 3 (Adaptation and Localisation Log). For each resource you are adapting, record what you changed, why, and what remains specific to your context.
 
-- identifying what needs to change  
-- documenting your adaptation decisions  
-- refining your materials so they work in your context  
-
-Include:
-
-- **what to do:** Identify what to keep, modify, or remove and document your adaptation decisions  
-- **focus sections:** 3 (Adaptation and Localisation Log)  
-- **expected output:** An updated adaptation log with clear decisions and rationale  
-- **approximate time:** 20–30 minutes  
+- **what to do:** Apply targeted adaptations to at least one resource. Document what you changed, why, and what assumptions you addressed. Include attribution for each adapted resource.
+- **focus sections:** 3 (Adaptation and Localisation Log)
+- **expected output:** An adaptation log with documented changes, reasoning, and attribution for each adapted resource
+- **approximate time:** 20–30 minutes
 
 ---
 
-👉 Revisit [Activity 8: Learning Activity Design](../activities/activity_8_activity_design.md)
+👉 Come back to [Activity 8: Learning Activity Design](../activities/activity_8_activity_design.md)
 
-Include:
-
-- **what to do:** Update one activity using your adapted material so it works with minimal additional explanation and fits your context  
-- **expected output:** A revised, context-appropriate, and more reusable activity  
-- **approximate time:** 10–15 minutes  
-
----
-
-### Suggested process
-
-**Step 1 — Surface assumptions**  
-List assumptions embedded in the original resource.
-
-**Step 2 — Identify mismatches**  
-Compare with your learners and context.
-
-**Step 3 — Make decisions**  
-Decide what to keep, modify, or remove.
-
-**Step 4 — Apply changes**  
-Implement targeted adaptations.
-
-**Step 5 — Review and refine**  
-Check whether the material works and update your decisions if needed.
-
-## Key takeaways
-
-!!! tip "Key takeaway"
-    Adaptation helps make resources usable and relevant in real contexts.
-
-!!! tip "Key takeaway"
-    You do not need to adapt everything — focus on changes that make the biggest difference for your learners and context.
+- **what to do:** Update one activity using your adapted material. Check that the adapted resource fits within the activity flow — instructions are coherent, the adapted examples work, and the activity can be used without additional explanation.
+- **expected output:** A revised activity that integrates your adapted materials and works in your context
+- **approximate time:** 10–15 minutes
 
 ## Before you move on
 
-At this point, you should have:
+You should now have:
 
-- a set of resources with identified assumptions  
-- documented decisions on what to keep, modify, or remove  
-- at least one adapted activity  
-- materials that better reflect your learners and context  
+- at least one resource adapted for your context with specific, documented changes
+- assumptions identified and addressed at the appropriate level (surface, structural, or contextual)
+- clear attribution for each adapted resource
+- an adaptation log that explains what changed and why
 
-These are working versions. You will continue refining them as you prepare materials for sharing and reuse.
+If adaptation was not the right choice for all your materials — if some gaps need original content — the next lesson covers creating OER from scratch.
 
 ## Further reading (optional)
 
-- Wiley, D. (2014) — *The Access Compromise and the 5th R*  
-  → Supports: adaptation and reuse in open education  
-  → Why it matters: explains how openness enables modification and improvement  
-  → Source: https://opencontent.org/blog/archives/3221  
+- Hodgkinson-Williams, C., & Trotter, H. (2018) — *A social justice framework for understanding OER adoption*
+  → Supports: contextual adaptation and equity in OER
+  → Why it matters: highlights how power, context, and access shape what "adaptation" means in practice across different settings
+  → Source: https://doi.org/10.5334/jime.521
 
-- UNESCO (2019) — *Recommendation on Open Educational Resources*  
-  → Supports: localisation and equitable access  
-  → Why it matters: emphasises adapting resources for different contexts  
-  → Source: https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer  
-
-- Hodgkinson-Williams, C., & Trotter, H. (2018) — *A social justice framework for understanding OER adoption*  
-  → Supports: contextual and equity considerations in OER  
-  → Why it matters: highlights how context shapes effective use of OER  
-  → Source: https://www.roarmap.org/wp-content/uploads/2018/04/hodgkinson-williams_trotter_oer_adoption.pdf  
+- Amiel, T. (2013) — *Identifying barriers to the remix of translated open educational resources*
+  → Supports: practical challenges in adapting and localising OER
+  → Why it matters: examines the real barriers — format, language, cultural context — that make adaptation difficult, and how to design around them
+  → Source: https://doi.org/10.19173/irrodl.v14i1.1351

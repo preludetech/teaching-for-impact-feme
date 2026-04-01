@@ -1,227 +1,157 @@
 ---
 learning_outcomes:
-  - Prepare OER so they can be used without additional explanation
-  - Select appropriate platforms for sharing and publishing materials
-  - Ensure materials are discoverable and understandable by others
-  - Document materials clearly to support reuse and adaptation
-  - Make decisions about when a resource is ready to share
+  - Identify when creating OER from scratch is the right choice
+  - Design materials that are structured for openness and adaptability from the start
+  - Write instructions and activities that work for audiences you cannot see
+  - Build accessibility into materials by design rather than as an afterthought
 guiding_questions:
-  - When are your materials ready to share?
-  - Where should you publish your materials?
-  - How do you make your materials understandable to others?
-  - What information do others need to reuse your work?
-  - How do you ensure your materials can be found and used?
+  - When is creation the right choice over reuse or adaptation?
+  - How does creating for reuse differ from creating for yourself?
+  - What makes materials easy for others to adapt?
+  - How do you write for learners you will never meet?
 ---
 
 {% include "lesson_header.md" %}
 
+Sometimes the right resource does not exist. You have searched, evaluated, and checked licenses — and nothing fits. Perhaps you work in a niche domain where open training materials are scarce. Perhaps you need materials in a language that is underrepresented in OER repositories. Perhaps your training approach is novel enough that existing resources would need more reworking than building fresh.
+
+In these situations, creation is not a fallback — it is the right choice. But creating materials that will be open, reusable, and adaptable requires thinking differently from creating materials just for your next workshop.
+
 ## Why this matters
 
-In the previous section, you adapted resources so they work in your context.
+Most training materials are created for a single delivery: this workshop, this group, this week. That is a natural starting point, but it means the materials often depend on your presence, your context, and your tacit knowledge to work. They are functional notes, not standalone resources.
 
-Once your materials work in your context, the next step is to **make them usable for others**.
+Creating for openness means designing materials that can work beyond your immediate delivery — materials that a colleague in a different country could pick up, understand, adapt, and use effectively. This is a higher bar than "good enough for me," but it does not mean perfection. It means being deliberate about structure, clarity, and the assumptions you build in.
 
-For others to reuse and adapt your work, your materials need to be clear, understandable, and easy to use.
+This matters especially for the audience of this workbook. If you are a researcher or practitioner in a field where OER is scarce — particularly in the Global South, in indigenous knowledge systems, in emerging technical domains, or in languages other than English — you are not just creating materials for yourself. You are potentially filling a gap that affects everyone who comes after you. The choices you make about structure and openness determine whether your work can serve as a foundation others build on or remains locked to your specific use.
 
-If materials are not clearly documented and shared appropriately, they:
+## When to create from scratch
 
-- cannot be reused without your explanation  
-- are difficult to find  
-- are misinterpreted or misused  
-- fail to contribute to broader impact  
+Creation makes sense when:
 
-Sharing is not just about uploading files.
+- **Nothing suitable exists** — you have searched and evaluated, and no existing resource covers what you need
+- **The gap is too large to bridge through adaptation** — an existing resource would need to be so heavily modified that starting fresh is more efficient
+- **Your context is underrepresented** — the training you need reflects a setting, language, discipline, or learner population that is not well-served by existing OER
+- **Your approach is novel** — you are teaching something new, or teaching something familiar in a way that does not have established open materials
 
-It is about making your materials **usable, understandable, and reusable by others**.
+The decision to create should come *after* evaluating what exists (Lesson 2), not before. Even when you create from scratch, existing resources can inform your approach — you might borrow a structure from one, a question format from another, and an assessment approach from a third, without reusing any content directly.
 
-You do not need to make everything perfect before sharing. The goal is to make materials clear enough that others can use them with reasonable effort.
+## Designing for openness from the start
 
-!!! quote "This section helps you move from..."
-    *“These materials work for my training”*  
-    to:  
-    *“These materials can be used and adapted by others”*
+The difference between "creating materials" and "creating open materials" comes down to a set of design choices you make from the beginning, not features you add at the end.
 
-## Core concepts
+### Make your structure modular
 
-!!! abstract "Publishability"
-    Materials are publishable when they are clear enough to be shared and used by others.
+A monolithic resource — a single 50-page document or a tightly sequenced set of activities that only work together — is hard for others to adapt. They may need only one section, or they may need to rearrange the sequence for their context.
 
-This builds on reusability. Materials should not rely on your explanation and should include enough context for others to understand how to use them.
+Design in modules: self-contained sections that make sense individually as well as in sequence. Each module should have its own clear purpose, stated outcomes, and necessary context. A facilitator should be able to use Module 3 without having delivered Modules 1 and 2 — or at least understand what prerequisite knowledge they need to provide.
 
----
+This does not mean every module must be completely independent. It means the dependencies are *stated*, not *hidden*. A note at the top — "This activity assumes learners have completed a basic analysis of their dataset, or have equivalent experience" — lets someone adapt around the dependency rather than being surprised by it.
 
-!!! abstract "Documentation"
-    Documentation provides the context needed to understand and use your materials.
+!!! example "Modular vs. monolithic"
+    A 4-hour workshop on data management could be structured as a single flow that only works in sequence, or as four 1-hour modules: (1) Planning data collection, (2) Organising files and naming conventions, (3) Data cleaning basics, (4) Documentation and metadata. Each module has stated outcomes and prerequisites. A facilitator who only has 2 hours could use modules 2 and 3. Someone with learners who already manage their files well could skip module 2. The same content, structured for flexibility.
 
-This includes purpose, audience, instructions, and assumptions that were made during design and adaptation. Making these explicit helps others reuse and adapt your materials.
+### Use replaceable examples
 
----
+Examples are one of the hardest elements to transfer across contexts. A case study about water quality monitoring in rural Kenya is powerful for learners in East Africa — and potentially irrelevant to learners working on urban public health in Brazil.
 
-!!! abstract "Discoverability"
-    Discoverability refers to how easily others can find your materials and understand what they are for.
+When you create examples, build in replaceability:
 
-Clear titles, descriptions, and keywords help others locate your work and decide whether it is useful to them.
+- **State the purpose of the example** explicitly. If a case study is meant to illustrate how conflicting stakeholder interests complicate data collection, say so. This helps someone replacing your example choose one that serves the same purpose.
+- **Provide the example alongside a prompt** for adaptation. A note like *"This example uses water quality data from Kenya. If your learners work in a different domain, substitute a dataset and scenario from their context that involves conflicting priorities"* makes adaptation straightforward.
+- **Separate examples from the teaching structure.** If possible, keep examples in distinct sections or files rather than weaving them so deeply into the explanation that replacing them requires rewriting the teaching content.
 
----
+### Make assumptions explicit
 
-!!! abstract "Platform choice"
-    Different platforms support different goals, formats, and audiences.
+Every resource carries assumptions. When you create from scratch, you have the opportunity to make them visible from the start — rather than leaving them for someone else to discover.
 
-This builds on reusability. Materials that are reusable can be made publishable by adding sufficient context and documentation. Where you publish affects who can find, use, and adapt your materials. Choosing a platform is a practical decision based on how your materials will be used. 
+It's useful to state:
 
-## Practical guidance
+- **What learners need to know** — prior knowledge, skills, or concepts
+- **What learners need to have** — tools, software, connectivity, physical materials
+- **What context is assumed** — institutional setting, cultural context, language level, time available
 
-### Step 1 — Check readiness
+These are not limitations to apologise for. They are design parameters that help others judge fit and plan adaptations. The more explicit your assumptions, the easier it is for someone in a different context to adapt your materials rather than starting over.
 
-Review your materials and ask:
+### Write for people you will never meet
 
-- Can someone use this without my explanation?  
-- Are instructions clear enough to follow?  
-- Is the purpose of the material understandable?  
+When you create materials for your own delivery, you write shorthand — you know what you mean, and you can fill in gaps during facilitation. When you create for openness, the materials must speak for themselves.
 
-Materials do not need to be complete — they need to be clear enough to use.
+This means writing instructions that are complete enough to follow without you in the room. Not just "discuss in pairs" but "in pairs, take 5 minutes each to describe your data collection process to your partner. The listener should identify one assumption the speaker is making about their data. Switch roles and repeat." The instruction should tell the reader what to do, how to do it, how long it takes, and what the expected output is.
 
----
+It also means avoiding insider references. Terms, acronyms, and cultural references that are obvious to you may be opaque to someone in a different field or region. Define terms when you first use them. Spell out acronyms. When you use a culturally specific example, provide enough context that someone unfamiliar with that setting can still understand the point.
 
-### Step 2 — Add essential documentation
+!!! question "The stranger test"
+    Read through your materials and imagine a competent colleague in a different country, working in a related but not identical field, who has never met you. Can they understand what to do? Can they see why each activity matters? Can they adapt the materials for their context without guessing at your intentions?
 
-Include the information others need to understand and use your materials effectively:
+## Building in accessibility from the start
 
-- purpose and learning outcomes  
-- intended audience  
-- instructions for use  
-- assumptions and requirements  
-- licensing and attribution  
+Creating from scratch is an opportunity to build accessibility in from the beginning — not as a retrofit, but as a design principle.
 
-Focus on what would help someone else use your material without additional explanation.
+**Structure your documents with headings.** Use proper heading hierarchy (H1, H2, H3) rather than bold text styled to look like headings. This supports screen readers and makes documents navigable on all devices.
 
----
+**Describe your images.** Every image, diagram, and chart should have alt text that conveys the information the image communicates — not just "diagram of data flow" but "diagram showing data flowing from three collection points through a central cleaning process to two output databases." If an image is purely decorative, it does not need alt text.
 
-### Step 3 — Improve clarity and usability
+**Design for variable bandwidth.** If your materials will be used in low-bandwidth settings, avoid embedding large media files. Offer text alternatives to video content. Keep file sizes manageable. Consider whether your materials can be used offline.
 
-Make small, targeted improvements:
+**Write clearly.** Simple, direct language is the most universally accessible design choice. Short sentences, active voice, common vocabulary, and defined technical terms make materials usable for learners working in a second language, learners with cognitive disabilities, and — frankly — everyone.
 
-- simplify language  
-- clarify instructions  
-- remove unnecessary complexity  
-- ensure consistency across materials  
+**Offer multiple formats when possible.** If you create a set of slides, also provide a text version. If you produce a complex table, offer a simplified version alongside it. Multiple entry points mean more learners can engage with your content.
 
-Focus on changes that make the biggest difference to usability.
+## Connecting back to Part 1
 
----
+The work you did in Part 1 is the foundation for everything you create here. Your learning outcomes define what the materials need to achieve. Your learner analysis tells you who you are designing for and what constraints they face. Your activity designs provide the structure that your new materials bring to life.
 
-### Step 4 — Choose where to publish
+If you are creating from scratch, revisit your Part 1 outputs:
 
-> Where should you share your materials?
-
-- Versioned, technical audience → platforms like GitHub  
-- Citable output → repositories like Zenodo  
-- Broad accessibility → web pages or institutional platforms  
-
-Choose based on:
-
-- who needs to access the materials  
-- how they will be used  
-- what formats you are sharing  
-
-There is no single correct platform — focus on what best supports your goals.
-
----
-
-### Step 5 — Make materials discoverable
-
-Help others find and understand your materials:
-
-- use clear and descriptive titles  
-- add keywords and summaries  
-- provide context for how the material can be used  
-
-This helps others quickly decide whether your materials are relevant and worth using.
-
-## Example
-
-- **Context:** A trainer has adapted a set of workshop materials for a specific audience and wants to share them.  
-- **Decision:** Are the materials ready to be published and reused by others?  
-- **Action:** They review the materials and realise that instructions are incomplete and assumptions about prior knowledge are not stated. They add documentation, clarify steps, include learning outcomes, and select a platform where the materials can be easily accessed and cited.  
-- **Outcome:** The materials become understandable, reusable, and discoverable, enabling others to adapt them for different contexts.
+- Do your **learning outcomes** still hold? If you have refined them through the process of evaluating and adapting resources, update them now.
+- Does your **learner analysis** account for the broader audience your materials might reach? The "learner" is no longer just your immediate participants — it includes facilitators and learners in other contexts.
+- Do your **activity designs** translate into written form? An activity that works when you facilitate it may need significant restructuring to work on paper or screen.
 
 ## In practice
 
-👉 Use [Activity 14: OER Workflow](../activities/activity_14_oer.md)
+👉 Use [Activity 14: OER Workflow](../activities/activity_14_oer.md) — document what you are creating and why
 
-Focus on:
+Return to Sections 2 and 3. In Section 2, document what you are creating from scratch and why creation was the right choice (rather than reuse or adaptation). In Section 3, if your new materials draw on or are inspired by existing resources, document that relationship.
 
-- preparing your materials so they can be shared and used by others  
-- refining documentation, context, and clarity  
-
-Include:
-
-- **what to do:** Ensure your materials include clear documentation, context, and licensing, and are ready to be shared  
-- **focus sections:** 4 (Prepare for Sharing)  
-- **expected output:** A set of materials prepared for sharing with sufficient documentation and clarity  
-- **approximate time:** 20–30 minutes  
+- **what to do:** Document your creation decisions — what you are building, why existing resources were not suitable, and how your design supports reuse by others
+- **focus sections:** 2 (Design Decisions — creation rationale), 3 (Adaptation and Localisation Log — if building on existing approaches)
+- **expected output:** Clear documentation of what you are creating and the design choices that support openness and adaptability
+- **approximate time:** 20–30 minutes
 
 ---
 
-👉 Revisit [Activity 9: Practice & Feedback Plan](../activities/activity_9_practice_feedback.md)
+👉 Come back to [Activity 8: Learning Activity Design](../activities/activity_8_activity_design.md)
 
-Include:
-
-- **what to do:** Identify where someone using your materials might need clarification or support, and how feedback could improve usability  
-- **expected output:** A clearer understanding of how your materials perform without you and where improvements are needed  
-- **approximate time:** 10–15 minutes  
-
----
-
-### Suggested process
-
-**Step 1 — Review for independence**  
-Check whether materials can be used without you.
-
-**Step 2 — Add documentation**  
-Provide missing context and instructions.
-
-**Step 3 — Improve clarity**  
-Refine language and structure.
-
-**Step 4 — Test usability**  
-Identify where users may struggle or need support.
-
-**Step 5 — Refine and update**  
-Improve materials based on what you learned.
-
-## Key takeaways
-
-!!! tip "Key takeaway"
-    Sharing is about usability — making it possible for others to understand and use your materials.
-
-!!! tip "Key takeaway"
-    Materials do not need to be complete to be shared — they need to be clear enough that others can use them with reasonable effort.
+- **what to do:** Take one activity you are creating from scratch and write it as a standalone resource — complete instructions, stated assumptions, replaceable examples, and clear expected outputs. Test it against the "stranger test": could a colleague in a different context understand and use it?
+- **expected output:** One complete, standalone activity designed for openness and reuse
+- **approximate time:** 15–20 minutes
 
 ## Before you move on
 
-At this point, you should have:
+You should now have:
 
-- materials that can be used without your explanation  
-- clear documentation (purpose, audience, instructions, assumptions)  
-- at least one activity that is self-contained  
-- a decision about where and how to share your materials  
+- at least one resource or activity created from scratch with openness in mind
+- modular structure with stated dependencies between sections
+- explicit assumptions documented for each piece of content
+- instructions complete enough to follow without facilitation
+- accessibility built in (headings, alt text, clear language, manageable file sizes)
 
-These materials are ready to be shared, but they can still improve. You will continue refining them as they are used and as you receive feedback.
+In the next lesson, you will prepare all your materials — adapted and created — for sharing and publication.
 
 ## Further reading (optional)
 
-- UNESCO (2019) — *Recommendation on Open Educational Resources*  
-  → Supports: sharing and access to OER  
-  → Why it matters: defines principles for making resources widely available and reusable  
-  → Source: https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer  
+- Bali, M., Cronin, C., & Jhangiani, R. S. (2020) — *Framing open educational practices from a social justice perspective*
+  → Supports: understanding why creation is necessary in underrepresented contexts
+  → Why it matters: argues that OER creation — not just adoption — is essential for equitable representation in educational materials
+  → Source: https://doi.org/10.1007/s11423-020-09752-2
 
-- Atenas, J., & Havemann, L. (2014) — *Questions of quality in repositories of open educational resources*  
-  → Supports: discoverability and usability of OER  
-  → Why it matters: highlights factors that influence whether resources are found and used  
-  → Source: https://www.irrodl.org/index.php/irrodl/article/view/2083  
+- UNESCO (2019) — *Recommendation on Open Educational Resources*
+  → Supports: principles for creating accessible, inclusive open materials
+  → Why it matters: defines international standards for OER creation that prioritise access, equity, and quality
+  → Source: https://www.unesco.org/en/legal-affairs/recommendation-open-educational-resources-oer
 
-- Wiley, D., & Hilton, J. (2018) — *Defining OER-enabled pedagogy*  
-  → Supports: reuse and sharing practices  
-  → Why it matters: connects openness to meaningful educational impact  
-  → Source: https://opencontent.org/blog/archives/5009  
+- Ossiansson, E. (2018) — *OER awareness and use: The affinity between higher education and K-12*
+  → Supports: OER creation practices and design for reuse
+  → Why it matters: provides evidence on how OER creators can design materials that are actually adopted and adapted by others
+  → Source: https://doi.org/10.19173/irrodl.v19i2.3431

@@ -1,0 +1,593 @@
+{% extends "base.html" %}
+
+{% block title %}Part 1: Designing Training{% endblock %}
+
+{% block slides %}
+
+      <!-- ==================== TITLE ==================== -->
+      <section>
+        <h1>Designing Training for Real-World Impact</h1>
+      </section>
+
+      <!-- ==================== AGENDA ==================== -->
+      <section>
+        <h2>Today's agenda</h2>
+        <table>
+          <thead><tr><th>Time</th><th>What</th></tr></thead>
+          <tbody>
+            <tr><td>0:00&ndash;0:15</td><td>Welcome + warm-up</td></tr>
+            <tr><td>0:15&ndash;0:45</td><td>Exercise 1: System Map</td></tr>
+            <tr><td>0:45&ndash;1:15</td><td>Exercise 2: Theory of Change</td></tr>
+            <tr><td>1:15&ndash;1:45</td><td>Exercise 3: Learner Reality Check</td></tr>
+            <tr><td>1:45&ndash;2:10</td><td>Mid-session debrief + break</td></tr>
+            <tr><td>2:10&ndash;2:45</td><td>Mini-lecture + Exercise 4: Learning Outcomes</td></tr>
+            <tr><td>2:45&ndash;3:35</td><td>Exercise 5: Design One Activity + Peer Swap</td></tr>
+            <tr><td>3:35&ndash;3:55</td><td>Exercise 6: Learner Experience Audit</td></tr>
+            <tr><td>3:55&ndash;4:00</td><td>Closing reflection</td></tr>
+          </tbody>
+        </table>
+        <aside class="notes">
+          Walk through the agenda briefly. Emphasise: this is a working session — teams will leave with concrete outputs for their own training. Remind them to keep notes throughout, as outputs from early exercises feed into later ones.
+        </aside>
+      </section>
+
+      <!-- ==================== HOUSEKEEPING ==================== -->
+      <section>
+        <h2>Before we start</h2>
+        <ul>
+          <li>20-minute break at the midpoint</li>
+          <li>Keep your camera on during breakout rooms if you can</li>
+          <li>Take notes &mdash; your outputs carry forward through the session</li>
+          <li>Questions welcome at any point</li>
+        </ul>
+        <aside class="notes">
+          Fill in venue-specific details: Wi-Fi password, breakout room logistics, how to signal for help. If remote: explain how breakout rooms will work on the platform. Mention that teams should designate a note-taker for breakout sessions since there is no shared workspace.
+        </aside>
+      </section>
+
+      <!-- ==================== WARM-UP ==================== -->
+      <section>
+        <section>
+          <h2>Warm-up</h2>
+          <h3>A training you remember</h3>
+          <p>Think of a training you've been part of &mdash; as a designer, facilitator, or participant.</p>
+          <div class="highlight-box">
+            <p>What was one thing that <strong>worked well</strong>, and one thing you <strong>wish had been done differently</strong>?</p>
+          </div>
+          <p><em>Cross-team breakout rooms &mdash; 2 min each, ~6 min total</em></p>
+          <aside class="notes">
+            Send participants to cross-team breakout rooms (3–4 people from different teams). Each person gets about 2 minutes. After 6 minutes, bring everyone back. Ask 3–4 people to share their "wish it had been different" answers. Note recurring themes — you will reference these throughout the session. This is the ice-breaker: the goal is to get people talking across teams before they settle into their own groups.
+          </aside>
+        </section>
+
+        <section>
+          <h2>The arc of today</h2>
+          <p>We are working through the design process <strong>from the outside in</strong>:</p>
+          <ul>
+            <li class="fragment">The <strong>system</strong> your training lives in</li>
+            <li class="fragment">Your <strong>learners</strong> and their realities</li>
+            <li class="fragment">How people actually <strong>learn</strong></li>
+            <li class="fragment">Your <strong>outcomes</strong> and <strong>activities</strong></li>
+          </ul>
+          <p class="fragment">Everything today uses <strong>your own training</strong> as the working material.</p>
+          <aside class="notes">
+            This is the 2-minute framing after the warm-up share. Reference specific themes from the warm-up: "Several of you mentioned unclear objectives — that's exactly what Exercise 4 addresses." Connect their lived experience to today's structure.
+          </aside>
+        </section>
+      </section>
+
+      <!-- ==================== FRAMING: TRAINING AS SYSTEM ==================== -->
+      <section>
+        <section>
+          <h2>Training lives in a system</h2>
+          <p>Training is not a standalone event. It is a <strong>deliberate intervention</strong> within a broader system of people, resources, constraints, and relationships.</p>
+          <div class="highlight-box">
+            <p>Not <em>"What should I teach?"</em><br>
+            but <em>"What change is possible in this system &mdash; and how can training contribute?"</em></p>
+          </div>
+          <aside class="notes">
+            5-minute framing. Key message: before you design content, understand the conditions that determine whether your training leads to change. Training that ignores its context can be perfectly designed and still have zero lasting impact.
+          </aside>
+        </section>
+
+        <section>
+          <h2>What to look for in your system</h2>
+          <ul>
+            <li><strong>Actors</strong> &mdash; who affects whether the training succeeds? (Not just who is in the room)</li>
+            <li><strong>Resources</strong> &mdash; what does the training depend on? What is fragile?</li>
+            <li><strong>Constraints</strong> &mdash; what limits what is possible?</li>
+            <li><strong>Relationships</strong> &mdash; who depends on whom? What flows where?</li>
+          </ul>
+          <p>Push beyond the obvious &mdash; the actors who most affect long-term impact are often <strong>further out</strong>.</p>
+          <aside class="notes">
+            Give a quick example: "If you're training community health workers, the system includes not just the trainees and trainers, but their managers, the clinics they work in, the data systems they report to, the communities they serve. A manager who won't release staff for follow-up practice can undo everything you achieve in the training room."
+          </aside>
+        </section>
+      </section>
+
+      <!-- ==================== EXERCISE 1: SYSTEM MAP ==================== -->
+      <section>
+        <section>
+          <h2>Exercise 1</h2>
+          <h3>System Map</h3>
+          <p>Map the system around <strong>your team's training</strong>.</p>
+          <ul>
+            <li>Who are the actors?</li>
+            <li>What resources do you depend on?</li>
+            <li>What constraints shape what is possible?</li>
+            <li>What relationships connect these elements?</li>
+          </ul>
+          <p>Push beyond the obvious &mdash; who affects the training <em>after</em> learners leave the room?</p>
+          <aside class="notes">
+            Own-team breakout rooms. One person can sketch or take notes on their screen, but the point is the conversation. Encourage teams to push past the "trainer + learner + funder" triangle and think about downstream actors. 15 minutes in breakout. Setup: 2 min. Total: 25 min.
+          </aside>
+        </section>
+
+        <section>
+          <h2>Exercise 1: System Map</h2>
+          <h3>How it works</h3>
+          <table>
+            <tr><td><strong>Grouping</strong></td><td>Your own team</td></tr>
+            <tr><td><strong>Time</strong></td><td>15 min breakout + 5 min share</td></tr>
+            <tr><td><strong>Output</strong></td><td>A system map (notes, sketch, or verbal)</td></tr>
+          </table>
+          <p><strong>When you return:</strong> be ready to share one thing that <em>surprised</em> you or one connection you almost missed.</p>
+          <aside class="notes">
+            After 15 min, bring teams back. Ask 2–3 teams to briefly describe their system, focusing on surprises or connections they almost missed. Other teams can ask "What's missing from that map?" Keep debrief to 5 min. Close with: "Keep your system map — you'll need it for later exercises."
+          </aside>
+        </section>
+      </section>
+
+      <!-- ==================== TRANSITION ==================== -->
+      <section>
+        <h2>From systems to change</h2>
+        <p>You've mapped the system your training lives in.</p>
+        <p>Now: <strong>how does your training lead to change</strong> within that system?</p>
+        <aside class="notes">
+          5-minute framing transition. This connects the system map (what exists) to the theory of change (what you intend). Key message: understanding a system doesn't automatically tell you what change is possible — you need to make that logic explicit.
+        </aside>
+      </section>
+
+      <!-- ==================== FRAMING: THEORY OF CHANGE ==================== -->
+      <section>
+        <section>
+          <h2>Theory of Change</h2>
+          <p>A simple, honest account of the logic connecting <strong>what you do</strong> to <strong>the impact you hope for</strong>.</p>
+          <div class="highlight-box">
+            <p><strong>Impact</strong> &larr; Outcomes &larr; Outputs &larr; Activities &larr; <strong>Inputs</strong></p>
+          </div>
+          <p>Start from the right: what impact do you hope to contribute to?<br>Then work backwards.</p>
+          <aside class="notes">
+            Explain the chain briefly. The key move is starting from impact and working backwards — this keeps teams honest. It's easy to list activities you enjoy delivering, but harder to explain how they lead to real-world change. Give the NGO health worker example from lesson 2 if helpful: training on data collection → health workers routinely collect reliable data → better resource allocation. The hidden assumption was phone signal and electricity at clinics.
+          </aside>
+        </section>
+
+        <section>
+          <h2>The question at every link</h2>
+          <div class="highlight-box">
+            <p><em>What has to be true for this step to lead to the next?</em></p>
+          </div>
+          <p>Those are your <strong>assumptions</strong>. Write them down.</p>
+          <p>Each assumption is a potential point of failure &mdash; and a potential design decision.</p>
+          <aside class="notes">
+            Give a concrete example: "If your chain says 'participants learn data analysis → they apply those skills at work', you're assuming they have access to data, their managers support new approaches, and they have time to practise. Each of those could break the chain." This sets up Exercise 2's assumption-hunting phase.
+          </aside>
+        </section>
+      </section>
+
+      <!-- ==================== EXERCISE 2: THEORY OF CHANGE ==================== -->
+      <section>
+        <section>
+          <h2>Exercise 2</h2>
+          <h3>Theory of Change (Lite)</h3>
+          <p><strong>Phase 1 &mdash; Build your chain</strong> (10 min, own team)</p>
+          <p>Work backwards from impact:</p>
+          <div class="highlight-box">
+            <p>Impact &larr; Outcomes &larr; Outputs &larr; Activities &larr; Inputs</p>
+          </div>
+          <p>Get the chain on screen &mdash; one person sketches while the team talks. Aim for a first draft that is concrete enough for someone else to read.</p>
+          <aside class="notes">
+            Own-team breakout rooms. Emphasise: start from impact and work backwards. Don't aim for perfection — aim for something concrete enough that another team can read it and ask questions. One person should type or sketch while others talk. 10 min in breakout.
+          </aside>
+        </section>
+
+        <section>
+          <h2>Exercise 2: Theory of Change</h2>
+          <h3>Phase 2 &mdash; Hunt for assumptions</h3>
+          <p><strong>Cross-team breakout</strong> (8 min)</p>
+          <p>Walk another team through your chain. Reviewers focus on the right side &mdash; outcomes and impact &mdash; and ask:</p>
+          <ul>
+            <li class="fragment"><em>What has to be true for this step to lead to the next?</em></li>
+            <li class="fragment"><em>What could break here?</em></li>
+          </ul>
+          <p class="fragment">Name the assumption you think is <strong>weakest</strong>.</p>
+          <aside class="notes">
+            Reshuffle breakout rooms so each room has members from different teams. Each person briefly walks others through their team's chain. Reviewers focus on outcomes and impact — that's where teams tend to be most optimistic. Each reviewer marks the weakest assumption. 8 min in breakout. Then 4 min whole-group debrief: ask 2–3 reviewers to describe the weakest assumption they found. Were these testable?
+          </aside>
+        </section>
+
+        <section>
+          <h2>Exercise 2: Theory of Change</h2>
+          <h3>Summary</h3>
+          <table>
+            <tr><td><strong>Phase 1</strong></td><td>Own team &mdash; build your chain (10 min)</td></tr>
+            <tr><td><strong>Phase 2</strong></td><td>Cross-team &mdash; hunt for assumptions (8 min)</td></tr>
+            <tr><td><strong>Debrief</strong></td><td>Whole group &mdash; weakest assumptions (4 min)</td></tr>
+          </table>
+          <aside class="notes">
+            Total time: 25 min including 3 min setup. The cross-team format builds relationships across projects early in the workshop. Keep debrief focused: ask reviewers what they found, not teams defending their chains.
+          </aside>
+        </section>
+      </section>
+
+      <!-- ==================== TRANSITION ==================== -->
+      <section>
+        <h2>From systems to people</h2>
+        <p>You've mapped your system and made your logic explicit.</p>
+        <p>Now: <strong>who are the people</strong> your training is actually for?</p>
+        <p>Not the registration-form version &mdash; the <em>human</em> version.</p>
+        <aside class="notes">
+          5-minute framing. Key message: system maps and theories of change are about the bigger picture, but there is one part of the system that deserves far more attention than a box on a diagram — the people in the room. Transition to learner-centred thinking.
+        </aside>
+      </section>
+
+      <!-- ==================== FRAMING: KNOW YOUR LEARNERS ==================== -->
+      <section>
+        <h2>Know your learners</h2>
+        <p>Training works when it aligns with how people actually <strong>live, work, and learn</strong>.</p>
+        <ul>
+          <li><strong>Access</strong> &mdash; devices, connectivity, spaces</li>
+          <li><strong>Time</strong> &mdash; competing demands, release from work</li>
+          <li><strong>Language</strong> &mdash; does the training match?</li>
+          <li><strong>Culture &amp; power</strong> &mdash; who speaks? Who stays silent?</li>
+          <li><strong>Motivation</strong> &mdash; why are they in the room?</li>
+        </ul>
+        <aside class="notes">
+          Brief framing: the most important design information is rarely on a registration form. Emphasise that learners always bring something — professional experience, local knowledge, informal skills. A needs assessment that only maps deficits misses the assets the training can build on.
+        </aside>
+      </section>
+
+      <!-- ==================== EXERCISE 3: LEARNER REALITY CHECK ==================== -->
+      <section>
+        <section>
+          <h2>Exercise 3</h2>
+          <h3>Learner Reality Check</h3>
+          <p>Think silently for 2 minutes about these prompts:</p>
+          <ol>
+            <li class="fragment">Who are your learners <em>really</em> &mdash; the human version?</li>
+            <li class="fragment">What do they already know or do that your training can build on?</li>
+            <li class="fragment">What is the <strong>single biggest barrier</strong> to their participation or success?</li>
+            <li class="fragment">What does "success" look like from <em>their</em> perspective?</li>
+          </ol>
+          <aside class="notes">
+            Put all four prompts on screen before sending people to breakout rooms. Give 2 minutes of silent thinking time first. Then cross-team breakout rooms (reuse the same groupings from Exercise 2 Phase 2 — saves a reshuffle and groups are warmed up). Each person takes about 2 min to describe their learners, focusing on prompts 3 and 4.
+          </aside>
+        </section>
+
+        <section>
+          <h2>Exercise 3: Learner Reality Check</h2>
+          <h3>In breakout rooms</h3>
+          <p><strong>Cross-team groups</strong> (same as Exercise 2, Phase 2)</p>
+          <p>Each person: ~2 min to describe your learners, focusing on barriers and success.</p>
+          <p>After each description, ask:</p>
+          <div class="highlight-box">
+            <p><em>Is that barrier something your design can reduce, or a condition you need to design within?</em></p>
+          </div>
+          <table>
+            <tr><td><strong>Time</strong></td><td>12 min breakout + 5 min collection</td></tr>
+            <tr><td><strong>Output</strong></td><td>Barrier types to share with the whole group</td></tr>
+          </table>
+          <aside class="notes">
+            12 min in cross-team breakout. Then whole-group share (5 min): ask each breakout room to name the most common barrier type. Group these verbally into categories (access, time, language, power, motivation). These become shared reference points for the rest of the workshop. Total: 25 min including setup.
+          </aside>
+        </section>
+      </section>
+
+      <!-- ==================== MID-SESSION DEBRIEF ==================== -->
+      <section>
+        <h2>Where we are</h2>
+        <p>So far you have:</p>
+        <ul>
+          <li>A <strong>system map</strong> showing what surrounds your training</li>
+          <li>A <strong>theory of change</strong> with assumptions surfaced</li>
+          <li>A <strong>learner reality check</strong> with barriers identified</li>
+        </ul>
+        <p>After the break: how people learn, writing outcomes, and designing activities.</p>
+        <aside class="notes">
+          5-minute mid-session debrief. Quick check: any surprises so far? Any team that discovered something that changed how they think about their training? Keep it brief — this is a breather before the break, not a full discussion. Note any themes to carry forward.
+        </aside>
+      </section>
+
+      <!-- ==================== BREAK ==================== -->
+      <section>
+        <h1>Break</h1>
+        <p class="subtitle">Back at [TIME]</p>
+        <p>20 minutes</p>
+        <aside class="notes">
+          State the actual clock time for return. Remind participants to save their notes — they will need their system map, theory of change, and learner notes for the exercises after the break.
+        </aside>
+      </section>
+
+      <!-- ==================== MINI-LECTURE: HOW PEOPLE LEARN ==================== -->
+      <section>
+        <section>
+          <h2>How people actually learn</h2>
+          <p>Training is not effective simply because content is delivered. Learning depends on what learners <strong>do</strong> with that content.</p>
+          <div class="highlight-box">
+            <p>From: <em>"How do I present my content clearly?"</em><br>
+            To: <em>"How do people actually learn &mdash; and how do I design for that?"</em></p>
+          </div>
+          <aside class="notes">
+            10-minute mini-lecture covering four key principles. This provides the conceptual foundation for the Learner Experience Audit (Exercise 6) later. Keep it brisk — participants will apply these ideas hands-on soon. Start by debunking learning styles: the idea is intuitive, widely repeated, and wrong. The method should match the material and the learning outcome, not an individual's self-reported style.
+          </aside>
+        </section>
+
+        <section>
+          <h2>Cognitive load</h2>
+          <p>Working memory is limited. When too much arrives at once, learners cannot process any of it well.</p>
+          <p>But not all struggle is bad:</p>
+          <ul>
+            <li><strong>Intrinsic load</strong> &mdash; the effort of engaging with the material itself. This is the point. Do not remove it.</li>
+            <li><strong>Extraneous load</strong> &mdash; effort caused by poor design (confusing instructions, cluttered slides, unclear tasks). This adds nothing.</li>
+          </ul>
+          <div class="highlight-box">
+            <p>Make sure learners struggle with <strong>the material</strong>, not with <strong>your instructions</strong>.</p>
+          </div>
+          <aside class="notes">
+            Give the example from lesson 4: a trainer asks participants to clean a dataset, identify patterns, and present findings — all in one instruction. Learners struggle to understand what to do first, not with the analysis. Breaking it into three stages with clear instructions fixes the extraneous load while keeping the intrinsic challenge.
+          </aside>
+        </section>
+
+        <section>
+          <h2>Retrieval and reinforcement</h2>
+          <p><strong>Retrieval:</strong> learning is stronger when people recall information from memory rather than re-read it.</p>
+          <p>Recognition (<em>"I've seen this"</em>) is not the same as recall (<em>"I can explain this and use it"</em>).</p>
+          <p><strong>Reinforcement:</strong> a single exposure is usually not enough. Revisit key ideas in new ways &mdash; different problems, different contexts.</p>
+          <aside class="notes">
+            Quick practical examples: short recall questions between sections, pair discussions where learners explain ideas to each other, activities that build on knowledge from a previous session without re-presenting it. The point is to build in moments where learners actively pull knowledge out, not just take it in.
+          </aside>
+        </section>
+
+        <section>
+          <h2>Social learning</h2>
+          <p>Discussion, collaboration, and shared problem-solving are not just engagement strategies &mdash; they are <strong>learning mechanisms</strong>.</p>
+          <ul>
+            <li>Explaining your thinking forces you to <strong>organise and articulate</strong> ideas</li>
+            <li>Hearing different perspectives forces you to <strong>reconcile</strong> them with your own</li>
+          </ul>
+          <p>Design social learning <strong>intentionally</strong> &mdash; it will not happen on its own.</p>
+          <aside class="notes">
+            Practical implications: pair discussions with specific prompts, small-group tasks with clear outputs, peer review with structured questions. This principle will be visible throughout the rest of the session — the peer swap in Exercise 5 and the cross-team audit in Exercise 6 both rely on social learning. Point this out so participants recognise it when it happens.
+          </aside>
+        </section>
+      </section>
+
+      <!-- ==================== TRANSITION ==================== -->
+      <section>
+        <h2>From principles to practice</h2>
+        <p>These four ideas &mdash; cognitive load, retrieval, reinforcement, social learning &mdash; are not separate add-ons.</p>
+        <p>They are <strong>lenses for every design decision</strong> you make from here on.</p>
+        <p>Next: defining what your training is actually trying to achieve.</p>
+        <aside class="notes">
+          Brief transition. Connect the learning science to what comes next: the outcomes they write should be things learners DO (retrieval, application), not things they passively receive. The activities they design should manage cognitive load and use social learning intentionally.
+        </aside>
+      </section>
+
+      <!-- ==================== EXERCISE 4: LEARNING OUTCOMES ==================== -->
+      <section>
+        <section>
+          <h2>Learning outcomes</h2>
+          <p>A learning outcome describes what a learner will be able to <strong>do</strong>, not what the training will <strong>cover</strong>.</p>
+          <table>
+            <tr>
+              <td><span class="accent">&cross;</span> Vague</td>
+              <td>"Understand climate data"</td>
+            </tr>
+            <tr>
+              <td><span class="accent">&check;</span> Strong</td>
+              <td>"Interpret a local dataset to identify two practical risks and explain them to a non-specialist audience"</td>
+            </tr>
+          </table>
+          <aside class="notes">
+            5-minute framing built into the exercise time. Show 2–3 examples of vague vs strong outcomes. Strong outcomes are: observable (you can see evidence), action-oriented (use a verb), and relevant (connected to what people need to do after training). The key test: "Could I observe a learner achieving this?"
+          </aside>
+        </section>
+
+        <section>
+          <h2>Three qualities of strong outcomes</h2>
+          <ul>
+            <li><strong>Observable</strong> &mdash; you can see or hear evidence of it</li>
+            <li><strong>Action-oriented</strong> &mdash; uses a verb: <em>interpret, design, explain, analyse</em></li>
+            <li><strong>Relevant</strong> &mdash; connected to what learners need to do in the real world</li>
+          </ul>
+          <div class="highlight-box">
+            <p>The test: <em>Could you observe a learner achieving this &mdash; and how would you know?</em></p>
+          </div>
+          <aside class="notes">
+            Mention Bloom's taxonomy briefly as a source for action verbs if teams get stuck, but don't dwell on it. The point is practical: write outcomes that describe visible performance, not internal mental states.
+          </aside>
+        </section>
+
+        <section>
+          <h2>Exercise 4</h2>
+          <h3>Writing Learning Outcomes</h3>
+          <p><strong>Phase 1 &mdash; Team drafting</strong> (7 min, own team)</p>
+          <p>Draft 2&ndash;3 learning outcomes for your training.</p>
+          <p>Checklist:</p>
+          <ul>
+            <li>Is it observable?</li>
+            <li>Does it use an action verb?</li>
+            <li>Is it realistic for your learners?</li>
+          </ul>
+          <aside class="notes">
+            Own-team breakout rooms. Teams draft 2–3 outcomes. Remind them to think about the learners they described in Exercise 3 — are these outcomes realistic for those specific people? 7 min in breakout.
+          </aside>
+        </section>
+
+        <section>
+          <h2>Exercise 4: Learning Outcomes</h2>
+          <h3>Phase 2 &mdash; Cross-team critique</h3>
+          <p><strong>Cross-team breakout</strong> (8 min)</p>
+          <p>Read out your team's outcomes. Others check:</p>
+          <ol>
+            <li>Could you <strong>observe</strong> a learner achieving this &mdash; how would you know?</li>
+            <li>Is any outcome actually a <strong>topic description</strong> disguised as an outcome?</li>
+          </ol>
+          <p>Note revisions.</p>
+          <aside class="notes">
+            Reshuffle breakout rooms (cross-team). Each person reads their outcomes aloud. Reviewers check for observability and disguised topic descriptions. 8 min in breakout. Then 3 min whole-group debrief: ask for 1–2 "before and after" examples — an outcome that improved through critique. Use these to reinforce the observable/action-oriented principle. Total: 25 min.
+          </aside>
+        </section>
+      </section>
+
+      <!-- ==================== TRANSITION ==================== -->
+      <section>
+        <h2>From outcomes to activities</h2>
+        <p>You now have outcomes that describe what learners will <strong>do</strong>.</p>
+        <p>Next question: <strong>what activity will get them there?</strong></p>
+        <p>Activities are where learning happens &mdash; not in your slides, not in your explanations, but in the moments where learners <em>discuss, analyse, build, practise, and apply</em>.</p>
+        <aside class="notes">
+          5-minute framing. Key message from lesson 5: content should be driven by activities, not topics. Every activity starts from a learning outcome. If a piece of content doesn't directly help learners succeed in an activity, it doesn't belong — no matter how interesting it seems. This connects back to cognitive load: unnecessary content is extraneous load by definition.
+        </aside>
+      </section>
+
+      <!-- ==================== EXERCISE 5: ACTIVITY DESIGN ==================== -->
+      <section>
+        <section>
+          <h2>Exercise 5</h2>
+          <h3>Design One Activity</h3>
+          <p><strong>Phase 1 &mdash; Design</strong> (25 min, own team)</p>
+          <p>Select one learning outcome from Exercise 4. Design a 15&ndash;20 minute activity that helps learners achieve it.</p>
+          <aside class="notes">
+            This is the integrative exercise — teams apply everything from the morning. Own-team breakout rooms for 25 min. One team member should take notes or type up the design so they can screen-share in Phase 2. If teams don't get through all six components, prioritise Objective, Instructions, and Output — these are enough for a useful peer swap.
+          </aside>
+        </section>
+
+        <section>
+          <h2>The six components</h2>
+          <p>Talk through each one for your activity:</p>
+          <ol>
+            <li><strong>Objective</strong> &mdash; which outcome does this address?</li>
+            <li><strong>Instructions</strong> &mdash; step-by-step, clear enough for another facilitator to run</li>
+            <li><strong>Materials</strong> &mdash; what do learners need?</li>
+            <li><strong>Time</strong> &mdash; how long, broken into stages</li>
+            <li><strong>Output</strong> &mdash; what do learners produce? (something concrete)</li>
+            <li><strong>Participation</strong> &mdash; how is everyone involved, not just the confident ones?</li>
+          </ol>
+          <aside class="notes">
+            Keep this slide visible or remind teams to refer back to it. The six components come from lesson 7. If teams are stuck, suggest they start with: "What would a learner need to DO to demonstrate this outcome?" — that action becomes the core of the activity. Priority if time is short: Objective, Instructions, Output.
+          </aside>
+        </section>
+
+        <section>
+          <h2>Exercise 5: Peer Swap</h2>
+          <h3>Phase 2 &mdash; Cross-team review</h3>
+          <p><strong>Cross-team breakout</strong> (12 min)</p>
+          <p>One team presents their activity. The others review:</p>
+          <ul>
+            <li>Could you actually <strong>run this activity</strong> from these instructions?</li>
+            <li>Does the output genuinely show whether learners <strong>achieved the outcome</strong>?</li>
+            <li>Where might learners <strong>get stuck</strong>, and is there support built in?</li>
+          </ul>
+          <p>Then swap &mdash; the other team presents.</p>
+          <aside class="notes">
+            Reshuffle breakout rooms so each has representatives from two different teams. One team presents, others review with the three questions. Then swap. Each side gives verbal feedback. 12 min in breakout. Then 5 min whole-group harvest: "What was the most useful feedback you received — something that changed your design?" Collect 3–4 examples. Reinforce that peer feedback is a learning mechanism. Total exercise time: 45 min.
+          </aside>
+        </section>
+
+        <section>
+          <h2>Exercise 5</h2>
+          <h3>Summary</h3>
+          <table>
+            <tr><td><strong>Phase 1</strong></td><td>Own team &mdash; design one activity (25 min)</td></tr>
+            <tr><td><strong>Phase 2</strong></td><td>Cross-team &mdash; peer swap (12 min)</td></tr>
+            <tr><td><strong>Harvest</strong></td><td>Whole group &mdash; most useful feedback (5 min)</td></tr>
+          </table>
+          <aside class="notes">
+            Total: 45 min including 3 min setup. This is the longest exercise. If running behind, you can compress the harvest to 3 min. Do not cut the peer swap — it serves double duty as feedback AND as a model of the peer review process from lesson 8.
+          </aside>
+        </section>
+      </section>
+
+      <!-- ==================== TRANSITION ==================== -->
+      <section>
+        <h2>Putting on a learner's hat</h2>
+        <p>You've just designed an activity. Now let's look at design through a different lens &mdash; the learner's experience.</p>
+        <p>Where does design help learning? Where does it get in the way?</p>
+        <aside class="notes">
+          Brief transition to Exercise 6. This exercise applies the learning science from the mini-lecture. Participants have just designed their own activity, so the question "which of these problems do you recognise in your own designs?" will land with real force.
+        </aside>
+      </section>
+
+      <!-- ==================== EXERCISE 6: LEARNER EXPERIENCE AUDIT ==================== -->
+      <section>
+        <section>
+          <h2>Exercise 6</h2>
+          <h3>Learner Experience Audit</h3>
+          <p>Here is a flawed training segment. Your job: find the problems.</p>
+          <p><strong>Cross-team breakout</strong> (10 min) &mdash; audit against three questions:</p>
+          <ol>
+            <li>Where would learners feel <strong>overwhelmed</strong> &mdash; is that the material's fault or the design's fault?</li>
+            <li>Where are learners <strong>passive for more than 10 minutes</strong> &mdash; what could they do instead?</li>
+            <li>Where could learners <strong>learn from each other</strong> &mdash; and what structure would make that work?</li>
+          </ol>
+          <aside class="notes">
+            Facilitator prep: you should have created a 1-page flawed training segment before the workshop. A 15–20 min session plan with realistic problems: long passive lecture block, vague instructions, no learner output, missed social learning opportunities, cognitive overload. Base it on a plausible domain (e.g. data literacy). Screen-share it now. Cross-team breakout rooms of 3–4 people. 10 min to audit. This can be skipped if behind schedule. If cutting, briefly mention the three audit questions verbally and ask teams to apply them to their own Exercise 5 designs.
+          </aside>
+        </section>
+
+        <section>
+          <h2>Exercise 6: Learner Experience Audit</h2>
+          <h3>How it works</h3>
+          <table>
+            <tr><td><strong>Grouping</strong></td><td>Cross-team mix (3&ndash;4 people)</td></tr>
+            <tr><td><strong>Time</strong></td><td>10 min audit + 5 min harvest + 3 min reflection</td></tr>
+            <tr><td><strong>Output</strong></td><td>2 concrete improvements per group</td></tr>
+          </table>
+          <p>After the harvest:</p>
+          <div class="highlight-box">
+            <p><em>Which of these problems do you recognise in your own training designs?</em></p>
+          </div>
+          <aside class="notes">
+            Each group agrees on 2 concrete improvements. Harvest the best improvements in whole group (5 min). Then the key reflection question (3 min): "Which of these problems do you recognise in your own training designs?" This connects the audit back to their own work. Total: 20 min. If running long, cut the reflection to 1 min or fold it into the closing.
+          </aside>
+        </section>
+      </section>
+
+      <!-- ==================== CLOSING REFLECTION ==================== -->
+      <section>
+        <section>
+          <h2>Closing reflection</h2>
+          <p>One question per team:</p>
+          <div class="highlight-box">
+            <p><em>What is one thing you will do differently in your next training design because of today?</em></p>
+          </div>
+          <p>Go round &mdash; one answer per team.</p>
+          <aside class="notes">
+            5 min. Go quickly — one commitment per team. Note down their answers. These are valuable for planning follow-up sessions or workbook revisions. Don't let this turn into a long discussion — keep it to brief statements.
+          </aside>
+        </section>
+
+        <section>
+          <h2>What to do next</h2>
+          <p>Today was about seeing the full picture and finding the parts that matter most for your work.</p>
+          <p>The <strong>workbook</strong> is where you go deeper &mdash; especially the activities and lessons you did not cover today.</p>
+          <ul>
+            <li>Co-design and constraints (Lesson 6)</li>
+            <li>Practice, feedback, and iteration (Lesson 8)</li>
+            <li>Assessment for learning (Lesson 9)</li>
+          </ul>
+          <aside class="notes">
+            Point participants to the workbook for continued engagement. Emphasise: "The goal today was not to master all of this — it was to see the full picture and find the parts that matter most for your own work." Mention the specific lessons they didn't cover deeply today.
+          </aside>
+        </section>
+      </section>
+
+      <!-- ==================== THANK YOU ==================== -->
+      <section>
+        <h1>Thank you</h1>
+        <p class="subtitle">Teaching for Impact: Designing Effective &amp; Open Training</p>
+        <p><a href="../">Continue with the workbook &rarr;</a></p>
+      </section>
+
+{% endblock %}
