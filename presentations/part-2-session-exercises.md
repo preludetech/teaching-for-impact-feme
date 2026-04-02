@@ -2,10 +2,10 @@
 
 ## Summary
 
-- **Total session time:** ~3 hours 7 minutes (187 minutes), including one 20-minute break
-- **Content time:** ~2 hours 27 minutes (147 minutes of exercises + framing/debrief), plus opening, licensing primer, and closing
-- **Number of exercises:** 4 core + 3 alternatives available
-- **Built-in buffer:** ~38 minutes before the 4-hour mark, to absorb Q&A overruns and natural discussion
+- **Total session time:** ~3 hours 20 minutes (200 minutes), including one 20-minute break
+- **Content time:** ~3 hours (180 minutes of exercises + framing/debrief, including opening, licensing primer, and closing)
+- **Number of exercises:** 4 core + 2 alternatives available
+- **Built-in buffer:** ~40 minutes before the 4-hour mark, to absorb Q&A overruns and natural discussion
 
 ---
 
@@ -19,20 +19,20 @@ Part 2 has 7 lessons with 30 learning outcomes. The workshop targets familiarity
 | 2 | Identify features of reusable materials | L1 | Ex 1: Hidden Assumptions Audit | Alt A: Snapshot Sprint |
 | 3 | Recognise hidden assumptions that limit reuse | L1 | Ex 1: Hidden Assumptions Audit | — |
 | 4 | Make one part of training clearer / more self-contained | L1 | Ex 1: Hidden Assumptions Audit | Alt A: Snapshot Sprint |
-| 5 | Identify and locate relevant OER | L2 | Ex 2: OER Evaluation Sprint | — |
-| 6 | Evaluate OER using six lenses | L2 | Ex 2: OER Evaluation Sprint | Alt B: Resource Swap Review |
-| 7 | Identify contextual assumptions in existing resources | L2 | Ex 2: OER Evaluation Sprint | Alt B: Resource Swap Review |
-| 8 | Make practical reuse/adapt/create decisions | L2 | Ex 3: Reuse, Adapt, or Create? | Alt B: Resource Swap Review |
+| 5 | Identify and locate relevant OER | L2 | Ex 2: Evaluate, Then Decide | — |
+| 6 | Evaluate OER using six lenses | L2 | Ex 2: Evaluate, Then Decide | Alt B: Resource Swap Review |
+| 7 | Identify contextual assumptions in existing resources | L2 | Ex 2: Evaluate, Then Decide | Alt B: Resource Swap Review |
+| 8 | Make practical reuse/adapt/create decisions | L2 | Ex 2: Evaluate, Then Decide | Alt B: Resource Swap Review |
 | 9 | Explain how open licenses enable reuse | L3 | Licensing primer | — |
 | 10 | Distinguish between CC license types | L3 | Licensing primer | — |
 | 11 | Identify the license on a resource | L3 | Licensing primer | — |
 | 12 | Assess license compatibility for combining resources | L3 | Licensing primer | — |
-| 13 | Adapt OER to align with outcomes, learners, context | L4 | Ex 3: Reuse, Adapt, or Create? | Alt C: Adaptation Deep Dive |
-| 14 | Identify and address embedded assumptions | L4 | Ex 1 + Ex 3 | Alt C: Adaptation Deep Dive |
-| 15 | Distinguish surface, structural, and contextual adaptation | L4 | Ex 3: Reuse, Adapt, or Create? | Alt C: Adaptation Deep Dive |
+| 13 | Adapt OER to align with outcomes, learners, context | L4 | Ex 2 + Ex 3: Adaptation Deep Dive | — |
+| 14 | Identify and address embedded assumptions | L4 | Ex 1 + Ex 2 + Ex 3 | — |
+| 15 | Distinguish surface, structural, and contextual adaptation | L4 | Ex 2 + Ex 3: Adaptation Deep Dive | — |
 | 16 | Apply correct attribution | L4 | Licensing primer | — |
-| 17 | Document adaptations for transparency | L4 | Ex 3: Reuse, Adapt, or Create? | Alt C: Adaptation Deep Dive |
-| 18 | Identify when creating from scratch is the right choice | L5 | Ex 3: Reuse, Adapt, or Create? | — |
+| 17 | Document adaptations for transparency | L4 | Ex 2 + Ex 3: Adaptation Deep Dive | — |
+| 18 | Identify when creating from scratch is the right choice | L5 | Ex 2: Evaluate, Then Decide | — |
 | 19 | Design materials structured for openness from the start | L5 | Ex 4: Stranger Test Swap | — |
 | 20 | Write instructions that work for unseen audiences | L5 | Ex 4: Stranger Test Swap | — |
 | 21 | Build accessibility into materials by design | L5 | Ex 4: Stranger Test Swap | — |
@@ -63,26 +63,27 @@ Part 2 has 7 lessons with 30 learning outcomes. The workshop targets familiarity
 | 0:00–0:05 | 5 min | Part 1 recap + open Q&A | Group discussion |
 | 0:05–0:10 | 5 min | Facilitator frames Part 2 arc | Lecture |
 | 0:10–0:15 | 5 min | Context for Exercise 1 | Lecture |
-| 0:15–0:40 | 25 min | Exercise 1: Hidden Assumptions Audit | Team breakout |
+| 0:15–0:40 | 25 min | Exercise 1: Hidden Assumptions Audit | Whole-group discussion |
 | 0:40–0:45 | 5 min | Debrief Exercise 1 — teams share assumption warnings | Group discussion |
 | 0:45–0:55 | 10 min | Licensing primer — CC basics + worked example | Lecture |
 | 0:55–1:00 | 5 min | Context for Exercise 2 | Lecture |
-| 1:00–1:25 | 25 min | Exercise 2: OER Evaluation Sprint | Team breakout |
-| 1:25–1:30 | 5 min | Debrief Exercise 2 — "which lens surprised you?" | Group discussion |
-| 1:30–1:32 | 2 min | Context for Exercise 3 | Lecture |
-| 1:32–1:57 | 25 min | Exercise 3: Reuse, Adapt, or Create? | Team breakout |
-| 1:57–2:02 | 5 min | Debrief Exercise 3 — quick poll + discussion | Group discussion |
-| 2:02–2:22 | 20 min | **Break** | Break |
-| 2:22–2:27 | 5 min | Context for Exercise 4 | Lecture |
-| 2:27–2:37 | 10 min | Exercise 4a: Review another team's materials | Cross-team breakout |
-| 2:37–2:47 | 10 min | Exercise 4b: Paired feedback (reviewer ↔ creator) | Cross-team breakout |
-| 2:47–2:52 | 5 min | Exercise 4c: Harvest + debrief — "most common gap?" | Group discussion |
-| 2:52–2:55 | 3 min | Closing: Individual reflection — write down one thing | Individual reflection |
-| 2:55–3:00 | 5 min | Closing: Share within teams | Team breakout |
-| 3:00–3:05 | 5 min | Closing: Harvest in main room | Group discussion |
-| 3:05–3:07 | 2 min | Facilitator close — connecting to OER lifecycle | Lecture |
+| 1:00–1:15 | 15 min | Exercise 2a: Six-lens evaluation | Team breakout |
+| 1:15–1:23 | 8 min | Exercise 2b: Reuse, adapt, or create decision | Team breakout |
+| 1:23–1:30 | 7 min | Debrief Exercise 2 — surprises + quick poll | Group discussion |
+| 1:30–1:50 | 20 min | **Break** | Break |
+| 1:50–1:55 | 5 min | Context for Exercise 3 | Lecture |
+| 1:55–2:30 | 35 min | Exercise 3: Adaptation Deep Dive | Team breakout |
+| 2:30–2:35 | 5 min | Debrief Exercise 3 — teams share key adaptation decisions | Group discussion |
+| 2:35–2:40 | 5 min | Context for Exercise 4 | Lecture |
+| 2:40–2:50 | 10 min | Exercise 4a: Review another team's materials | Cross-team breakout |
+| 2:50–3:00 | 10 min | Exercise 4b: Paired feedback (reviewer ↔ creator) | Cross-team breakout |
+| 3:00–3:05 | 5 min | Exercise 4c: Harvest + debrief — "most common gap?" | Group discussion |
+| 3:05–3:08 | 3 min | Closing: Individual reflection — write down one thing | Individual reflection |
+| 3:08–3:13 | 5 min | Closing: Share within teams | Team breakout |
+| 3:13–3:18 | 5 min | Closing: Harvest in main room | Group discussion |
+| 3:18–3:20 | 2 min | Facilitator close — connecting to OER lifecycle | Lecture |
 
-**Note:** Timeline runs to 3:07, leaving ~38 minutes of buffer before the 4-hour mark. This absorbs Q&A overruns, slow transitions, and organic discussion without time pressure.
+**Note:** Timeline runs to 3:20, leaving ~40 minutes of buffer before the 4-hour mark. This absorbs Q&A overruns, slow transitions, and organic discussion without time pressure.
 
 ---
 
@@ -93,6 +94,8 @@ Part 2 has 7 lessons with 30 learning outcomes. The workshop targets familiarity
 - 5 min: Quick recap of Part 1 key ideas + open Q&A. Invite questions, lingering thoughts, or anything that came up between sessions.
 - 5 min: Facilitator frames the shift to Part 2. Part 1 was about designing training for your learners; Part 2 is about making those materials work for people who were not in the room when you designed them. Preview the arc of the session: we will audit our own assumptions, evaluate existing resources, make reuse decisions, and then test whether our materials actually work for someone else.
 
+Speak about reuse/adapt/create and the power of allowing others to use your stuff.
+
 **Why this works:** The Q&A gives participants closure on Part 1 and signals that the sessions are connected. The facilitator framing sets up the session arc so participants know where they are headed, without pre-empting Exercise 4's payoff (where teams experience first-hand what happens when someone else tries to use their materials).
 
 ---
@@ -101,27 +104,27 @@ Part 2 has 7 lessons with 30 learning outcomes. The workshop targets familiarity
 
 ### Exercise 1: Hidden Assumptions Audit — core
 
-Add a story here: I once made a course that got people with no coding xp to build a simple website and host it on github pages. Loads of people did it. A core assumption I had was that people knew what a text editer was, that was wrong. The couirse started off by explaining HTML basics. The most common question that came up was "what's a text editor"
+Remember the story about teaching girls to make websites from the last session
 
 **Original activity:** Activity 14: OER Workflow, Section 0 (Context) + Lesson 1 assumption-surfacing method
 
-**Grouping:** Own team — they need to examine their own materials, and the discussion is richer when everyone knows the training context.
+**Grouping:** Whole group — no breakout rooms. One team volunteers (or is chosen) to share a piece of their training materials on screen.
 
 **Adapted instructions:**
 
-Each team chooses one important piece of their training materials (an activity, a slide deck, a set of instructions). Working through it together, they answer three questions for each section:
+The facilitator asks one team to put up a piece of their training materials (an activity, a slide deck, a set of instructions. This can be something they designed in session 1). The whole group examines it together, working through three questions:
 
 1. What does the reader need to already know?
 2. What does the reader need to have (tools, software, connectivity)?
 3. What context is baked in (examples, cultural references, institutional assumptions)?
 
-Write the assumptions down as a list. Then star the 2–3 assumptions that would cause the most confusion if someone missed them.
+The facilitator captures assumptions as the group calls them out. Once the list feels complete, the group identifies the 2–3 assumptions that would cause the most confusion if someone missed them. Note that some assumptions (like the learner understands X) can be solved with training material. Identify assumptions, how much damage they can cause and how they can be tested or addressed.
 
-In the last 5 minutes, each team composes a one-sentence "assumption warning" for their material — the single most important thing a new user would need to know.
+Ask: How can identifying these assumptions up front make your cotent more reusable and adaptable?
 
-**Time:** 35 min total (5 min framing / 25 min activity / 5 min debrief)
+**Time:** 35 min total (5 min framing / 25 min group discussion / 5 min wrap-up)
 
-**Debrief:** 2–3 teams share their "assumption warning" in the main room. Facilitator highlights patterns (e.g., tool assumptions, language assumptions, institutional assumptions).
+**Why this format works:** Because every team already has their own materials, the sharing team provides a concrete example for everyone to practise on. Participants from other teams often spot assumptions the authoring team cannot see — which is exactly the point of the exercise. The whole-group format means everyone benefits from the same discussion and the facilitator can steer toward key patterns (e.g., tool assumptions, language assumptions, institutional assumptions).
 
 **Reason for inclusion:** This is the foundational exercise for Part 2. Everything else — evaluation, adaptation, creation, sharing — builds on the ability to see what your materials assume. It also produces a concrete, reusable artefact (the assumption list) that teams take away.
 
@@ -149,15 +152,21 @@ Cover:
 
 ---
 
-### Exercise 2: OER Evaluation Sprint — core
+### Exercise 2: Evaluate, Then Decide — core
 
-**Original activity:** Activity 14: OER Workflow, Section 1 (Find and Evaluate Resources) + Lesson 2 six-lens framework
+**Original activity:** Activity 14: OER Workflow, Sections 1–2 (Find/Evaluate + Design Decisions) + Lesson 2 six-lens framework + Lesson 2 reuse/adapt/create framework + Lesson 4 adaptation levels
 
-**Grouping:** Own team — they are evaluating resources against their own training's needs, which requires shared context about their learners and outcomes.
+**Grouping:** Own team — they are evaluating resources against their own training's needs and making decisions about their own materials, which requires shared context about their learners, outcomes, and constraints.
 
 **Adapted instructions:**
 
-Each team identifies one existing resource they are already aware of (or could realistically use) for their training. This could be something they found before the workshop, something a colleague shared, or something they have bookmarked. If a team has nothing, they can search briefly — but the goal is evaluation, not searching.
+This exercise has two phases. Teams stay in the same breakout for both — Phase 2 flows directly from Phase 1.
+
+**Phase 1 — Six-lens evaluation (15 min)**
+
+Each team picks one resource they brought from the pre-work (Step 5 asked them to find learning resources for their topic). If a team didn't complete that step, the facilitator provides one of the curated fallback resources (see facilitator prep note below) — the goal is evaluation, not searching.
+
+**Facilitator prep:** Have 3–4 curated OER examples ready as fallbacks for teams that didn't complete pre-work. Choose resources with a mix of quality levels across the six lenses so they produce interesting evaluations.
 
 Using the six lenses from Lesson 2, they evaluate the resource by discussing each lens and noting their verdict:
 
@@ -170,50 +179,62 @@ Using the six lenses from Lesson 2, they evaluate the resource by discussing eac
 
 For each lens, rate: green (works), amber (needs work), red (deal-breaker).
 
-**Time:** 35 min total (5 min framing / 25 min activity / 5 min debrief)
+**Phase 2 — Reuse, adapt, or create? (8 min)**
 
-**Debrief:** Ask 2–3 teams: "What was the lens that surprised you most — the one where you expected green but got amber or red?" Facilitator draws out the pattern that accessibility and licensing are commonly overlooked.
+Based on their evaluation, each team now makes a decision: **reuse as-is, adapt, or create from scratch?**
 
-**Reason for inclusion:** Evaluation is the practical skill that prevents wasted effort — choosing a bad resource costs more than creating from scratch. The six-lens framework gives teams a reusable tool. This exercise also sets up Exercise 3 naturally (now that you've evaluated, what's your decision?).
-
-**Outcomes addressed:**
-- L2.5: Identify and locate relevant OER
-- L2.6: Evaluate OER using six lenses including accessibility
-- L2.7: Identify contextual assumptions in existing resources
-
----
-
-### Exercise 3: Reuse, Adapt, or Create? — core
-
-**Original activity:** Activity 14: OER Workflow, Section 2 (Design Decisions) + Lesson 2 reuse/adapt/create framework + Lesson 4 adaptation levels
-
-**Grouping:** Own team — they are making decisions about their own materials, which requires knowledge of their specific context and constraints.
-
-**Adapted instructions:**
-
-Building on Exercise 2, each team now makes a decision about the resource they evaluated (and, if time allows, 1–2 other parts of their training). For each piece of material, they decide: **reuse as-is, adapt, or create from scratch?**
-
-For each decision, they must articulate:
+For their decision, they must articulate:
 - **What** they decided (reuse / adapt / create)
 - **Why** — what drove the decision? (fit, licensing, effort, context mismatch)
 - **If adapting:** What level of adaptation is needed? Surface (terminology, formatting), structural (reordering, splitting), or contextual (replacing examples, changing tools, rethinking prerequisites)?
 - **If creating:** Why wasn't adaptation enough? What gap are they filling?
 
-Teams capture their decisions as a simple table or list they can refer back to.
+Teams capture the decision alongside their evaluation as a simple table or list they can refer back to.
 
-**Time:** 32 min total (2 min framing / 25 min activity / 5 min debrief). Framing is short because this exercise flows directly from Exercise 2 — participants already have their evaluated resource in front of them.
+**Time:** 35 min total (5 min framing / 23 min activity [15 min Phase 1 + 8 min Phase 2] / 7 min debrief)
 
-**Debrief:** Quick poll — "How many teams chose reuse? Adapt? Create?" Facilitator normalises that adaptation is the most common answer and that creation is valid when the gap is real.
+**Debrief:** Two questions. First: "What was the lens that surprised you most — the one where you expected green but got amber or red?" Facilitator draws out the pattern that accessibility and licensing are commonly overlooked. Second: quick poll — "How many teams chose reuse? Adapt? Create?" Facilitator normalises that adaptation is the most common answer and that creation is valid when the gap is real.
 
-**Reason for inclusion:** This is where abstract concepts become concrete decisions. It connects evaluation (Exercise 2) to the practical work teams will do after the workshop. The adaptation-level framing (surface/structural/contextual) from Lesson 4 gives teams vocabulary for scoping the work ahead.
+**Reason for inclusion:** Evaluation is the practical skill that prevents wasted effort — choosing a bad resource costs more than creating from scratch. The six-lens framework gives teams a reusable tool. The decision phase turns that evaluation into a concrete commitment, and the adaptation-level framing (surface/structural/contextual) from Lesson 4 gives teams vocabulary for scoping the work ahead.
 
 **Outcomes addressed:**
+- L2.5: Identify and locate relevant OER
+- L2.6: Evaluate OER using six lenses including accessibility
+- L2.7: Identify contextual assumptions in existing resources
 - L2.8: Make practical reuse/adapt/create decisions
 - L4.13: Adapt OER to align with outcomes, learners, context
 - L4.14: Identify and address embedded assumptions
 - L4.15: Distinguish surface, structural, and contextual adaptation
 - L4.17: Document adaptations for transparency
 - L5.18: Identify when creating from scratch is the right choice
+
+---
+
+### Exercise 3: Adaptation Deep Dive — core
+
+**Original activity:** Activity 14: OER Workflow, Section 3 (Adaptation and Localisation Log) + Lesson 4 adaptation methods
+
+**Grouping:** Own team — they are planning specific changes to a resource for their own context.
+
+**Adapted instructions:**
+
+Each team takes one resource they have decided to adapt (from Exercise 2). Working through it section by section, they identify:
+
+- **Surface changes needed:** terminology, tone, formatting, images
+- **Structural changes needed:** reordering, splitting, removing sections, changing activity format
+- **Contextual changes needed:** replacing examples, substituting tools, adjusting prerequisites, reframing for a different professional context
+
+For the most significant change, they draft a brief adaptation note: what they changed, why, and what remains context-specific.
+
+**Time:** 45 min total (5 min framing / 35 min activity / 5 min debrief)
+
+**Why this works:** Exercise 2 ended with a decision — reuse, adapt, or create. Most teams will have chosen "adapt." This exercise turns that decision into concrete work. Teams move from evaluating a resource to actually planning the changes, which deepens their understanding of the three adaptation levels (surface, structural, contextual). The adaptation note they draft also models the kind of documentation that makes OER genuinely reusable by others.
+
+**Outcomes addressed:**
+- L4.13: Adapt OER to align with outcomes, learners, context
+- L4.14: Identify and address embedded assumptions
+- L4.15: Distinguish surface, structural, and contextual adaptation
+- L4.17: Document adaptations for transparency
 
 ---
 
@@ -296,11 +317,11 @@ In the last 5 minutes, each team identifies: "What is the one thing a colleague 
 
 **Original activity:** Activity 14: OER Workflow, Section 1 + Lesson 2 six-lens framework
 
-**Could replace:** Exercise 2 (OER Evaluation Sprint)
+**Could replace:** Exercise 2 (Evaluate, Then Decide)
 
 **Grouping:** Cross-team swap — teams evaluate a resource brought by a *different* team, which provides fresh eyes and surfaces assumptions the creating team cannot see.
 
-**Tradeoff:** More interactive and better at surfacing hidden assumptions (because reviewers genuinely do not know the context), but takes ~5 minutes longer due to the handoff and context-setting. Teams also evaluate a resource they may not use, which reduces immediate practical value. The OER Evaluation Sprint is more directly useful (teams evaluate resources they will actually use); the Resource Swap Review is better for building evaluation skills through the experience of encountering unfamiliar materials. Choose this if you want to emphasise the evaluation skill itself; choose the Sprint if you want teams to leave with evaluated resources they can act on.
+**Tradeoff:** More interactive and better at surfacing hidden assumptions (because reviewers genuinely do not know the context), but takes ~5 minutes longer due to the handoff and context-setting. Teams also evaluate a resource they may not use, which reduces immediate practical value. Exercise 2 is more directly useful (teams evaluate resources they will actually use); the Resource Swap Review is better for building evaluation skills through the experience of encountering unfamiliar materials. Choose this if you want to emphasise the evaluation skill itself; choose Exercise 2 if you want teams to leave with evaluated resources they can act on.
 
 **Adapted instructions:**
 
@@ -314,36 +335,6 @@ The receiving team evaluates the resource using the six lenses, noting where the
 - L2.6: Evaluate OER using six lenses
 - L2.7: Identify contextual assumptions in existing resources
 - L2.8: Make practical reuse/adapt/create decisions
-
----
-
-### Alternative C: Adaptation Deep Dive
-
-**Original activity:** Activity 14: OER Workflow, Section 3 (Adaptation and Localisation Log) + Lesson 4 adaptation methods
-
-**Could replace:** Exercise 3 (Reuse, Adapt, or Create?)
-
-**Grouping:** Own team — they are planning specific changes to a resource for their own context.
-
-**Tradeoff:** The Adaptation Deep Dive goes deeper on a single resource — teams work through specific changes at the surface, structural, and contextual levels, and begin drafting an adaptation log. It produces a more complete artefact but takes 10 minutes longer and skips the broader reuse/adapt/create decision-making that Exercise 3 covers. It also does not address the "create from scratch" pathway (L5.18). Choose this if most teams have already decided to adapt (not create) and want to start the actual work; choose Exercise 3 if teams are still deciding their approach.
-
-**Adapted instructions:**
-
-Each team takes one resource they have decided to adapt (from Exercise 2 or prior work). Working through it section by section, they identify:
-
-- **Surface changes needed:** terminology, tone, formatting, images
-- **Structural changes needed:** reordering, splitting, removing sections, changing activity format
-- **Contextual changes needed:** replacing examples, substituting tools, adjusting prerequisites, reframing for a different professional context
-
-For the most significant change, they draft a brief adaptation note: what they changed, why, and what remains context-specific.
-
-**Time:** 45 min (5 min framing / 35 min activity / 5 min debrief)
-
-**Outcomes addressed:**
-- L4.13: Adapt OER to align with outcomes, learners, context
-- L4.14: Identify and address embedded assumptions
-- L4.15: Distinguish surface, structural, and contextual adaptation
-- L4.17: Document adaptations for transparency
 
 ---
 
