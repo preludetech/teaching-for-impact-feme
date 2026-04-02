@@ -1,0 +1,1307 @@
+<!DOCTYPE html><html lang="en" class="no-js"><head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://talarifyza.github.io/teaching-for-impact/part-2/REFACTORING_PLAN/">
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../None">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>Part 2 Refactoring Plan - Teaching for Impact: Designing Effective &amp; Open Training</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"><script src="../../assets/javascripts/glightbox.min.js"></script><style id="glightbox-style">
+            html.glightbox-open { overflow: initial; height: 100%; }
+            .gslide-title { margin-top: 0px; user-select: text; }
+            .gslide-desc { color: #666; user-select: text; }
+            .gslide-image img { background: white; }
+            .gscrollbar-fixer { padding-right: 15px; }
+            .gdesc-inner { font-size: 0.75rem; }
+            body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color); }
+            body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color); }
+            body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color); }
+        </style></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#part-2-refactoring-plan" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Teaching for Impact: Designing Effective &amp; Open Training" class="md-header__button md-logo" aria-label="Teaching for Impact: Designing Effective &amp; Open Training" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"></path></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Teaching for Impact: Designing Effective &amp; Open Training
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Part 2 Refactoring Plan
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo" aria-hidden="true" type="radio" name="__palette" id="__palette_0">
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"></path></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required="">
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"></path></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"></path></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard="" data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"></path></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix="">
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../introduction/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Introduction
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../part-1/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Part 1 - Designing Training
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Part 2 - From Training Design to OER
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../presentations/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Presentations
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../extra-topics/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Extra Topics
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../conclusion/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Conclusion
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../activities/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Activities
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../resources/glossary/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Resources
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Teaching for Impact: Designing Effective &amp; Open Training" class="md-nav__button md-logo" aria-label="Teaching for Impact: Designing Effective &amp; Open Training" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+
+    </a>
+    Teaching for Impact: Designing Effective &amp; Open Training
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix="">
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../introduction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introduction
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../part-1/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 1 - Designing Training
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Part 2 - From Training Design to OER
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../presentations/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Presentations
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../extra-topics/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Extra Topics
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../conclusion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Conclusion
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../activities/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Activities
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../resources/glossary/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Resources
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="part-2-refactoring-plan">Part 2 Refactoring Plan<a class="headerlink" href="#part-2-refactoring-plan" title="Permanent link">¶</a></h1>
+<h2 id="why-this-refactoring-is-needed">Why this refactoring is needed<a class="headerlink" href="#why-this-refactoring-is-needed" title="Permanent link">¶</a></h2>
+<p>A close reading of Part 2 reveals structural overlap between Lessons 1 and 2, content gaps (no lesson on creating OER from scratch, no guidance on accessibility), and repetitive further-reading citations. Some lessons also try to cover too many concerns at once — for example, Lesson 3 covers licenses, Creative Commons elements, license compatibility, choosing a license, AND attribution.</p>
+<p>The goal: each lesson gets a clear, focused purpose; overlap is eliminated; and identified gaps are filled.</p>
+<hr>
+<h2 id="problems">Problems<a class="headerlink" href="#problems" title="Permanent link">¶</a></h2>
+<h3 id="1-lessons-1-and-2-overlap-significantly">1. Lessons 1 and 2 overlap significantly<a class="headerlink" href="#1-lessons-1-and-2-overlap-significantly" title="Permanent link">¶</a></h3>
+<p>Both lessons cover the "reuse, adapt, create" decision framework:</p>
+<ul>
+<li>Lesson 1 outcome: "Decide when to reuse, adapt, or create resources"</li>
+<li>Lesson 2 outcome: "Make explicit decisions to reuse, adapt, or create resources"</li>
+</ul>
+<p>Both reference Activity 14 section 2 (Design Decisions) and Activity 8. Lesson 1's "hidden assumptions" concept and Lesson 2's "contextual assumptions" concept cover the same ground under different labels.</p>
+<p>A reader finishing Lesson 1 and starting Lesson 2 encounters the same decisions, concerns, and activities — Lesson 2 feels repetitive rather than progressive.</p>
+<h3 id="2-some-lessons-bundle-too-many-concerns">2. Some lessons bundle too many concerns<a class="headerlink" href="#2-some-lessons-bundle-too-many-concerns" title="Permanent link">¶</a></h3>
+<p>Lesson 3 covers licenses, Creative Commons elements, license compatibility, choosing a license for your own materials, AND attribution. These are related but serve different moments in the workflow — understanding licenses (when evaluating), attributing (when adapting), and choosing a license (when sharing). Bundling them forces readers to learn everything before they need it.</p>
+<h3 id="3-no-lesson-on-creating-oer-from-scratch">3. No lesson on creating OER from scratch<a class="headerlink" href="#3-no-lesson-on-creating-oer-from-scratch" title="Permanent link">¶</a></h3>
+<p>The "reuse, adapt, create" framework is central to Part 2, but only reuse and adaptation get dedicated lessons. Readers who need to create original materials — especially those working in niche domains, underrepresented languages, or emerging fields — get no guidance on:</p>
+<ul>
+<li>How to structure materials for openness from the start</li>
+<li>How to write instructions and activities that are context-portable</li>
+<li>How to build in adaptability by design (modular structure, replaceable examples, explicit assumptions)</li>
+<li>How "creating for openness" differs from just "creating materials"</li>
+</ul>
+<p>Activity 14 section 2 asks readers to document what they will "create from scratch" but no lesson supports that decision.</p>
+<h3 id="4-no-guidance-on-accessibility">4. No guidance on accessibility<a class="headerlink" href="#4-no-guidance-on-accessibility" title="Permanent link">¶</a></h3>
+<p>There is no mention of making materials usable across devices, bandwidth levels, disabilities, or varying digital literacy. For a workbook about creating open and reusable educational resources, this is a notable omission — especially given the target audience of practitioners in resource-constrained settings.</p>
+<h3 id="5-further-reading-is-repetitive">5. Further reading is repetitive<a class="headerlink" href="#5-further-reading-is-repetitive" title="Permanent link">¶</a></h3>
+<p>Wiley (2014) appears in 5 of 6 lessons. UNESCO (2019) appears in all 6. The lesson skill spec says "2–4 references at the end, directly tied to the lesson. No generic sources." Each lesson should have references specific to its content.</p>
+<hr>
+<h2 id="what-does-not-need-to-change">What does NOT need to change<a class="headerlink" href="#what-does-not-need-to-change" title="Permanent link">¶</a></h2>
+<ul>
+<li><strong>Lessons 5 and 6 (publishing vs. sustaining) are genuinely distinct</strong> — they should not be combined.</li>
+<li><strong>The overall Part 2 narrative arc is sound</strong> — the progression from "design for openness" through "find, evaluate, license, adapt, share, sustain" is logical and well-scaffolded.</li>
+<li><strong>Activity 14 as a through-line</strong> works well — each lesson focuses on specific sections, building up a complete OER workflow.</li>
+</ul>
+<hr>
+<h2 id="proposed-new-structure-7-lessons--closing">Proposed new structure: 7 lessons + closing<a class="headerlink" href="#proposed-new-structure-7-lessons--closing" title="Permanent link">¶</a></h2>
+<h3 id="new-lesson-1-designing-for-openness">New Lesson 1: Designing for Openness<a class="headerlink" href="#new-lesson-1-designing-for-openness" title="Permanent link">¶</a></h3>
+<p><strong>Source:</strong> Current Lesson 1, tightened with overlap removed</p>
+<p><strong>Covers:</strong> Openness as a design choice, the reuse/adapt/create framework (introduced, not practiced in detail), what makes materials reusable, hidden assumptions.</p>
+<p><strong>Changes:</strong></p>
+<ul>
+<li>Remove the detailed reuse/adapt/create decision walkthrough (current Step 2) — this duplicates Lesson 2</li>
+<li>Remove Activity 14 section 2 reference — better placed in Lesson 2 where readers actively make those decisions</li>
+<li>Remove Activity 8 revisit — better placed after adaptation (Lesson 4) or creation (Lesson 5)</li>
+<li>Keep core framing, Steps 1/3/4/5, and Activity 14 section 0 (Context)</li>
+</ul>
+<p><strong>Activities:</strong> Activity 14 (section 0)</p>
+<hr>
+<h3 id="new-lesson-2-finding-and-evaluating-oer">New Lesson 2: Finding and Evaluating OER<a class="headerlink" href="#new-lesson-2-finding-and-evaluating-oer" title="Permanent link">¶</a></h3>
+<p><strong>Source:</strong> Current Lesson 2, absorbing reuse/adapt/create detail from current Lesson 1</p>
+<p><strong>Covers:</strong> Where to find OER, evaluating OER (six lenses — alignment, clarity, context fit, adaptability, accessibility, licensing), contextual assumptions, making practical reuse/adapt/create decisions.</p>
+<p><strong>Changes:</strong></p>
+<ul>
+<li>Absorb the reuse/adapt/create decision-making detail from current Lesson 1</li>
+<li>Add accessibility as a sixth evaluation lens: "Can your learners actually access and use this material?"</li>
+<li>Simplify the licensing evaluation to a quick filter (detailed licensing is in Lesson 3)</li>
+</ul>
+<p><strong>Activities:</strong> Activity 14 (sections 1, 2), Activity 8</p>
+<hr>
+<h3 id="new-lesson-3-understanding-open-licenses">New Lesson 3: Understanding Open Licenses<a class="headerlink" href="#new-lesson-3-understanding-open-licenses" title="Permanent link">¶</a></h3>
+<p><strong>Source:</strong> Current Lesson 3, narrowed</p>
+<p><strong>Covers:</strong> What licenses are, open licenses vs. default copyright, Creative Commons elements (BY, SA, NC, ND) and common combinations, identifying licenses, license compatibility basics.</p>
+<p><strong>Changes:</strong></p>
+<ul>
+<li>Remove "Choose a license for your materials" (current Step 4) — moves to Lesson 6 (Sharing) where the action happens</li>
+<li>Remove attribution section (current Step 5) — moves to Lesson 4 (Adaptation) where readers are working with others' materials</li>
+<li>Simplify license compatibility section</li>
+</ul>
+<p><strong>Activities:</strong> Activity 14 (sections 1, 2)</p>
+<hr>
+<h3 id="new-lesson-4-adapting-remixing-and-localising-oer">New Lesson 4: Adapting, Remixing, and Localising OER<a class="headerlink" href="#new-lesson-4-adapting-remixing-and-localising-oer" title="Permanent link">¶</a></h3>
+<p><strong>Source:</strong> Current Lesson 4, with attribution absorbed from current Lesson 3</p>
+<p><strong>Covers:</strong> Adaptation as expected practice, levels of adaptation (surface/structural/contextual), localisation, accessibility as adaptation, design trade-offs, attribution, documenting changes.</p>
+<p><strong>Changes:</strong></p>
+<ul>
+<li>Absorb attribution from current Lesson 3 — this is where readers actually need to attribute</li>
+<li>Add accessibility as a dimension of adaptation (alt text, simplified language, alternative formats, offline usability)</li>
+<li>Consolidate Steps 1+2 (identify assumptions + identify what doesn't fit) into one step</li>
+<li>Consolidate Steps 5+6 (document + check coherence) into one step</li>
+</ul>
+<p><strong>Activities:</strong> Activity 14 (section 3), Activity 8</p>
+<hr>
+<h3 id="new-lesson-5-creating-oer-from-scratch-new">New Lesson 5: Creating OER from Scratch (NEW)<a class="headerlink" href="#new-lesson-5-creating-oer-from-scratch-new" title="Permanent link">¶</a></h3>
+<p><strong>Source:</strong> New content</p>
+<p><strong>Covers:</strong></p>
+<ul>
+<li>When creation is the right choice (nothing suitable exists, niche domain, underrepresented language)</li>
+<li>Designing for openness from the start — how creating-for-reuse differs from creating-for-yourself</li>
+<li>Structuring materials for adaptability: modular design, replaceable examples, explicit assumptions</li>
+<li>Writing for audiences you cannot see</li>
+<li>Accessibility by design</li>
+<li>Connecting back to Part 1: learning outcomes, learner analysis, and activity design provide the foundation</li>
+</ul>
+<p><strong>Why this lesson is needed:</strong> The workbook's own audience — researchers and practitioners in resource-constrained environments — is precisely the group most likely to need to create OER from scratch. The current structure acknowledges "create" as an option but never teaches it.</p>
+<p><strong>Why it goes here:</strong> Creation sits alongside adaptation as a path to having materials ready to share. Both paths converge at Lesson 6 (Sharing).</p>
+<p><strong>Activities:</strong> Activity 14 (sections 2, 3), Activity 8</p>
+<hr>
+<h3 id="new-lesson-6-sharing-and-publishing-oer">New Lesson 6: Sharing and Publishing OER<a class="headerlink" href="#new-lesson-6-sharing-and-publishing-oer" title="Permanent link">¶</a></h3>
+<p><strong>Source:</strong> Current Lesson 5, with license-choice absorbed from current Lesson 3</p>
+<p><strong>Covers:</strong> When materials are ready to share, choosing a license for your materials, documentation, accessible formats and platforms, platform choice, discoverability.</p>
+<p><strong>Changes:</strong></p>
+<ul>
+<li>Absorb license-choice from current Lesson 3 — readers choose their license when preparing to share, not when learning what licenses mean</li>
+<li>Add accessibility guidance for publishing (formats and platforms that support access)</li>
+<li>Combine "improve clarity" with "check readiness" — these are the same activity</li>
+</ul>
+<p><strong>Activities:</strong> Activity 14 (section 4), Activity 9</p>
+<hr>
+<h3 id="new-lesson-7-sustaining-and-improving-oer">New Lesson 7: Sustaining and Improving OER<a class="headerlink" href="#new-lesson-7-sustaining-and-improving-oer" title="Permanent link">¶</a></h3>
+<p><strong>Source:</strong> Current Lesson 6, tightened</p>
+<p><strong>Covers:</strong> OER lifecycle, sustainability as realistic maintenance, collecting meaningful feedback, making targeted improvements, versioning and transparency, when to retire materials.</p>
+<p><strong>Changes:</strong></p>
+<ul>
+<li>Consolidate Steps 1+3 (identify use patterns + decide maintenance level)</li>
+<li>Consolidate Steps 4+5 (make improvements + track changes)</li>
+</ul>
+<p><strong>Activities:</strong> Activity 14 (section 5)</p>
+<hr>
+<h3 id="part-2-closing-new">Part 2 Closing (NEW)<a class="headerlink" href="#part-2-closing-new" title="Permanent link">¶</a></h3>
+<p><strong>Source:</strong> New content, modelled on <code>docs/part-1/closing.md</code></p>
+<p>A short closing page that helps readers review their complete OER workflow, check coherence across decisions, and identify next steps. Not a numbered lesson.</p>
+<p><strong>Activities:</strong> Activity 14 (full review)</p>
+<hr>
+<h2 id="summary-of-changes">Summary of changes<a class="headerlink" href="#summary-of-changes" title="Permanent link">¶</a></h2>
+<table>
+<thead>
+<tr>
+<th>Current</th>
+<th>Action</th>
+<th>New</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>L1: Designing for Openness</td>
+<td>Remove overlap with L2</td>
+<td>New L1</td>
+</tr>
+<tr>
+<td>L2: Finding and Evaluating OER</td>
+<td>Absorb reuse/adapt/create detail from L1, add accessibility lens</td>
+<td>New L2</td>
+</tr>
+<tr>
+<td>L3: What Makes Resources Open?</td>
+<td>Narrow: understanding licenses only; attribution → L4, license choice → L6</td>
+<td>New L3</td>
+</tr>
+<tr>
+<td>L4: Adapting and Localising</td>
+<td>Absorb attribution from L3, add accessibility, consolidate steps</td>
+<td>New L4</td>
+</tr>
+<tr>
+<td><em>(gap)</em></td>
+<td>New lesson on creating OER from scratch</td>
+<td>New L5</td>
+</tr>
+<tr>
+<td>L5: Sharing and Publishing</td>
+<td>Absorb license choice from L3, add accessibility</td>
+<td>New L6</td>
+</tr>
+<tr>
+<td>L6: Sustaining and Improving</td>
+<td>Consolidate steps</td>
+<td>New L7</td>
+</tr>
+<tr>
+<td><em>(none)</em></td>
+<td>New closing page</td>
+<td>closing.md</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Net result:</strong> 6 lessons become 7 more focused lessons plus a closing page.</p>
+<hr>
+<h2 id="accessibility-integration-plan">Accessibility integration plan<a class="headerlink" href="#accessibility-integration-plan" title="Permanent link">¶</a></h2>
+<p>Accessibility is woven throughout rather than isolated in a standalone lesson:</p>
+<table>
+<thead>
+<tr>
+<th>Lesson</th>
+<th>Accessibility content</th>
+<th>How it fits</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>L2 (Find/Evaluate)</td>
+<td>Sixth evaluation lens: format, bandwidth, devices, assistive tech, language</td>
+<td>Natural extension of existing 5-lens framework</td>
+</tr>
+<tr>
+<td>L4 (Adapt)</td>
+<td>Adaptation dimension: alt text, simplified language, alternative formats, offline usability</td>
+<td>Fits within "levels of adaptation"</td>
+</tr>
+<tr>
+<td>L5 (Create)</td>
+<td>Design-from-start principle: building in accessibility from the beginning</td>
+<td>Core to "how creating for openness differs"</td>
+</tr>
+<tr>
+<td>L6 (Share/Publish)</td>
+<td>Platform and format choices: HTML over PDF, structured headings, accessible documents</td>
+<td>Natural extension of platform choice guidance</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="activity-14-changes-needed">Activity 14 changes needed<a class="headerlink" href="#activity-14-changes-needed" title="Permanent link">¶</a></h2>
+<ul>
+<li>Section 1: Expand accessibility prompt to include bandwidth, device, and assistive technology considerations</li>
+<li>Section 2/3: Add creation-focused prompt: "What did you create from scratch? Why was creation the right choice?"</li>
+<li>Update <code>used_in</code> frontmatter to match new lesson numbers and titles</li>
+</ul>
+<hr>
+<h2 id="further-reading-deduplication">Further reading deduplication<a class="headerlink" href="#further-reading-deduplication" title="Permanent link">¶</a></h2>
+<p>Each lesson should have 2–4 references specific to its content. Proposed assignments:</p>
+<ul>
+<li>Wiley (2014) — Lessons 1, 2, 3 only</li>
+<li>UNESCO (2019) — Lessons 1, 6 only</li>
+<li>Hodgkinson-Williams &amp; Trotter (2018) — Lessons 2, 4 only</li>
+<li>Creative Commons (n.d.) — Lesson 3 only</li>
+<li>Hilton (2016) — Lesson 2 only</li>
+<li>Atenas &amp; Havemann (2014) — Lesson 6 only</li>
+<li>Wiley &amp; Hilton (2018) — Lesson 7 only</li>
+<li>Atenas, Havemann &amp; Timmermann (2020) — Lesson 7 only</li>
+<li>New references needed for Lesson 5 (creating OER) and for accessibility content</li>
+</ul>
+<hr>
+<h2 id="other-files-to-update">Other files to update<a class="headerlink" href="#other-files-to-update" title="Permanent link">¶</a></h2>
+<ul>
+<li><code>docs/part-2/index.md</code> — update lesson list to 7 entries plus closing</li>
+<li><code>mkdocs.yml</code> — update Part 2 nav section</li>
+<li><code>docs/activities/activity_14_oer.md</code> — expand prompts, update frontmatter</li>
+<li>All Part 2 lesson cross-references — update to new numbering</li>
+</ul>
+<hr>
+<h2 id="implementation-instructions">Implementation instructions<a class="headerlink" href="#implementation-instructions" title="Permanent link">¶</a></h2>
+<p>Work through the lessons in order. For each lesson file:</p>
+<ol>
+<li><strong>Use the <code>/lesson</code> skill</strong> — this ensures the lesson conforms to the expected structure, voice, and formatting</li>
+<li><strong>Use the <code>/voice-and-tone</code> skill</strong> — apply the workbook's writing style to all content</li>
+<li>After all lessons are complete, update <code>index.md</code>, <code>mkdocs.yml</code>, and Activity 14</li>
+</ol>
+<h3 id="step-by-step">Step-by-step<a class="headerlink" href="#step-by-step" title="Permanent link">¶</a></h3>
+<ol>
+<li>Rewrite <code>lesson-1.md</code> using <code>/lesson</code> — tighten, remove overlap with L2</li>
+<li>Rewrite <code>lesson-2.md</code> using <code>/lesson</code> — absorb detail from old L1, add accessibility lens</li>
+<li>Rewrite <code>lesson-3.md</code> using <code>/lesson</code> — narrow to understanding licenses only</li>
+<li>Rewrite <code>lesson-4.md</code> using <code>/lesson</code> — absorb attribution, add accessibility, tighten</li>
+<li>Create new <code>lesson-5.md</code> using <code>/lesson</code> — Creating OER from Scratch</li>
+<li>Rename current <code>lesson-5.md</code> to <code>lesson-6.md</code>, then rewrite using <code>/lesson</code> — absorb license choice, add accessibility</li>
+<li>Rename current <code>lesson-6.md</code> to <code>lesson-7.md</code>, then rewrite using <code>/lesson</code> — tighten</li>
+<li>Create <code>closing.md</code></li>
+<li>Update <code>docs/activities/activity_14_oer.md</code></li>
+<li>Update <code>docs/part-2/index.md</code></li>
+<li>Update <code>mkdocs.yml</code></li>
+<li>Verify all cross-references</li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright © 2026 Failure Modes of Engineering - <a href="#__consent">Change cookie settings</a>
+
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+      <div class="md-consent" data-md-component="consent" id="__consent" hidden="">
+        <div class="md-consent__overlay"></div>
+        <aside class="md-consent__inner">
+          <form class="md-consent__form md-grid md-typeset" name="consent">
+            
+
+
+
+<h4>Cookie consent</h4>
+<p>We use cookies to recognize your repeated visits and preferences, as well as to measure the effectiveness of our documentation and whether users find what they're searching for. With your consent, you're helping us to make our documentation better.</p>
+<input class="md-toggle" type="checkbox" id="__settings">
+<div class="md-consent__settings">
+  <ul class="task-list">
+    
+    
+      
+    
+    
+      
+    
+    
+  </ul>
+</div>
+<div class="md-consent__controls">
+  
+    
+      <button class="md-button md-button--primary">Accept</button>
+    
+    
+    
+  
+    
+    
+    
+      <label class="md-button" for="__settings">Manage settings</label>
+    
+  
+    
+    
+      <button type="reset" class="md-button md-button--primary">Reject</button>
+    
+    
+  
+</div>
+          </form>
+        </aside>
+      </div>
+      <script>var consent=__md_get("__consent");if(consent)for(var input of document.forms.consent.elements)input.name&&(input.checked=consent[input.name]||!1);else"file:"!==location.protocol&&setTimeout((function(){document.querySelector("[data-md-component=consent]").hidden=!1}),250);var form=document.forms.consent;for(var action of["submit","reset"])form.addEventListener(action,(function(e){if(e.preventDefault(),"reset"===e.type)for(var n of document.forms.consent.elements)n.name&&(n.checked=!1);__md_set("__consent",Object.fromEntries(Array.from(new FormData(form).keys()).map((function(e){return[e,!0]})))),location.hash="",location.reload()}))</script>
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.tracking", "navigation.sections", "navigation.prune", "navigation.indexes", "navigation.footer", "content.tabs.link", "toc.integrate", "navigation.path", "search.suggest", "search.highlight", "search.share", "content.code.copy", "content.code.select", "content.code.annotate", "toc.follow"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="../../javascripts/passwords.js"></script>
+      
+    
+  
+<script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(()=>{ lightbox.reload(); });
+</script></body></html>

@@ -1,0 +1,46 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+#presentation-content {
+  height: 100%;
+}
+:root {
+  --r-background-color: #ffffff;
+  --r-main-color: #1a1a1a;
+  --r-heading-color: #004b6c;
+  --r-link-color: #1d647d;
+  --r-link-color-hover: #d46852;
+  --r-selection-background-color: #d46852;
+  --r-selection-color: #ffffff;
+  --r-heading-font: inherit;
+  --r-main-font-size: 28px;
+}
+.reveal h1, .reveal h2, .reveal h3 { color: #004b6c; }
+.reveal h1 { font-size: 1.8em; }
+.reveal h2 { font-size: 1.4em; }
+.reveal .accent { color: #d46852; }
+.reveal .slide-number { color: #507d8e; font-size: 0.6em; }
+.reveal .subtitle { color: #507d8e; font-size: 0.9em; margin-top: 0.5em; }
+.reveal ul { text-align: left; }
+.reveal li { margin-bottom: 0.4em; }
+.reveal blockquote {
+  border-left: 4px solid #d46852;
+  padding: 0.5em 1em;
+  font-style: italic;
+  background: #fdf5f3;
+}
+.reveal .highlight-box {
+  background: #e8f4f8;
+  border-left: 4px solid #004b6c;
+  padding: 0.8em 1.2em;
+  text-align: left;
+  border-radius: 4px;
+}
+.back-link {
+  position: fixed; top: 12px; left: 16px; z-index: 100;
+  font-size: 0.75rem; color: #507d8e;
+  text-decoration: none;
+}
+.back-link:hover { color: #d46852; }
