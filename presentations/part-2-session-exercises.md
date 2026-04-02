@@ -2,10 +2,10 @@
 
 ## Summary
 
-- **Total session time:** ~3 hours 45 minutes (225 minutes), including one 20-minute break
-- **Content time:** ~2 hours 50 minutes (165 minutes of exercises + framing/debrief), plus opening, licensing primer, and closing
-- **Number of exercises:** 5 recommended (4 core, 1 stretch) + 3 alternatives available
-- **If the stretch exercise is cut:** Session compresses to ~3 hours 25 minutes — extend debrief on Exercise 3 and the closing reflection to fill remaining time
+- **Total session time:** ~3 hours 7 minutes (187 minutes), including one 20-minute break
+- **Content time:** ~2 hours 27 minutes (147 minutes of exercises + framing/debrief), plus opening, licensing primer, and closing
+- **Number of exercises:** 4 core + 3 alternatives available
+- **Built-in buffer:** ~38 minutes before the 4-hour mark, to absorb Q&A overruns and natural discussion
 
 ---
 
@@ -38,57 +38,60 @@ Part 2 has 7 lessons with 30 learning outcomes. The workshop targets familiarity
 | 21 | Build accessibility into materials by design | L5 | Ex 4: Stranger Test Swap | — |
 | 22 | Prepare OER so they work without explanation | L6 | Ex 4: Stranger Test Swap | — |
 | 23 | Choose an appropriate license | L6 | Licensing primer | — |
-| 24 | Select platforms and formats for access and reuse | L6 | Ex 5: Sustainability Quick-Fire | — |
+| 24 | Select platforms and formats for access and reuse | L6 | — | — |
 | 25 | Document materials for discovery and adaptation | L6 | Ex 4: Stranger Test Swap | — |
 | 26 | Decide when materials are ready to share | L6 | Ex 4: Stranger Test Swap | — |
-| 27 | Describe the OER lifecycle | L7 | Ex 5: Sustainability Quick-Fire | — |
-| 28 | Identify realistic maintenance approaches | L7 | Ex 5: Sustainability Quick-Fire | — |
-| 29 | Collect and use feedback for improvements | L7 | Ex 5: Sustainability Quick-Fire | — |
-| 30 | Decide when to update, maintain, or retire | L7 | Ex 5: Sustainability Quick-Fire | — |
+| 27 | Describe the OER lifecycle | L7 | Closing reflection | — |
+| 28 | Identify realistic maintenance approaches | L7 | Closing reflection | — |
+| 29 | Collect and use feedback for improvements | L7 | Closing reflection | — |
+| 30 | Decide when to update, maintain, or retire | L7 | Closing reflection | — |
 
 ### Outcomes with lighter coverage
 
 - **#9–12 (Licensing outcomes):** Covered in the licensing primer before Exercise 2, not practised hands-on. Participants get the conceptual framework but do not work through scenarios themselves. Acceptable for a 4-hour session — licensing is a reference skill that benefits from knowing the concepts and looking up specifics when needed.
 - **#16 (Apply correct attribution):** Covered in the licensing primer, not practised hands-on. Acceptable — attribution is a reference skill (look up the format when needed), not a skill that requires deep practice.
 - **#23 (Choose an appropriate license):** Touched on in the licensing primer. Participants understand the options but do not practise choosing a license for their own materials.
-- **#24 (Select platforms and formats):** Touched on briefly in Exercise 5 discussion. This is a practical decision that benefits more from post-workshop research than in-session practice.
+- **#24 (Select platforms and formats):** Not practised in-session. This is a practical decision that benefits more from post-workshop research than in-session practice.
+- **#27–30 (Sustainability outcomes):** Touched on in the closing reflection (connecting actions to the OER lifecycle), not practised in a dedicated exercise. Sustainability planning is more meaningful after teams have delivered their training — the closing plants the seed.
 
 ---
 
 ## Timeline
 
-| Time | Duration | What | Type |
-|------------|----------|----------------------------------------------|---------|
-| 0:00–0:15 | 15 min | Part 1 recap, Q&A + "The other side" | Opening |
-| 0:15–0:20 | 5 min | Context for Exercise 1 | Framing |
-| 0:20–0:45 | 25 min | Exercise 1: Hidden Assumptions Audit | Core |
-| 0:45–0:50 | 5 min | Debrief Exercise 1 | Debrief |
-| 0:50–1:00 | 10 min | Licensing primer | Framing |
-| 1:00–1:05 | 5 min | Context for Exercise 2 | Framing |
-| 1:05–1:30 | 25 min | Exercise 2: OER Evaluation Sprint | Core |
-| 1:30–1:35 | 5 min | Debrief Exercise 2 | Debrief |
-| 1:35–1:40 | 5 min | Context for Exercise 3 | Framing |
-| 1:40–2:05 | 25 min | Exercise 3: Reuse, Adapt, or Create? | Core |
-| 2:05–2:10 | 5 min | Debrief Exercise 3 | Debrief |
-| 2:10–2:30 | 20 min | **Break** | Break |
-| 2:30–2:35 | 5 min | Context for Exercise 4 | Framing |
-| 2:35–3:00 | 25 min | Exercise 4: Stranger Test Swap | Core |
-| 3:00–3:05 | 5 min | Debrief Exercise 4 | Debrief |
-| 3:05–3:10 | 5 min | Context for Exercise 5 | Framing |
-| 3:10–3:25 | 15 min | Exercise 5: Sustainability Quick-Fire | Stretch |
-| 3:25–3:30 | 5 min | Debrief Exercise 5 | Debrief |
-| 3:30–3:45 | 15 min | Closing reflection: "One thing I'll change" | Closing |
+| Time | Duration | What | Interaction type |
+|------------|----------|----------------------------------------------|--------------------------|
+| 0:00–0:05 | 5 min | Part 1 recap + open Q&A | Group discussion |
+| 0:05–0:10 | 5 min | Facilitator frames Part 2 arc | Lecture |
+| 0:10–0:15 | 5 min | Context for Exercise 1 | Lecture |
+| 0:15–0:40 | 25 min | Exercise 1: Hidden Assumptions Audit | Team breakout |
+| 0:40–0:45 | 5 min | Debrief Exercise 1 — teams share assumption warnings | Group discussion |
+| 0:45–0:55 | 10 min | Licensing primer — CC basics + worked example | Lecture |
+| 0:55–1:00 | 5 min | Context for Exercise 2 | Lecture |
+| 1:00–1:25 | 25 min | Exercise 2: OER Evaluation Sprint | Team breakout |
+| 1:25–1:30 | 5 min | Debrief Exercise 2 — "which lens surprised you?" | Group discussion |
+| 1:30–1:32 | 2 min | Context for Exercise 3 | Lecture |
+| 1:32–1:57 | 25 min | Exercise 3: Reuse, Adapt, or Create? | Team breakout |
+| 1:57–2:02 | 5 min | Debrief Exercise 3 — quick poll + discussion | Group discussion |
+| 2:02–2:22 | 20 min | **Break** | Break |
+| 2:22–2:27 | 5 min | Context for Exercise 4 | Lecture |
+| 2:27–2:37 | 10 min | Exercise 4a: Review another team's materials | Cross-team breakout |
+| 2:37–2:47 | 10 min | Exercise 4b: Paired feedback (reviewer ↔ creator) | Cross-team breakout |
+| 2:47–2:52 | 5 min | Exercise 4c: Harvest + debrief — "most common gap?" | Group discussion |
+| 2:52–2:55 | 3 min | Closing: Individual reflection — write down one thing | Individual reflection |
+| 2:55–3:00 | 5 min | Closing: Share within teams | Team breakout |
+| 3:00–3:05 | 5 min | Closing: Harvest in main room | Group discussion |
+| 3:05–3:07 | 2 min | Facilitator close — connecting to OER lifecycle | Lecture |
 
-**Note:** Timeline runs to 3:45 if all exercises run. If Exercise 5 is cut, save 25 min. Use recovered time for extended debrief on Exercise 3 or Exercise 4, or extend the closing.
+**Note:** Timeline runs to 3:07, leaving ~38 minutes of buffer before the 4-hour mark. This absorbs Q&A overruns, slow transitions, and organic discussion without time pressure.
 
 ---
 
-## Opening: Part 1 recap and "The other side" (15 min)
+## Opening: Part 1 recap and "The other side" (10 min)
 
 **Setup:** Whole group on the main call.
 
-- 8 min: Quick recap of Part 1 key ideas + open Q&A. Invite questions, lingering thoughts, or anything that came up between sessions.
-- 7 min: Facilitator frames the shift to Part 2. Part 1 was about designing training for your learners; Part 2 is about making those materials work for people who were not in the room when you designed them. Preview the arc of the session: we will audit our own assumptions, evaluate existing resources, make reuse decisions, and then test whether our materials actually work for someone else.
+- 5 min: Quick recap of Part 1 key ideas + open Q&A. Invite questions, lingering thoughts, or anything that came up between sessions.
+- 5 min: Facilitator frames the shift to Part 2. Part 1 was about designing training for your learners; Part 2 is about making those materials work for people who were not in the room when you designed them. Preview the arc of the session: we will audit our own assumptions, evaluate existing resources, make reuse decisions, and then test whether our materials actually work for someone else.
 
 **Why this works:** The Q&A gives participants closure on Part 1 and signals that the sessions are connected. The facilitator framing sets up the session arc so participants know where they are headed, without pre-empting Exercise 4's payoff (where teams experience first-hand what happens when someone else tries to use their materials).
 
@@ -198,7 +201,7 @@ For each decision, they must articulate:
 
 Teams capture their decisions as a simple table or list they can refer back to.
 
-**Time:** 35 min total (5 min framing / 25 min activity / 5 min debrief)
+**Time:** 32 min total (2 min framing / 25 min activity / 5 min debrief). Framing is short because this exercise flows directly from Exercise 2 — participants already have their evaluated resource in front of them.
 
 **Debrief:** Quick poll — "How many teams chose reuse? Adapt? Create?" Facilitator normalises that adaptation is the most common answer and that creation is valid when the gap is real.
 
@@ -231,9 +234,9 @@ The receiving team has 10 minutes to read through the materials and try to answe
 
 Then teams pair up on a call (the team that reviewed the materials talks to the team that created them) for 10 minutes. The reviewing team shares their answers. The creating team listens and notes the gaps.
 
-In the final 5 minutes back in the main room, the facilitator asks: "What was the most common gap — what did reviewers need that wasn't in the materials?"
+In the final 5 minutes back in the main room, the facilitator asks: "What was the most common gap — what did reviewers need that wasn't in the materials?" This harvest doubles as the debrief — the discussion itself surfaces the key insights.
 
-**Time:** 35 min total (5 min framing / 25 min activity [10 min review + 10 min paired feedback + 5 min harvest] / 5 min debrief)
+**Time:** 30 min total (5 min framing / 25 min activity [10 min review + 10 min paired feedback + 5 min harvest + debrief])
 
 **Reason for inclusion:** This is the most powerful exercise in the session. It makes the abstract idea of "writing for people you'll never meet" viscerally concrete — you watch someone struggle with your materials in real time. It also produces specific, actionable feedback that teams can use immediately.
 
@@ -247,33 +250,18 @@ In the final 5 minutes back in the main room, the facilitator asks: "What was th
 
 ---
 
-### Exercise 5: Sustainability Quick-Fire — stretch
+## Closing reflection: "One thing I'll change" (15 min)
 
-**Original activity:** Activity 14: OER Workflow, Section 5 (Sustainability and Improvement) + Lesson 7 maintenance framework
+**Setup:** Individual reflection → team share → main room harvest.
 
-**Grouping:** Own team — they are making decisions about maintaining their own materials.
+- 3 min: individual reflection. Each participant writes down (or thinks about) one specific thing they will change about their training materials based on today's session. Not a vague intention — a concrete action. ("I will add a prerequisites note to my data cleaning activity." "I will check the license on the dataset I've been using." "I will rewrite my activity instructions so someone else could run them.")
+- 5 min: share within teams. Each person shares their "one thing." Teams discuss: are there common themes?
+- 5 min: harvest in the main room. Ask 4–5 participants to share. Facilitator notes patterns.
+- 2 min: facilitator closes by connecting these actions to the OER lifecycle — what they have just described is the beginning of an ongoing process of improvement, not a one-time fix. Ask: "What will you do with these materials after your next delivery?" This plants the sustainability seed (outcomes 27–30) without a dedicated exercise. Point them to the workbook (Part 2, Activity 14) for the structured workflow they can continue on their own.
 
-**Adapted instructions:**
+**Why this matters:** The closing transforms a workshop about concepts into a commitment to action. The specificity requirement ("one thing, not a vague intention") ensures participants leave with something they can actually do. It also models the reflection habit that Lesson 7 (sustainability) advocates.
 
-Each team answers three quick questions about the materials they have been working with throughout the session:
-
-1. **Maintenance level:** Will you actively maintain these materials, update them occasionally, or archive them after delivery? Why?
-2. **Feedback plan:** What is one realistic way you will collect feedback after your next delivery? (Not an aspirational plan — one concrete action.)
-3. **Expiry check:** What part of your materials is most likely to become outdated first? How will you know it's time to update?
-
-Teams discuss for 10 minutes, then share their "most likely to expire" answer with the main room (5 minutes). The facilitator connects this to the OER lifecycle concept: materials are not done when shared — they enter a cycle of use, feedback, and improvement.
-
-**Time:** 25 min total (5 min framing / 15 min activity / 5 min debrief)
-
-**Reason for inclusion:** Sustainability is the most commonly neglected part of OER work. This exercise is deliberately lightweight — it plants the idea that maintenance is a design decision, not an afterthought, without requiring deep planning.
-
-**Outcomes addressed:**
-- L7.27: Describe the OER lifecycle
-- L7.28: Identify realistic maintenance approaches
-- L7.29: Collect and use feedback for improvements
-- L7.30: Decide when to update, maintain, or retire
-
-**If cut:** Sustainability outcomes (27–30) and platform/format outcome (24) are not practised. Mitigate by weaving the OER lifecycle concept into the closing reflection — ask participants to consider "what will you do with these materials after your next delivery?" This keeps the idea alive without a dedicated exercise. Saves 25 min — use for extended debrief on Exercise 3 or Exercise 4, or extend the closing.
+**Facilitator note:** Since there is no dedicated sustainability exercise, the closing is where the OER lifecycle concept lands. The facilitator's closing question ("what will you do after your next delivery?") is doing double duty — it prompts a concrete commitment and introduces the idea that materials enter a cycle of use, feedback, and improvement. Don't rush this.
 
 ---
 
@@ -363,20 +351,8 @@ For the most significant change, they draft a brief adaptation note: what they c
 
 | Activity | Reason for cutting |
 |----------|--------------------|
+| Exercise 5: Sustainability Quick-Fire | Sustainability planning is more meaningful after teams have delivered their training — in-session, it produces aspirational plans rather than realistic ones. The OER lifecycle concept is woven into the closing reflection instead. Cutting this exercise provides ~38 minutes of buffer for Q&A and organic discussion. |
 | Activity 8: Learning Activity Design (Part 1 revisit) | Requires completed Part 1 activity designs to hand. The revisit is narrow (checking if an adapted resource fits within an existing activity) and hard to do meaningfully without materials open and ready to edit. Better suited to async follow-up. |
 | Activity 9: Practice & Feedback Plan (Part 1 revisit) | Very narrow scope — using the feedback lens to refine documentation for sharing. This is a 10-minute task in the workbook and does not have enough substance for a standalone workshop exercise. The core insight (anticipate where others will struggle) is covered by Exercise 4. |
-| Activity 14, Section 5 as a full deep dive | Sustainability planning requires real delivery experience to be meaningful. Teams who have not yet delivered their training will produce aspirational plans rather than realistic ones. The quick-fire version (Exercise 5) plants the seed; deeper planning belongs post-delivery. |
+| Activity 14, Section 5 as a full deep dive | Sustainability planning requires real delivery experience to be meaningful. Teams who have not yet delivered their training will produce aspirational plans rather than realistic ones. The sustainability concept is addressed in the closing reflection instead; deeper planning belongs post-delivery. |
 | Activity 13 as a full 30-min exercise | If teams completed the Part 1 workshop, this is redundant consolidation. If they did not, it takes too long for a Part 2 workshop opener. The condensed version (Alternative A) works better. |
-
----
-
-## Closing reflection: "One thing I'll change" (15 min)
-
-**Setup:** Individual reflection → team share → main room harvest.
-
-- 3 min: individual reflection. Each participant writes down (or thinks about) one specific thing they will change about their training materials based on today's session. Not a vague intention — a concrete action. ("I will add a prerequisites note to my data cleaning activity." "I will check the license on the dataset I've been using." "I will rewrite my activity instructions so someone else could run them.")
-- 5 min: share within teams. Each person shares their "one thing." Teams discuss: are there common themes?
-- 5 min: harvest in the main room. Ask 4–5 participants to share. Facilitator notes patterns.
-- 2 min: facilitator closes by connecting these actions to the OER lifecycle — what they have just described is the beginning of an ongoing process of improvement, not a one-time fix. Point them to the workbook (Part 2, Activity 14) for the structured workflow they can continue on their own.
-
-**Why this matters:** The closing transforms a workshop about concepts into a commitment to action. The specificity requirement ("one thing, not a vague intention") ensures participants leave with something they can actually do. It also models the reflection habit that Lesson 7 (sustainability) advocates.

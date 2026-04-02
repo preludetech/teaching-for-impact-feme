@@ -2,10 +2,11 @@
 
 ## Summary
 
-- **Total session time:** 4 hours (240 minutes), including one 20-minute break
-- **Content time:** ~3 hours 10 minutes
-- **Exercises:** 6 recommended (all core) + 2 alternatives available
-- **If running long:** Exercise 6 (Learner Experience Audit) is the most self-contained — drop it first to reclaim 20 min
+- **Total session time:** 4 hours allocated (240 minutes). Scheduled content runs ~3 hours 35 minutes (including one 20-minute break), leaving ~25 minutes buffer for Q&A overruns.
+- **Content time:** ~3 hours 15 minutes
+- **Exercises:** 5 core + 1 stretch + 2 alternatives available
+- **Stretch exercise:** Exercise 6 (Learner Experience Audit) runs if the session is ahead of schedule. If it's cut, extend the closing reflection to 10 min.
+- **If running long:** The 25-minute buffer absorbs most overruns. If the buffer is consumed, shorten Exercise 5's peer swap phase from 12 to 8 min (reclaims 4 min). If still tight, compress the closing reflection from 10 to 5 min.
 - **Format:** Remote video call with breakout rooms. No shared canvas or collaborative tools — exercises rely on conversation and screen-sharing only
 - **Participants:** Teams developing their own training. Grouping varies per exercise (own team vs cross-team mix)
 - **Team size:** 3–5 people per team. If a team has only 1–2 members, pair them with another small team for own-team exercises. If a team has 6+, split them into sub-groups for breakout work and reunite for whole-group phases.
@@ -33,11 +34,11 @@ The table below lists every Part 1 learning outcome and shows which exercises ad
 | L3.4 | Recognise and incorporate learners' prior knowledge and lived experience | Ex 3 (Learner Reality), Ex 5 (Activity Design) | — | Apply |
 | L3.5 | Identify barriers and design strategies to reduce them | Ex 3 (Learner Reality) | — | Apply |
 | **Lesson 4: How People Learn** | | | | |
-| L4.1 | Explain key principles (cognitive load, retrieval, spacing, social learning) | Mini-lecture (framing before Ex 4), Ex 6 (Learner Experience Audit) | — | Apply |
-| L4.2 | Identify factors that support or hinder learning — including learning styles myth | Mini-lecture (framing before Ex 4), Ex 6 (Learner Experience Audit) | — | Apply |
-| L4.3 | Apply strategies to manage cognitive load | Ex 5 (Activity Design), Ex 6 (Learner Experience Audit) | — | Apply |
-| L4.4 | Describe how retrieval, practice, and reinforcement support learning | Mini-lecture (framing before Ex 4), Ex 6 (Learner Experience Audit) | — | Apply |
-| L4.5 | Incorporate social learning into training design | Ex 5 (Activity Design), Ex 6 (Learner Experience Audit) | — | Apply |
+| L4.1 | Explain key principles (cognitive load, retrieval, spacing, social learning) | Mini-lecture (interactive), Ex 6 (Learner Experience Audit — stretch) | — | Discuss / Apply (stretch) |
+| L4.2 | Identify factors that support or hinder learning — including learning styles myth | Mini-lecture (interactive), Ex 6 (Learner Experience Audit — stretch) | — | Discuss / Apply (stretch) |
+| L4.3 | Apply strategies to manage cognitive load | Ex 5 (Activity Design), Ex 6 (Learner Experience Audit — stretch) | — | Discuss / Apply (stretch) |
+| L4.4 | Describe how retrieval, practice, and reinforcement support learning | Mini-lecture (interactive), Ex 6 (Learner Experience Audit — stretch) | — | Discuss / Apply (stretch) |
+| L4.5 | Incorporate social learning into training design | Ex 5 (Activity Design), Ex 6 (Learner Experience Audit — stretch) | — | Discuss / Apply (stretch) |
 | **Lesson 5: Learning Outcomes and Alignment** | | | | |
 | L5.1 | Define clear, observable, and actionable learning outcomes | Ex 4 (Learning Outcomes) | — | Apply |
 | L5.2 | Apply backward design to link outcomes, evidence, and activities | Ex 4 (Learning Outcomes), Ex 5 (Activity Design) | Alt B (Alignment Quick-Check) | Apply |
@@ -81,40 +82,106 @@ The table below lists every Part 1 learning outcome and shows which exercises ad
 
 ## Timeline
 
-| Time | Duration | What | Type |
+| Time | Duration | What | Interaction type |
 |---|---|---|---|
-| 0:00–0:15 | 15 min | Welcome + warm-up | Opening |
-| 0:15–0:20 | 5 min | Framing: Training lives in a system | Framing |
-| 0:20–0:45 | 25 min | Exercise 1: System Map | Core |
-| 0:45–0:50 | 5 min | Framing: How does training lead to change? | Framing |
-| 0:50–1:15 | 25 min | Exercise 2: Theory of Change (Lite) | Core |
-| 1:15–1:20 | 5 min | Framing: Know your learners | Framing |
-| 1:20–1:45 | 25 min | Exercise 3: Learner Reality Check | Core |
-| 1:45–1:50 | 5 min | Mid-session debrief | Transition |
-| 1:50–2:10 | 20 min | Break | Break |
-| 2:10–2:20 | 10 min | Mini-lecture: How people actually learn | Framing |
-| 2:20–2:45 | 25 min | Exercise 4: Writing Learning Outcomes (includes outcomes framing) | Core |
-| 2:45–2:50 | 5 min | Framing: From outcomes to activities | Framing |
-| 2:50–3:35 | 45 min | Exercise 5: Design One Activity + Peer Swap | Core |
-| 3:35–3:55 | 20 min | Exercise 6: Learner Experience Audit | Core |
-| 3:55–4:00 | 5 min | Closing reflection | Closing |
+| | | **Opening** | |
+| 0:00–0:05 | 5 min | Welcome & tone-setting | Lecture |
+| 0:05–0:12 | 7 min | Icebreaker: introduce yourself & your project | Cross-team breakout |
+| 0:12–0:15 | 3 min | Think-and-share: "What are you most uncertain about?" + workshop arc | Group discussion |
+| | | **Exercise 1: System Map** | |
+| 0:15–0:22 | 7 min | Framing: training lives in a system | Interactive lecture |
+| 0:22–0:24 | 2 min | Exercise 1 setup | Lecture |
+| 0:24–0:34 | 10 min | Compare & build shared system map | Team breakout |
+| 0:34–0:41 | 7 min | One team presents deep + whole-group feedback | Group discussion |
+| | | **Exercise 2: Theory of Change** | |
+| 0:41–0:48 | 7 min | Framing: how does training lead to change? | Interactive lecture |
+| 0:48–0:51 | 3 min | Exercise 2 setup | Lecture |
+| 0:51–1:01 | 10 min | Phase 1: Build your theory-of-change chain | Team breakout |
+| 1:01–1:07 | 6 min | Phase 2: Hunt for assumptions in another team's chain | Cross-team breakout |
+| 1:07–1:12 | 5 min | Debrief: weakest assumption + design response | Group discussion |
+| | | **Exercise 3: Learner Reality Check** | |
+| 1:12–1:16 | 4 min | Framing: know your learners (pivot from system to people) | Interactive lecture |
+| 1:16–1:18 | 2 min | Silent thinking on four prompts | Individual reflection |
+| 1:18–1:19 | 1 min | Exercise 3 setup | Lecture |
+| 1:19–1:29 | 10 min | Cross-team learner discussion (prompts 3 & 4 focus) | Cross-team breakout |
+| 1:29–1:34 | 5 min | Name the most common barrier per room | Group discussion |
+| 1:34–1:38 | 4 min | Debrief + transition | Group discussion |
+| | | **Mid-session** | |
+| 1:38–1:43 | 5 min | Mid-session synthesis: patterns, connections, takeaways | Group discussion |
+| 1:43–2:03 | 20 min | Break | Break |
+| | | **Mini-lecture + Exercise 4: Learning Outcomes** | |
+| 2:03–2:15 | 12 min | Mini-lecture: how people actually learn (3 principles + myth-bust) | Interactive lecture |
+| 2:15–2:18 | 3 min | Framing: vague vs strong outcomes (built into exercise) | Interactive lecture |
+| 2:18–2:25 | 7 min | Phase 1: Draft 2–3 learning outcomes | Team breakout |
+| 2:25–2:33 | 8 min | Phase 2: Cross-team outcome critique | Cross-team breakout |
+| 2:33–2:38 | 5 min | Debrief: before-and-after examples | Group discussion |
+| | | **Exercise 5: Activity Design + Peer Swap** | |
+| 2:38–2:43 | 5 min | Framing: from outcomes to activities | Lecture |
+| 2:43–2:45 | 2 min | Exercise 5 setup | Lecture |
+| 2:45–3:08 | 23 min | Phase 1: Design one activity (six-component template) | Team breakout |
+| 3:08–3:20 | 12 min | Phase 2: Peer swap — present & review activity designs | Cross-team breakout |
+| 3:20–3:25 | 5 min | Whole-group harvest: most useful feedback received | Group discussion |
+| | | **Closing** | |
+| 3:25–3:35 | 10 min | Closing reflection: one commitment per team | Group discussion |
+| | | **— Stretch (include if ahead of schedule) —** | |
+| 3:25–3:27 | 2 min | Exercise 6 setup | Lecture |
+| 3:27–3:37 | 10 min | Audit a flawed training segment | Cross-team breakout |
+| 3:37–3:42 | 5 min | Harvest improvements | Group discussion |
+| 3:42–3:45 | 3 min | "Which problems do you recognise in your own designs?" | Group discussion |
+| 3:45–3:50 | 5 min | Closing reflection (compressed) | Group discussion |
+
+**Note:** The default timeline (without Exercise 6) ends at 3:35, leaving ~25 minutes buffer within the 4-hour slot for Q&A overruns. If Exercise 6 is included, the session runs to ~3:50.
 
 ---
 
-## Recommended exercises
+## Session flow (in order of execution)
 
-### Exercise 1: System Map — core
+> **Note on framing sections:** The framing sections before exercises 1–3 are longer and more interactive than those later in the session. Early on, participants need more facilitator guidance and whole-group connection before they're ready for productive breakout work. By the afternoon, they're warmed up and can move into exercises more quickly.
+
+---
+
+### Opening warm-up (0:00–0:15)
+
+**Format:** Whole-group welcome → short cross-team breakout → whole-group share
+
+**Grouping:** Starts whole-group (so participants settle in with the facilitator), then cross-team breakout for the icebreaker conversation.
+
+The facilitator opens in the main room (5 min): welcome, set the tone — this is a working session, not a lecture. Make it clear that the facilitator is a co-thinker, not an authority dispensing answers. Keep the welcome brief; don't try to have everyone introduce themselves in the main room — with 20+ participants, that eats all the time and kills energy.
+
+You must be a slide for introducing talarify analda sheena and prelude.
+
+Then participants go to cross-team breakout rooms (3–4 people from different teams) for 7 minutes. In the breakout, each person introduces themselves and briefly describes their own project — who they're training, what skill or topic they're focused on, and where things stand.
+
+Back in the main room (5 min), the facilitator runs a quick think-and-share. Put the question on screen: "What's one thing about your training design that you're most uncertain about?" Give 1 minute of silent thinking time — let people actually formulate a thought before anyone speaks. Then ask 3–4 people to share. The facilitator actively names recurring themes as they emerge — these become reference points throughout the workshop ("Several of you mentioned unclear objectives — that's exactly what Exercise 4 addresses"). This shows participants the workshop is responding to their experience, not running on rails.
+
+Close the warm-up with a brief framing of the workshop arc: "Today we're working through the design process from the outside in — starting with the system your training lives in, then zooming in to your learners, your outcomes, and finally the activities themselves. Everything we do today, you'll do with your own training in mind."
+
+---
+
+### Framing: Training lives in a system (0:15–0:22, 7 min, whole-group)
+
+Don't just say "training lives in a system" — unpack it. Ask the whole group: "Think of a training that didn't work — yours or one you attended. What went wrong? Was it the content, or something around the content?" Take 2–3 answers. Use these to build the idea that design problems are often system problems — the content was fine but the timing was wrong, the learners didn't have the prerequisites, the managers weren't on board, the internet went down.
+
+Example: I was once running some teamwork training for a large team. The training required small amounts of daily effort to build habits. Participants were already being pulled in many directions, so even small additions overwhelmed them. The training had to be adapted — smaller daily requirements, clearer priorities for when time was short.
+
+Briefly remind participants what a system map includes: actors, resources, constraints, and connections. They've already gathered context through the pre-work — this is a quick orientation, not a first encounter.
+
+End with the task setup: "In your teams, you're going to map the system around your own training."
+
+---
+
+### Exercise 1: System Map — core (0:22–0:41)
 
 **Original activity:** Activity 1: System Map (Lesson 1)
 
 **Grouping:** Own team — they map the system around the training they're developing together, so this grounds all later exercises in their shared project.
 
 **Adapted instructions:**
-Teams go to a breakout room together. They talk through the system around their training: who are the actors, what resources do they depend on, what constraints shape what's possible, and what relationships connect these elements? They should push beyond the obvious — who affects the training after learners leave the room? What resources are fragile? One person can sketch or take notes on their own screen, but the point is the conversation, not the artefact.
+Teams already drafted individual system maps in the pre-work. In their breakout room, they compare maps and build a shared version — filling gaps, challenging assumptions, and surfacing elements others missed. They should push beyond the obvious: who affects the training after learners leave the room? What resources are fragile? What connections did no one spot alone? One person can sketch or take notes on their own screen, but the point is the conversation, not the artefact.
 
-After 15 minutes, teams return to the main room. Facilitator asks 2–3 teams to briefly describe their system — focusing on one thing that surprised them or one connection they almost missed. Other teams can ask: "What's missing from that map?"
+After 10 minutes, teams return to the main room. One volunteer team presents their system map highlights — screen-sharing or talking through it (2 min). The facilitator then opens the floor: "What's missing? What connections do you see that the team might not?" (3 min). Facilitator closes with the key takeaway: systems thinking means your design decisions don't stop at the classroom door (2 min).
 
-**Time:** 25 min (2 min setup / 15 min team discussion in breakout rooms / 5 min whole-group share / 3 min debrief)
+**Time:** 19 min (2 min setup / 10 min team discussion in breakout rooms / 7 min "one team goes deep" whole-group debrief)
 
 **Reason for inclusion:** This is the foundational exercise. It immediately grounds each team in their own context and establishes the core insight of Part 1 — that training is an intervention in a system, not a standalone event. Working as a team means they surface different perspectives on the same system. The conversation generates shared understanding that feeds into later exercises.
 
@@ -122,7 +189,29 @@ After 15 minutes, teams return to the main room. Facilitator asks 2–3 teams to
 
 ---
 
-### Exercise 2: Theory of Change (Lite) — core
+### Framing: How does training lead to change? (0:41–0:48, 7 min, whole-group)
+
+possible story: A friend of mine was made to do a Python programming course as a part of a job. She's not a programmer, but her job is for work and Python could definitely help make her more efficient. The course didn't land, no changes were made. My friend and her entire department have been put through multiple Python training courses that have had no effect on their daily work. Why? Course aimed to get them to understand basic Python. The desired effect was that they would apply their Python skills at their jobs going forward.
+
+Then introduce the theory-of-change chain by building it for the Python story together. The chain has five links — walk through each one briefly. Participants have already thought about long-term impact through the pre-work, so this is about introducing the chain structure, not the concept of impact:
+
+- **Inputs** — the resources you bring to the training: trainers, materials, budget, time, technology, venue. These are what you invest.
+- **Activities** — what happens during the training itself: lectures, exercises, discussions, group projects. These are what participants *do*.
+- **Outputs** — the tangible, countable things participants produce or complete during the training: a finished exercise, a submitted assignment, a working script, a completed checklist. Outputs are evidence that activities happened — you can point at them and count them. They don't tell you whether anyone *learned* anything.
+- **Outcomes** — the changes in participants' behaviour, practice, or capability *after* the training. This is where learning actually shows up in the real world. An outcome is something like "participants routinely use Python to automate repetitive data tasks in their daily work." Outcomes happen outside the training room and over time.
+- **Impact** — the broader, longer-term change the training contributes to: organisational efficiency, better health outcomes, stronger research capacity. Impact is rarely caused by training alone — your training contributes to it alongside other factors.
+
+The chain flows like this: Inputs → Activities → Outputs → Outcomes → Impact. Each arrow represents an assumption — something that has to be true for one link to lead to the next.
+
+Build the chain for the Python story together: "So the impact they wanted was efficiency gains. What outcome in the learners would lead to that? What outputs would show progress during the training? What activities and inputs?" Walk through the chain live, showing how it looks logical on paper — and then ask: "So where did it actually break?"
+
+Name the key move: "The chain looks logical. But every arrow hides an assumption. Your outcomes don't automatically lead to your impact — something has to be true for that link to hold. That's what we're going to hunt for."
+
+Set up the exercise: teams build their own chain first, then others will try to break it.
+
+---
+
+### Exercise 2: Theory of Change (Lite) — core (0:48–1:12)
 
 **Original activity:** Activity 2: Theory of Change (Lesson 2)
 
@@ -131,11 +220,11 @@ After 15 minutes, teams return to the main room. Facilitator asks 2–3 teams to
 **Adapted instructions:**
 Phase 1 — Build your chain (10 min, own team breakout): Teams go to a breakout room and talk through the theory-of-change chain for their training: Impact ← Outcomes ← Outputs ← Activities ← Inputs. They start from Impact and work backwards. The goal is to get the chain on screen — one person sketches or types while the team talks. Don't aim for perfection; aim for a first draft that's concrete enough for someone else to read.
 
-Phase 2 — Hunt for assumptions (8 min, cross-team breakout): Breakout rooms are reshuffled so each room has members from different teams. Each person briefly walks the others through their team's chain. The reviewers focus on the right-hand side — outcomes and impact — and ask: "What has to be true for this step to lead to the next? What could break here?" They name assumptions the team may have taken for granted. Each reviewer marks or notes the assumption they think is weakest.
+Phase 2 — Hunt for assumptions (6 min, cross-team breakout): Breakout rooms are reshuffled so each room has members from different teams. Each person briefly walks the others through their team's chain. The reviewers focus on the right-hand side — outcomes and impact — and ask: "What has to be true for this step to lead to the next? What could break here?" They name assumptions the team may have taken for granted. Each reviewer marks or notes the assumption they think is weakest.
 
-Whole-group debrief (4 min): Facilitator asks 2–3 reviewers to describe the weakest assumption they found in someone else's chain. Discussion: were these assumptions testable? What would teams change in their design if the assumption turned out to be wrong?
+Whole-group debrief (5 min): One reviewer presents the weakest assumption they found in someone else's chain — not just names it, but explains why it's fragile and what could break (1.5 min). The facilitator models the next move with the whole group: "OK, so this assumption is shaky. What would we change in the design to reduce the risk?" Whole group brainstorms briefly (2 min). The facilitator reinforces the key insight: assumptions aren't bad — unexamined ones are dangerous (1.5 min).
 
-**Time:** 25 min (3 min setup / 10 min own-team chain building in breakout / 8 min cross-team assumption-hunting in breakout / 4 min whole-group debrief)
+**Time:** 24 min (3 min setup / 10 min own-team chain building in breakout / 6 min cross-team assumption-hunting in breakout / 5 min facilitator-led whole-group debrief)
 
 **Reason for inclusion:** Theory of Change is a powerful concept that many researchers encounter for the first time here. Splitting the exercise into own-team building and cross-team review serves two purposes: teams get to focus on their own chain without distraction in Phase 1, then get the benefit of fresh eyes in Phase 2. Outsiders are better at spotting assumptions — especially around outcomes and impact, where teams tend to be most optimistic about their own logic. The cross-team format also builds relationships across projects early in the workshop.
 
@@ -143,7 +232,17 @@ Whole-group debrief (4 min): Facilitator asks 2–3 reviewers to describe the we
 
 ---
 
-### Exercise 3: Learner Reality Check — core
+### Framing: Know your learners (1:12–1:18, 6 min, whole-group)
+
+This is where the workshop pivots from system-level thinking to learner-level thinking. Mark the shift explicitly: "We've mapped the system and the logic. Now we zoom in on the people. Everything you design will land — or not — based on how well it fits the humans who show up."
+
+Share one sharp contrast between design assumptions and reality — drawn from the facilitator's own experience (e.g., "We assumed participants would have laptops. They had phones."). Participants have already thought about their learners through the pre-work — this is about sharpening the lens, not introducing the idea.
+
+Put the four discussion prompts on screen and give 2 minutes of silent thinking time before sending participants to breakout rooms.
+
+---
+
+### Exercise 3: Learner Reality Check — core (1:18–1:38)
 
 **Original activity:** Activity 3: Learner Reality Mapping (Lesson 3)
 
@@ -161,7 +260,7 @@ Participants take 2 minutes to think silently, then go to cross-team breakout ro
 
 Whole-group share (5 min): facilitator asks each breakout room to name the most common barrier type that came up in their discussion. Facilitator groups these verbally into categories (access, time, language, power, motivation). These become shared reference points for the rest of the workshop.
 
-**Time:** 25 min (2 min setup + silent thinking / 12 min cross-team breakout discussion / 5 min whole-group collection / 2 min debrief + transition / 4 min buffer)
+**Time:** 20 min (1 min setup / 10 min cross-team breakout discussion / 5 min whole-group collection / 4 min debrief + transition)
 
 **Reason for inclusion:** This is where the workshop pivots from system-level thinking to learner-level thinking. Cross-team grouping is deliberate — people from other projects ask questions that surface assumptions the team has stopped noticing. The barrier-collection creates a shared vocabulary the group uses for the rest of the session.
 
@@ -169,22 +268,45 @@ Whole-group share (5 min): facilitator asks each breakout room to name the most 
 
 ---
 
-### Exercise 4: Writing Learning Outcomes — core
+### Mid-session synthesis (1:38–1:43, 5 min, whole-group)
+
+A brief but genuine teaching moment. The facilitator draws connections across the morning's work:
+
+- "Here's what I noticed across the room..." — name 2–3 patterns that emerged (e.g., "Several teams discovered their biggest constraint wasn't resources but relationships," or "Many of you found your theory of change assumptions cluster between outcomes and impact — that's where the logic is most optimistic").
+- Connect the morning to the afternoon: "You've mapped the terrain — system, logic, learners. After the break, you start building. Outcomes first, then activities. Everything you've surfaced this morning becomes the foundation."
+
+---
+
+### Break (1:43–2:03, 20 min)
+
+---
+
+### Mini-lecture: How people actually learn (2:03–2:15, 12 min, interactive whole-group)
+
+Present three core principles: cognitive load (your learners' working memory is smaller than you think), retrieval practice (learning happens when people pull knowledge out, not when you push it in), and social learning (people learn by talking, arguing, and building on each other's ideas). For each principle, pause and ask: "Where have you seen this — or its opposite — in a training you've attended or run?" Take 1–2 quick responses per principle.
+
+This does three things: it activates participants' prior knowledge (which is literally one of the principles), creates shared reference points for later exercises ("Remember what Nadia said about the workshop where everyone forgot everything? That's spacing and retrieval"), and connects back to warm-up stories where people described trainings that didn't work.
+
+Address the learning styles myth directly: "You may have heard that people are visual or auditory learners. The evidence doesn't support matching instruction to learning styles. What does work is varying how you engage learners — not because of their 'type,' but because different activities build different kinds of understanding."
+
+---
+
+### Exercise 4: Writing Learning Outcomes — core (2:15–2:38)
 
 **Original activity:** Activity 5: Learning Outcomes (Lesson 5)
 
 **Grouping:** Own team first (drafting), then cross-team pairs (critique) — teams draft outcomes for their shared training, then get fresh-eyes feedback from someone on a different project.
 
 **Adapted instructions:**
-Framing (5 min, whole group): Facilitator shows 2–3 examples of vague vs strong outcomes side by side. Key message: outcomes describe what learners will *do*, not what the training will *cover*. "Understand climate data" vs "Interpret a local dataset to identify two practical risks and explain them to a non-specialist audience." This framing is built into the exercise time — there is no separate framing slot.
+Framing (3 min, whole group): Facilitator shows one sharp example of a vague vs strong outcome side by side. Key message: outcomes describe what learners will *do*, not what the training will *cover*. "Understand climate data" vs "Interpret a local dataset to identify two practical risks and explain them to a non-specialist audience." Participants have already attempted drafting outcomes in the pre-work, so this is a quick calibration, not an introduction.
 
 Phase 1 — Team drafting (7 min): teams go to breakout rooms and draft 2–3 learning outcomes for their training. They use this checklist: Is it observable? Does it use an action verb? Is it realistic for our learners?
 
 Phase 2 — Cross-team critique (8 min): breakout rooms are reshuffled so each room has members from different teams. Each person reads out their team's outcomes. The others check: (a) could you observe a learner achieving this — how would you know? (b) is any outcome actually a topic description disguised as an outcome? Discuss and note revisions.
 
-Whole-group debrief (3 min): facilitator asks for 1–2 "before and after" examples — an outcome that improved through the cross-team critique. Uses these to reinforce the observable/action-oriented principle.
+Whole-group debrief (5 min): facilitator asks for 1–2 "before and after" examples — an outcome that improved through the cross-team critique. Uses these to reinforce the observable/action-oriented principle.
 
-**Time:** 25 min (5 min framing / 7 min team drafting in breakout / 8 min cross-team critique in breakout / 3 min debrief / 2 min buffer)
+**Time:** 23 min (3 min framing / 7 min team drafting in breakout / 8 min cross-team critique in breakout / 5 min debrief)
 
 **Reason for inclusion:** Writing good learning outcomes is the single most transferable skill from this workshop. Everything else in training design — activities, assessment, alignment — depends on outcomes being clear. The cross-team critique gives feedback from people who don't share the team's assumptions — they'll spot vague outcomes the team has been reading as clear.
 
@@ -192,7 +314,13 @@ Whole-group debrief (3 min): facilitator asks for 1–2 "before and after" examp
 
 ---
 
-### Exercise 5: Design One Activity + Peer Swap — core
+### Framing: From outcomes to activities (2:38–2:43, 5 min, whole-group)
+
+This framing stays shorter — participants are warmed up by now. Key message: "You've written outcomes that describe what learners will do. Now you design the activity that gets them there. The activity is not a topic — it's a thing learners do that produces evidence of learning."
+
+---
+
+### Exercise 5: Design One Activity + Peer Swap — core (2:43–3:25)
 
 **Original activity:** Activity 8: Learning Activity Design (Lesson 7), with elements of Activity 9: Practice and Feedback (Lesson 8)
 
@@ -201,7 +329,7 @@ Whole-group debrief (3 min): facilitator asks for 1–2 "before and after" examp
 **Adapted instructions:**
 This is the integrative exercise — teams apply everything from the morning to design one concrete learning activity.
 
-Phase 1 — Design (25 min, own team breakout): Each team selects one learning outcome from Exercise 4. They design a 15–20 minute activity that helps learners achieve that outcome. The facilitator puts the six-component template on screen before sending teams to breakout rooms. Teams talk through each component:
+Phase 1 — Design (23 min, own team breakout): Each team selects one learning outcome from Exercise 4. They design a 15–20 minute activity that helps learners achieve that outcome. The facilitator puts the six-component template on screen before sending teams to breakout rooms. Teams talk through each component:
 
 1. **Objective** — which outcome does this address?
 2. **Instructions** — step-by-step, clear enough that another facilitator could run it
@@ -221,7 +349,7 @@ Then swap — the other team presents their design. Each side gives verbal feedb
 
 Phase 3 — Whole-group harvest (5 min): Facilitator asks: "What was the most useful piece of feedback you received — something that changed your design?" Collect 3–4 examples. Use these to reinforce that peer feedback is a learning mechanism, not just a nice-to-have.
 
-**Time:** 45 min (3 min setup / 25 min team design in breakout / 12 min cross-team peer swap in breakout / 5 min whole-group harvest)
+**Time:** 42 min (2 min setup / 23 min team design in breakout / 12 min cross-team peer swap in breakout / 5 min whole-group harvest)
 
 **Reason for inclusion:** This is where teams move from thinking about design principles to actually doing design. The six-component template gives structure without being prescriptive. The cross-team peer swap serves double duty — it gives feedback on the activity AND models the kind of structured peer review that Lesson 8 advocates. Teams leave with a concrete, reviewed activity design they can actually use.
 
@@ -229,7 +357,23 @@ Phase 3 — Whole-group harvest (5 min): Facilitator asks: "What was the most us
 
 ---
 
-### Exercise 6: Learner Experience Audit — core
+### Closing reflection (3:25–3:35)
+
+**Format:** Whole-group share (no breakout — this is a reflective, connective moment)
+
+**Time:** 10 min (when Exercise 6 is not included) / 5 min (when Exercise 6 runs)
+
+Facilitator asks each team to answer one question aloud: "What is one thing you will do differently in your next training design because of today?" Go round — one answer per team. For the 10-min version, the facilitator draws out the reasoning: "What specifically from today changed your thinking on that?" This connects answers back to specific exercises and reinforces the learning.
+
+Close by pointing participants to the workbook for deeper engagement — especially the activities and lessons they didn't cover today. End with: "The goal today was not to master all of this — it was to see the full picture and find the parts that matter most for your own work. The workbook is where you go deeper."
+
+Facilitator notes down the commitments — these are valuable feedback for planning follow-up sessions or workbook revisions.
+
+---
+
+### — Stretch (include if on time) —
+
+### Exercise 6: Learner Experience Audit — stretch (3:25–3:45)
 
 **Original activity:** Activity 4: Learner Experience Audit (Lesson 4)
 
@@ -251,6 +395,10 @@ Each group agrees on 2 concrete improvements. Back in the main room, facilitator
 **Reason for inclusion:** This is a high-energy exercise that makes learning science principles concrete and diagnostic. Participants actively hunt for design problems — cognitive overload, passivity, missed opportunities for social learning — rather than discussing them abstractly. The mini-lecture on how people learn (earlier in the session) provides the conceptual foundation; this exercise gives participants a chance to apply those ideas. Placing it after Exercise 5 means participants have just designed their own activity, so the "which of these problems do you recognise in your own designs?" question lands with real force.
 
 **Outcomes addressed:** L4.1 (explain learning principles), L4.2 (identify factors supporting/hindering learning), L4.3 (apply cognitive load strategies), L4.4 (retrieval and reinforcement), L4.5 (social learning)
+
+### Closing reflection — compressed (3:45–3:50, 5 min)
+
+If Exercise 6 runs, the closing is compressed to 5 min. Same format as above but without drawing out reasoning.
 
 ---
 
@@ -332,31 +480,3 @@ Brief debrief (2 min): facilitator reinforces the distinction between feedback t
 | Activity 10: Assessment Plan (Lesson 9) | Requires completed outcomes, activities, and alignment thinking as inputs. Too dependent on prior work to function well in a single session. The core insight — that well-designed activities *are* assessment — is covered in the framing for Exercise 6. Better suited to a follow-up workshop or self-paced workbook work. |
 | Activity 6: Alignment Table (full version, Lesson 5) | The full table requires outcomes, activities, and assessment columns all filled in, which demands more foundation than a 4-hour workshop can build. The simplified version (Exercise 6) captures the key insight. The full table works well as a take-home tool. |
 | Activity 9: Practice & Feedback Plan (full version, Lesson 8) | The full version requires a completed activity design and detailed feedback architecture. Elements are woven into Exercise 5 (peer swap models feedback); the full version is better as workbook follow-up. A lighter alternative (Alt C) is available if feedback design deserves more time. |
-
----
-
-## Opening and closing details
-
-### Opening warm-up (0:00–0:15)
-
-**Format:** Cross-team breakout → whole-group share
-
-**Grouping:** Cross-team mix — this is the ice-breaker. People meet someone from another team before settling into their own group for Exercise 1.
-
-Participants go to cross-team breakout rooms (3–4 people from different teams). Each person has 2 minutes to describe a training they've been part of — as a designer, facilitator, or participant. The prompt:
-
-> "What was one thing that worked well, and one thing you wish had been done differently?"
-
-After 6 minutes of breakout conversation, everyone returns to the main room. The facilitator asks 3–4 people to share the "wish it had been different" answers. The facilitator notes recurring themes verbally — they become reference points throughout the workshop ("Several of you mentioned unclear objectives — that's exactly what Exercise 4 addresses").
-
-Close the warm-up with a 2-minute framing of the workshop arc: "Today we're working through the design process from the outside in — starting with the system your training lives in, then zooming in to your learners, your outcomes, and finally the activities themselves. Everything we do today, you'll do with your own training in mind."
-
-### Closing reflection (3:55–4:00)
-
-**Format:** Whole-group share (no breakout — time is short)
-
-Facilitator asks each team to answer one question aloud: "What is one thing you will do differently in your next training design because of today?" Go round quickly — one answer per team.
-
-Close by pointing participants to the workbook for deeper engagement — especially the activities and lessons they didn't cover today. End with: "The goal today was not to master all of this — it was to see the full picture and find the parts that matter most for your own work. The workbook is where you go deeper."
-
-Facilitator notes down the commitments — these are valuable feedback for planning follow-up sessions or workbook revisions.
