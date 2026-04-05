@@ -114,7 +114,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 **Under the following terms:**
 
-**Attribution** — You must give[ appropriate credit](https://creativecommons.org/licenses/by/4.0/#ref-appropriate-credit), provide a link to the license, and [indicate if changes were made](https://creativecommons.org/licenses/by/4.0/#ref-indicate-changes).
+**Attribution** — You must give [appropriate credit](https://creativecommons.org/licenses/by/4.0/#ref-appropriate-credit), provide a link to the license, and [indicate if changes were made](https://creativecommons.org/licenses/by/4.0/#ref-indicate-changes).
 
 **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
@@ -122,7 +122,21 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 ## Citation
 
-**TODO**
+If you use or adapt this workbook, please cite it as:
+
+> Van der Walt, A. & O'Connell, S. (2026). *Teaching for Impact: Designing Effective & Open Training*. Talarify & Prelude.tech Available at [https://talarifyza.github.io/teaching-for-impact/](https://talarifyza.github.io/teaching-for-impact/). Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+**BibTeX:**
+
+```bibtex
+@misc{vanderwaltoconnell2026teachingforimpact,
+  title     = {Teaching for Impact: Designing Effective & Open Training},
+  author    = {Van der Walt, Anelda and O'Connell, Sheena},
+  year      = {2026},
+  url       = {https://talarifyza.github.io/teaching-for-impact/},
+  note      = {Licensed under CC BY 4.0}
+}
+```
 
 ---
 

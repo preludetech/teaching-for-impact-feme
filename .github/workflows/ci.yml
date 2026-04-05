@@ -46,5 +46,8 @@ jobs:
       - name: Build downloadable activities
         run: python scripts/build_downloads.py
 
+      - name: Build full book download
+        run: python scripts/build_full_book.py
+
       - name: Deploy
         run: mkdocs gh-deploy --force

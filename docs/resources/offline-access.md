@@ -14,18 +14,15 @@ Having offline access allows you to:
 
 ## Download the full guide
 
-You can download a copy of this guide for offline use.
+You can download the complete workbook as a Word document for offline use.
 
-👉 [Download the offline version](#)  
+<div class="download-btn-wrapper" markdown="0">
+<a class="md-button download-doc-btn" href="../../downloads/teaching-for-impact-full-book.docx" download>
+⬇ Download full workbook (.docx)
+</a>
+</div>
 
-[TODO]
-
-Once downloaded:
-
-- unzip the folder  
-- open the `index.html` file in your browser  
-
-You can then navigate the full guide without internet access.
+Once downloaded, open the file in Word, Google Docs, or any compatible word processor.
 
 ---
 
