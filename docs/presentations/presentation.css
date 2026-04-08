@@ -20,6 +20,7 @@ html, body {
 .reveal h1, .reveal h2, .reveal h3 { color: #004b6c; }
 .reveal h1 { font-size: 1.8em; }
 .reveal h2 { font-size: 1.4em; }
+.reveal h3 { font-size: 1.2em; }
 .reveal .accent { color: #d46852; }
 .reveal .slide-number { color: #507d8e; font-size: 0.6em; }
 .reveal .subtitle { color: #507d8e; font-size: 0.9em; margin-top: 0.5em; }
@@ -44,3 +45,62 @@ html, body {
   text-decoration: none;
 }
 .back-link:hover { color: #d46852; }
+
+.reveal .title-slide__logos {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 1100px;
+  margin: 2rem auto 0 auto;
+  padding: 0 2rem;
+  gap: 2rem;   /* ensures spacing between all three */
+}
+
+.reveal .title-slide__logo {
+  height: 140px;
+  max-height: 18vh;
+  width: auto;
+  object-fit: contain;
+}
+
+/* CC-BY smaller but still visible */
+.reveal .title-slide__cc {
+  height: 40px;
+  width: auto;
+  object-fit: contain;
+  opacity: 0.85;
+}
+
+.reveal .small {
+  font-size: 0.8em;
+}
+
+.reveal .toc-chain-list {
+  font-size: 0.75em;
+  line-height: 1.2;
+  margin-top: 0.8rem;
+}
+
+.reveal .toc-chain-list li {
+  margin-bottom: 0.4em;
+}
+
+.reveal .toc-chain-list .example {
+  display: block;
+  font-size: 0.75em;
+  color: #507d8e;
+  margin-top: 0.1em;
+}
+
+.reveal table td {
+  vertical-align: top;
+}
+
+.topic {
+  color: #666;
+}
+
+.outcome {
+  font-weight: 500;
+}

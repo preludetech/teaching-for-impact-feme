@@ -1,4 +1,4 @@
-# Teaching for Impact: Designing Effective & Open Training: Training Manual & Workbook
+# Teaching for Impact: Designing Effective & Open Training
 
 ## Project team
 
@@ -102,7 +102,7 @@ Should you have any suggestions for updating or extending the content, please co
 
 This work is licensed under [Creative Commons Attribution 4.0 International ](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
 
-![Creative Commons with attribution](assets/images/lesson-visual-aids/cc-by.png)
+![Creative Commons with attribution](assets/images/logos/cc-by.png)
 
 **You are free to:**
 

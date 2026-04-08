@@ -5,11 +5,36 @@
 {% block slides %}
 
       <!-- ==================== TITLE ==================== -->
-      <section>
-        <h1>Designing Training for Real-World Impact</h1>
-        <p class="subtitle">Teaching for Impact: Designing Effective &amp; Open Training</p>
-        <p>Part 1</p>
-      </section>
+        <section class="title-slide">
+          <div class="title-slide__content">
+            <h1>Teaching for Impact: Designing Effective &amp; Open Training</h1>
+            <p class="subtitle">Part 1: Designing Training for Real-World Impact</p>
+            <br>
+            <p class="small">
+              <em>Developed for the 2026 <a href="https://feme.ac.uk/">Failure Modes of Engineering</a> (FeME) Project's Data for Change Training Fund</em>
+            </p>
+
+            <div class="title-slide__logos" aria-label="Partner logos">
+              <img
+                class="title-slide__logo title-slide__logo--talarify"
+                src="../assets/images/logos/talarify-logo.png"
+                alt="Talarify logo"
+              >
+
+              <img
+                class="title-slide__cc"
+                src="../assets/images/logos/cc-by.png"
+                alt="Creative Commons Attribution licence"
+              >
+
+              <img
+                class="title-slide__logo title-slide__logo--prelude"
+                src="../assets/images/logos/prelude-logo.png"
+                alt="Prelude logo"
+              >
+            </div>
+          </div>
+        </section>
 
       <!-- ==================== WHO WE ARE ==================== -->
        <section>
@@ -28,8 +53,19 @@
 
         <section>
           <h2>Anelda</h2>
-          <!-- TODO, please fill in -->
-        </section>
+          <ul>
+            <li class="fragment">Senior eResearch Analyst @ University of Cape Town, South Africa</li>
+            <li class="fragment">Founder and director of Talarify</li>
+            <li class="fragment">Just enrolled for a PhD at the University of Pretoria, South Africa</li>
+            <li class="fragment">Involved in Research Software Engineering initiatives in Africa</li>
+            <li class="fragment">Have run 100s of workshops across Global South and Global North contexts</li>
+            <li class="fragment">Have offered some pretty bad training in my life...</li>
+            <li class="fragment">...but always learning and really curious about how to bring about change through capacity and community development</li>
+          </ul>
+        
+         <aside class="notes">
+            <p>Sheena</p>
+          </aside>        </section>
 
         <section>
           <h2>Sheena</h2>
@@ -110,7 +146,7 @@
             <li>What skill or topic?</li>
             <li>Where do things stand?</li>
           </ul>
-          <p><strong>Alphabetical order by zoom name</strong></p>
+          <p><strong>Alphabetical order by Zoom name</strong></p>
           <p><strong>7 minutes</strong></p>
           <aside class="notes">
             <p>Anelda</p>
@@ -236,13 +272,15 @@
       <section>
         <section>
           <h2>How does training lead to change?</h2>
-          <p>A trainer delivered a Python course to a department. The learners weren't programmers, but Python could genuinely have made them more efficient.</p>
-          <p class="fragment">The course went well — but nobody changed how they worked.</p>
-          <p class="fragment">The department went through <em>multiple</em> Python courses — still no change.</p>
+          <p>A team ran a short training on analysing climate and environmental data for decision-making.</p>
+          <p class="fragment">Participants worked through real examples. They could complete the exercises. The tools seemed useful.</p>
+          <p class="fragment">There was energy in the room — people were already thinking about how they would use this in their work.</p>
+          <p class="fragment">Then they went back. BUT... nothing changed.</p>
+          <p class="fragment">The ran the same training at multiple sites but none of the sites changed their approaches.</p>
           <p class="fragment"><strong>Why?</strong></p>
           <aside class="notes">
             <p>Anelda</p>
-            ~3 min. Tell the story naturally, from the trainer's perspective. A real Python course was delivered. The goal was for staff to apply Python skills at work. But "understanding Python" didn't translate into "using Python daily." Use this to motivate the theory-of-change chain.
+            ~3 min. Tell the story naturally, from the trainer's perspective. A real course was delivered. The goal was for participants to find ways to apply real climate and environmental data to decision-making. But "understanding workshop content" didn't translate into "using new knowledge in the workplace." Use this to motivate the theory-of-change chain.
           </aside>
         </section>
 <!-- 
@@ -256,20 +294,56 @@
 
         <section>
           <h2>To make an impact with your training you need to design for impact</h2>
+          <p class="fragment">In this section we will look at the value of creating a <em><strong>Theory of Change</strong></em> for your project</p>
+     
+          <aside class="notes">
+            A Theory of Change explains how and why what you do is expected to lead to the change you care about.
+            It maps the chain from inputs and activities through to outcomes and impact—and makes clear what needs to be true for each step to lead to the next.
+          
+            It is widely used in programme design, funding, policy, and research to explain how work leads to real-world change.
+
+            We just saw that training doesn’t directly create change.
+            A Theory of Change helps us map that chain—and surface where it can break.
+
+          </aside>
         </section>
 
         <section>
-          <h2>Five links in the chain</h2>
+          <h2>Links in the Theory of Change chain</h2>
           <div class="mermaid">
-flowchart LR
-  A[Inputs] --> B[Activities] --> C[Outputs] --> D[Outcomes] --> E[Impact]
+            graph LR
+            A[Inputs]:::light --> B[Activities]:::mid --> C[Outputs]:::dark --> D[Outcomes]:::mid --> E[Impact]:::accent
+
+            classDef light fill:#9cb5cb,stroke:#004b6c,color:#000;
+            classDef mid fill:#638fa8,stroke:#004b6c,color:#fff;
+            classDef dark fill:#1d647d,stroke:#004b6c,color:#fff;
+            classDef accent fill:#d46852,stroke:#004b6c,color:#fff;
           </div>
-          <ol>
-            <li class="fragment"><strong>Impact</strong> — the broader change training contributes to</li>
-            <li class="fragment"><strong>Outcomes</strong> — changes in behaviour or practice <em>after</em> training</li>
-            <li class="fragment"><strong>Outputs</strong> — tangible things produced (a finished exercise, a working script)</li>
-            <li class="fragment"><strong>Activities</strong> — what participants <em>do</em> during training</li>
-            <li class="fragment"><strong>Inputs</strong> — resources you invest (trainers, materials, time, tech)</li>
+          <ol class="toc-chain-list">
+            <li class="fragment">
+              <strong>Impact</strong> — the broader change training contributes to  
+              <span class="example">e.g. better-informed decisions about flood risk</span>
+            </li>
+
+            <li class="fragment">
+              <strong>Outcomes</strong> — changes in behaviour or practice <em>after</em> training  
+              <span class="example">e.g. participants start using these methods in their work</span>
+            </li>
+
+            <li class="fragment">
+              <strong>Outputs</strong> — tangible things produced  
+              <span class="example">e.g. a working script or workflow for data analysis</span>
+            </li>
+
+            <li class="fragment">
+              <strong>Activities</strong> — what participants <em>do</em> during training  
+              <span class="example">e.g. work through a flood-risk dataset</span>
+            </li>
+
+            <li class="fragment">
+              <strong>Inputs</strong> — resources you invest  
+              <span class="example">e.g. trainers, materials, time, technology, funding</span>
+            </li>
           </ol>
           <p class="fragment">Think about the assumptions hiding in each link of the chain</p>
           <aside class="notes">
@@ -523,34 +597,62 @@ flowchart LR
       <section>
         <section>
           <h2>Learning Outcomes</h2>
-          <p class="fragment">Learning Outcomes describe what learners will <strong>do</strong>, not what the training will <em>cover</em>.</p>
+          <p class="fragment">Learning Outcomes describe what learners will be able to <strong>do after the training</strong>, not what the training will <em>cover</em>.</p>
           
-          <!-- <p class="fragment">Start off with some verbs</p>
-          <ul>
-            <li class="fragment">Remember</li>
-            <li class="fragment">Understand</li>
-            <li class="fragment">Apply</li>
-            <li class="fragment">Analyze</li>
-            <li class="fragment">Create</li>
-          </ul> -->
           <aside class="notes">
               Anelda
+
+              Most training fails quietly at this step. Not because delivery is bad — but because we're not clear what learners should actually be able to do.
             </aside>
           </section>
           <section>
-            <h2>Be explicit when defining your outcomes</h2>
-          <table>
-            <thead><tr><th>Vague</th><th>Strong</th></tr></thead>
-            <tbody>
-              <tr>
-                <td>"Understand climate data"</td>
-                <td>"Interpret a local dataset to identify two practical risks and explain them to a non-specialist audience"</td>
-              </tr>
-            </tbody>
-          </table>
+            <h2>Topic or Learning Outcome?</h2>
+
+            <table>
+              <thead>
+                <tr>
+                  <th>Topic description</th>
+                  <th class="fragment">Learning outcome</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td class="topic">Understand climate data</td>
+                  <td class="fragment outcome">Interpret a local dataset to identify two practical risks and explain them to a non-specialist audience</td>
+                </tr>
+                <tr>
+                  <td class="topic">Learn how to use QGIS</td>
+                  <td class="fragment outcome">Use QGIS to create a map showing flood-prone areas in a local region and explain the key risk patterns</td>
+                </tr>
+                <tr>
+                  <td class="topic">Understand how data informs decisions</td>
+                  <td class="fragment outcome">Use a dataset to compare two response options and justify a recommended action based on the evidence</td>
+                </tr>
+              </tbody>
+            </table>
           <aside class="notes">
 
-            ~3 min framing. Participants have already attempted drafting outcomes in the pre-work, so this is a quick calibration. Show the contrast, then transition to the exercise.
+            ~3 min framing. 
+            “Which of these would you feel confident designing a training around?”
+            Pause.
+            Let's look at “Understand climate data”. What would someone actually do if they achieved this?
+            Can we be clearer about the actual outcome we wish learners to achieve?
+            Let's do the same for "Learn QGIS"
+            How would we know if participants are able to use data for decisions?
+
+            After all rows are revealed, ask:
+
+            “What pattern do you notice in the right-hand column?”
+
+            You want them to say:
+
+            action
+            observable
+            specific
+            tied to real work
+
+            That locks in the learning.
+
           </aside>
         </section>
 
@@ -568,6 +670,9 @@ flowchart LR
             <li>Does it use an <strong>action verb</strong>?</li>
             <li>Is it <strong>realistic</strong> for your learners?</li>
           </ol>
+
+          <p class="fragment"><strong>Tip:</strong> You can use Bloom's taxonomy to build good learning objectives.</p>
+
           <aside class="notes">
             ~7 min breakout. Remind teams: "You started this in the pre-work. Now sharpen those drafts using the checklist." If a team is stuck, suggest they start with: "By the end of this training, learners will be able to…"
           </aside>
@@ -595,8 +700,9 @@ flowchart LR
 
         <section>
           <h2>Exercise 4: Debrief</h2>
-          <p>Who has a <strong>before-and-after</strong>?</p>
+          <p>Who has an outcome that <strong>shifted from vague to observable</strong>?</p>
           <p>Share an outcome that improved through the cross-team peer review.</p>
+          <p>Read the original, then the revised version.</p>
           <aside class="notes">
             ~5 min. Ask for 1–2 examples. Use these to reinforce the observable/action-oriented principle. If no one volunteers, ask: "Did anyone discover their outcome was actually a topic description?"
           </aside>
@@ -608,7 +714,7 @@ flowchart LR
         <h2>From outcomes to activities</h2>
         <p>You've written outcomes that describe what learners will <strong>do</strong>.</p>
         <p class="fragment">Now you design the activity that gets them there.</p>
-        <p class="fragment">An activity is not a topic — it's a thing learners <strong>do</strong> that lets them practise the skill they need to achieve.</p>
+        <p class="fragment">An activity is not a topic — it's a thing learners <strong>do during the training</strong> that lets them practise the skill they need to achieve.</p>
         <aside class="notes">
           <p>Anelda</p>
           ~5 min framing. Key message: "Content serves activities, not the other way around. You don't start with 'what should I cover?' — you start with 'what should learners practise?'" Brief mention: well-designed activities can also function as assessment — if a learner completes the activity well, you can see they've achieved the outcome.
@@ -708,9 +814,9 @@ flowchart LR
         <section>
           <h2>You've started something real</h2>
           <p>You don't need to finish it today.</p>
-          <p class="fragment">The point was to experience what it feels like to <strong>design from outcomes</strong>, not from topics.</p>
+          <p>The point was to experience what it feels like to <strong>design from outcomes</strong>, not from topics.</p>
           <p>Take a moment to appreciate what you have achieved so far</p>
-          <p>The workbook offers more useful tips and guidelines that you can explore</p>
+          <p>The workbook offers more useful tips and guidelines that you can explore at your own time</p>
           <aside class="notes">
             <p>Anelda</p>
             ~2 min wrap-up. Reinforce: they've done real design work today. The workbook has the full template and additional exercises for going deeper.
@@ -719,10 +825,7 @@ flowchart LR
 
         <section>
           <h2>Closing reflection</h2>
-          <p>Each person, answer one question:</p>
           <!-- Add to chat. Hands up if you want to share out loud -->
-           <p>Answer these questions in the chat:</p>
-
            <ol>
             <li>What is one thing you will do differently in your next training design because of today?</li>
             <li>In one word: How do you feel about what you learned today?</li>
@@ -765,7 +868,7 @@ flowchart LR
           <ul>
             <li class="fragment">The <strong>workbook</strong> goes deeper on every topic we touched today</li>
             <li class="fragment">Activities you didn't get to — the workbook has them</li>
-            <li class="fragment">Part 2 covers f open educational materials</li>
+            <li class="fragment">In Part 2 we will look at how to create open educational resources</li>
           </ul>
           <p class="fragment">The goal today was not to master all of this — it was to see the full picture and find the parts that matter most for <strong>your</strong> work.</p>
           <aside class="notes">

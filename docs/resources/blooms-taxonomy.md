@@ -189,12 +189,12 @@ A strong learning outcome is:
 
 ## Further reading
 
-- Bloom, B. S., Engelhart, M. D., Furst, E. J., Hill, W. H., & Krathwohl, D. R. (1956) — *Taxonomy of Educational Objectives: The Classification of Educational Goals. Handbook I: Cognitive Domain*  
-  → Supports: original classification of learning objectives into levels of cognitive complexity  
-  → Why it matters: establishes the foundational framework for defining and structuring learning outcomes  
-  → Source: [https://eclass.uoa.gr/modules/document/file.php/PPP242/Benjamin%20S.%20Bloom%20-%20Taxonomy%20of%20Educational%20Objectives%2C%20Handbook%201_%20Cognitive%20Domain-Addison%20Wesley%20Publishing%20Company%20%281956%29.pdf](https://eclass.uoa.gr/modules/document/file.php/PPP242/Benjamin%20S.%20Bloom%20-%20Taxonomy%20of%20Educational%20Objectives%2C%20Handbook%201_%20Cognitive%20Domain-Addison%20Wesley%20Publishing%20Company%20%281956%29.pdf)
-
 - Krathwohl, D. R. (2002) — *A Revision of Bloom’s Taxonomy: An Overview*  
-  → Supports: explanation of the revised structure and its application to teaching, learning, and assessment  
-  → Why it matters: clarifies how the taxonomy connects learning objectives, activities, and assessment in practice  
-  → Source: [https://doi.org/10.1207/s15430421tip4104_2](https://doi.org/10.1207/s15430421tip4104_2)
+    - Supports: explanation of the revised structure and its application to teaching, learning, and assessment  
+    - Why it matters: clarifies how the taxonomy connects learning objectives, activities, and assessment in practice  
+    - Source: [https://doi.org/10.1207/s15430421tip4104_2](https://doi.org/10.1207/s15430421tip4104_2)
+
+- Shabatura, J. (2022) — *Using Bloom’s Taxonomy to Write Effective Learning Objectives*
+    - Supports: an accesible guide that includes different verbs associated with Bloom's categories 
+    - Why it matters: facilitates the creation of learning objectives  
+    - Source: [https://tips.uark.edu/using-blooms-taxonomy/](https://tips.uark.edu/using-blooms-taxonomy/)
