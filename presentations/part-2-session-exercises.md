@@ -39,687 +39,855 @@ You will work at the level you are currently at:
 
 Part 2 has 7 lessons with 30 learning outcomes. The workshop targets familiarity and decision-making, not mastery.
 
-| # | Learning outcome (condensed) | Lesson | Recommended exercise | Alternative |
-|---|------------------------------|--------|----------------------|-------------|
-| 1 | Explain how openness supports reuse and impact | L1 | Ex 1: Assumptions Audit | Alt A |
-| 2 | Identify features of reusable materials | L1 | Ex 1 | Alt A |
-| 3 | Recognise hidden assumptions | L1 | Ex 1 | — |
-| 4 | Make materials clearer and self-contained | L1 | Ex 1 | Alt A |
-| 5 | Identify and locate relevant OER | L2 | Ex 2: Evaluate + Decide | Alt B |
-| 6 | Evaluate OER using lenses | L2 | Ex 2 | Alt B |
-| 7 | Identify contextual assumptions in resources | L2 | Ex 2 | Alt B |
-| 8 | Make reuse/adapt/create decisions | L2 | Ex 2 | Alt B |
-| 9–12 | Licensing understanding | L3 | Licensing primer | — |
-| 13–17 | Adaptation and documentation | L4 | Ex 2 + Ex 3 | — |
-| 18–21 | Creation for openness | L5 | Creation + Ex 4 | — |
-| 22–26 | Sharing and usability | L6 | Ex 4 | — |
-| 27–30 | Lifecycle and sustainability | L7 | Closing reflection | — |
+| #  | Learning outcome (condensed)                             | Lesson | Activity (primary)                     | Notes                           |
+| -- | -------------------------------------------------------- | ------ | -------------------------------------- | ------------------------------- |
+| 1  | Explain how openness shapes design decisions             | L1     | OER framing                            | Sets overall mindset            |
+| 2  | Describe value of openness (you / learners / others)     | L1     | OER framing                            | Light coverage, not deep        |
+| 3  | Link Part 1 design to reuse/adapt/create decisions       | L1     | Part 1 recap + Decide in 3 Moves       | Reinforced through decisions    |
+| 4  | Distinguish reuse / adapt / create                       | L1     | Decide in 3 Moves                      | Core decision moment            |
+| 5  | Identify and locate relevant OER                         | L2     | Fast Fit Check                         | Minimal search, focused         |
+| 6  | Evaluate OER using lenses (fit, clarity, context)        | L2     | Fast Fit Check + Compare & Contrast    | Two-pass evaluation             |
+| 7  | Identify contextual assumptions in resources             | L2     | Assumptions Snap + Adaptation Hit List | Reinforced twice                |
+| 8  | Make reuse/adapt/create decisions                        | L2     | Decide in 3 Moves                      | Explicit commitment             |
+| 9  | Explain how licenses enable reuse/adaptation             | L3     | License Reality Check                  | Applied understanding           |
+| 10 | Distinguish CC license types                             | L3     | License Reality Check                  | Practical focus only            |
+| 11 | Identify what a license allows                           | L3     | License Reality Check                  | Binary decisions (can/can’t)    |
+| 12 | Assess license compatibility constraints                 | L3     | Decide in 3 Moves (implicit)           | Light coverage                  |
+| 13 | Adapt OER to context and learners                        | L4     | Adaptation Hit List                    | Core adaptation task            |
+| 14 | Identify and address assumptions in materials            | L4     | Assumptions Snap + Adaptation Hit List | Strong reinforcement            |
+| 15 | Distinguish surface / structural / contextual adaptation | L4     | Adaptation Deepening + Debrief         | Named explicitly                |
+| 16 | Apply attribution when adapting                          | L4     | Adaptation (light touch)               | Not deeply practiced            |
+| 17 | Document adaptations clearly                             | L4     | Debrief (light touch)                  | Awareness only                  |
+| 18 | Identify when to create from scratch                     | L5     | Decide in 3 Moves                      | Emerges from decision logic     |
+| 19 | Design materials for openness (modular, clear)           | L5     | Design for a Stranger                  | Core creation task              |
+| 20 | Write instructions usable without facilitator            | L5     | Design for a Stranger + Stranger Test  | Strong reinforcement            |
+| 21 | Build accessibility into materials                       | L5     | Refine for reuse                       | Light, implicit                 |
+| 22 | Prepare materials usable by others                       | L6     | Refine for reuse + Stranger Test       | Strong applied                  |
+| 23 | Choose appropriate license for own materials             | L6     | Lifecycle Decision (light)             | Minimal coverage                |
+| 24 | Select formats/platforms for reuse                       | L6     | Refine for reuse (implicit)            | Light coverage                  |
+| 25 | Document materials for reuse                             | L6     | Refine for reuse                       | Partial coverage                |
+| 26 | Decide when materials are ready to share                 | L6     | Stranger Test                          | Clear decision moment           |
+| 27 | Describe OER lifecycle                                   | L7     | Lifecycle Decision                     | Explicit but brief              |
+| 28 | Identify maintenance approaches                          | L7     | Lifecycle Decision                     | Maintain / occasional / archive |
+| 29 | Use feedback to improve materials                        | L7     | Stranger Test + Debrief                | Feedback loop implied           |
+| 30 | Decide when to update or retire materials                | L7     | Lifecycle Decision                     | Explicit decision               |
+
 
 ---
 
 ## Timeline
 
-| Time | Duration | What | Interaction |
-|------|----------|------|-------------|
-| 0:00–0:12 | 12 min | Part 1 recap + structured Q&A | Whole group |
-| 0:12–0:22 | 10 min | OER framing (5Rs → workflow) | Whole group |
-| 0:22–0:42 | 20 min | Exercise 1: Assumptions Audit | Whole group / teams |
-| 0:42–0:52 | 10 min | Licensing primer | Facilitator |
-| 0:52–1:22 | 30 min | Exercise 2: Evaluate + Decide | Breakouts |
-| 1:22–1:32 | 10 min | Debrief | Whole group |
-| 1:32–1:52 | 20 min | **Break** | — |
-| 1:52–2:27 | 35 min | Exercise 3: Adaptation | Breakouts |
-| 2:27–2:37 | 10 min | Debrief | Whole group |
-| 2:37–3:02 | 25 min | Creation decisions | Breakouts |
-| 3:02–3:22 | 20 min | Exercise 4: Stranger Test | Cross-team |
-| 3:22–3:30 | 8 min | Reflection + close | Whole group |
+| Time      | Duration | Activity                                         | Mode               |
+|-----------|----------|--------------------------------------------------|--------------------|
+| 0:00–0:15 | 15 min   | Part 1 recap + reflection                        | Whole group        |
+| 0:15–0:27 | 12 min   | Designing for openness                           | Whole group        |
+| 0:27–0:45 | 18 min   | Exercise 1: What do materials expect?            | Individual → chat  |
+| 0:45–0:50 | 5 min    | Finding and evaluating OER                       | Whole group        |
+| 0:50–1:05 | 15 min   | Exercise 2: Evaluate a resource                  | Individual         |
+| 1:05–1:10 | 5 min    | Poll: What limits your ability to use a resource?| Poll               |
+| 1:10–1:15 | 5 min    | Understanding open licenses                      | Whole group        |
+| 1:15–1:30 | 15 min   | Exercise 3: What are you allowed to do?          | Individual → chat  |
+| 1:30–1:50 | 20 min   | Break                                            | —                  |
+| 1:50–1:55 | 5 min    | Reset: From analysis to action                   | Individual         |
+| 1:55–2:02 | 7 min    | Adapting, remixing, and localising OER           | Whole group        |
+| 2:02–2:30 | 28 min   | Exercise 4: What needs to change?                | Individual → group |
+| 2:30–2:35 | 5 min    | Creating OER from scratch                        | Whole group        |
+| 2:35–2:53 | 18 min   | Exercise 5: Create a usable component            | Individual → group |
+| 2:53–2:57 | 4 min    | Sharing and publishing OER                       | Whole group        |
+| 2:57–3:10 | 13 min   | Exercise 6: Make it easier to use                | Individual → chat  |
+| 3:10–3:15 | 5 min    | Sustaining and improving OER                     | Whole group        |
+| 3:15–3:30 | 15 min   | Closing reflection                               | Whole group        |
 
 **Note:** Session runs to ~3h30, leaving ~30 minutes buffer.
 
 ---
 
-# Opening: Part 1 recap + structured Q&A (12 min)
+## Session flow (in order of execution)
 
-## Facilitator script (tight, controlled)
-
-Say:
-
-> Before we move into materials, we need to anchor in Part 1.  
-> If anything is unclear from yesterday, it will block you today.
+> **Note on framing sections:** Framing sections are intentionally short and tightly controlled. Participants move quickly into activities — the session prioritises decision-making and practice over extended explanation.
 
 ---
 
-### Step 1: Targeted Q&A (3 min)
+### Opening: Part 1 recap + reflection (0:00–0:15)
 
-Ask:
+**Format:** Whole-group (chat-first, then limited verbal)
 
-> What is still unclear from Part 1 that will affect your ability to work with materials today?
+**Grouping:** Whole group
 
-Use:
-- chat first (faster, more inclusive)  
-- take 1–2 verbal responses  
+The facilitator opens by reconnecting participants to their work:
 
----
+> Yesterday, you designed for change.  
+> Today, you’re deciding what materials support that change.
 
-### Step 2: Focused responses (2 min)
+> Before we move into materials, take a moment to reconnect to your work from Part 1 — what stayed with you, what shifted, and what’s still unclear.
 
-Respond only to:
-- blockers for today’s session  
-- misunderstandings that affect reuse/adapt/create  
+Participants respond in chat (quickly):
 
-Say:
+> What is one thing that is still unclear — or something that clicked for you overnight?
 
-> I’m focusing on what affects today’s work — we can follow up on the rest later.
+Facilitator scans chat and surfaces 2–3 responses:
+- one uncertainty  
+- one “aha” or shift in thinking  
 
----
+Respond briefly where needed, without re-teaching.
 
-### Step 3: Controlled open window (optional, 2 min max)
+Re-anchor with one prompt (chat first):
 
-Say:
+> What are you trying to help people do?
 
-> Any quick additional questions? I may park some if they’re not relevant right now.
+Surface 1–2 examples only.
 
-If needed:
-- answer briefly  
-- or park visibly  
+Close:
 
----
+> Today, you’ll use these decisions to guide what you reuse, adapt, or create.
 
-### Step 4: Re-anchor key elements (5 min)
+> Everything you do today should connect back to the outcome you defined yesterday.
 
-Ask:
+### Designing for Openness (0:15–0:27)
 
-1. What are you trying to help people do or learn?
-2. Who are your learners?
-3. What constraints matter most?
+**Format:** Whole-group
 
-Surface 2–3 examples only.
+The facilitator introduces the idea of openness briefly:
 
----
-
-## Synthesis (critical)
-
-Say:
-
-> These decisions now determine:
-> - what you can reuse  
-> - what you need to adapt  
-> - what you need to create  
-
-Transition:
-
-> Part 1 was about designing training.  
-> Part 2 is about working with materials.
-
----
-
-## Risks & mitigation
-
-- **Risk:** Silence (no questions)  
-  → Say: “If nothing comes up, we’ll test understanding through the next exercise.”
-
-- **Risk:** One participant dominates  
-  → Limit to 1 response per person
-
-- **Risk:** Drift into Part 1 re-teaching  
-  → Say: “We’ll focus on what affects today’s work”
-
----
-
-# OER framing: What is OER (10 min)
-
-## Facilitator script
-
-Say:
-
-An OER allows you to:
+An open resource allows you to:
 - retain  
 - reuse  
 - revise  
 - remix  
 - redistribute  
 
-Then:
+Keep this light — this is not a licensing lesson.
 
-> Openness is about permission, not access.
+Then shift to practice:
 
----
+> Designing for openness is not just about creating new materials.  
+> It’s about working with what already exists — reusing, adapting, remixing, and localising it for your context.
 
-## Bridge to workflow
+Ground it in participants’ reality:
 
-Say:
+> Most of you are not starting from scratch.  
+> You’re working with existing materials, partial materials, or ideas.
 
-> The 5Rs tell you what is possible.  
-> Your job is to decide:
-> - reuse  
-> - adapt  
-> - create  
+Connect directly to Part 1:
+
+> Yesterday, you defined what you want learners to be able to do.  
+> That outcome now determines what you can reuse, what you must adapt, and what you may need to create.
+
+Make the decision space explicit:
+
+> The question is:
+> - What can I use?
+> - What needs to change?
+> - What do I need to create?
+
+Then connect to design:
+
+> Designing for openness means thinking ahead:
+> - What can I reuse or build on?
+> - What will I need to adapt, remix, or localise for my context?
+> - What might make this hard to use, change, or share?
+> - How might someone else adapt or reuse this later?
+
+Keep this tight — do not expand into examples.
 
 Transition:
 
-> We start with what your materials assume.
+> We start by looking at what your materials expect people to already know, have, or be able to do.
 
----
+### Exercise 1: What do materials expect? — core (0:27–0:45)
 
-## Risks & mitigation
+**Original activity:** Assumptions Audit (Lesson 1, simplified)
 
-- **Risk:** Participants confuse “free” with “open”  
-  → Repeat: “Permission, not access”
+**Grouping:** Individual → whole group
 
-- **Risk:** Over-explaining  
-  → Keep to <10 min
+**Adapted instructions:**
 
----
-
-# Exercise 1: Assumptions Audit (20 min)
-
-## Facilitator framing (3–5 min)
-
-Say:
-
-> Materials fail when they assume too much.
-
-Give one quick example (tools, language, prior knowledge).
-
----
-
-### Example (required)
-
-Show a short instruction:
+The facilitator introduces the task with a simple example:
 
 “Download the dataset and analyse it in Excel.”
 
-Say:
+Ask:
 
-This assumes:
-- access to Excel  
-- ability to download files  
-- familiarity with data analysis  
+> What does this expect someone to already know, have, or be able to do?
 
-Say:
+Participants work individually first (5–7 min):
 
-> If your learners don’t have these, this breaks.
+Respond in chat or notes (keep it quick):
 
----
+- What would someone need to **know**?  
+- What would they need to **have access to**?  
+- What might **confuse or block them**?  
 
-## Activity (15 min)
+Encourage fast responses — do not overthink this.
 
-### Path A (if at least one team has material)
+Whole-group debrief (8–10 min):
 
-- One team shares  
-- Group identifies:
-  - prior knowledge  
-  - required tools  
-  - contextual assumptions  
+Facilitator scans chat and surfaces 2–3 examples, grouping them:
 
----
+- prior knowledge  
+- tools and access  
+- context (time, language, environment)  
 
-### Path B (if materials are incomplete)
+Connect to Part 1 explicitly:
 
-Teams answer:
+> These are the assumptions sitting between your activity and your outcome.
 
-- What would someone need to know?
-- What would they need access to?
-- What might confuse them?
+> If these don’t match your learners or context, your Theory of Change breaks at that point.
 
----
+Make the key shift:
 
-## Facilitator role
+> When you reuse or adapt a resource, these expectations come with it.
 
-Capture assumptions visibly.
+> You are not starting from zero — you are inheriting assumptions.
 
----
+Close:
 
-## Debrief (3–5 min)
-
-Say:
-
-> These assumptions determine:
-> - what you can reuse  
-> - what you need to adapt  
+> This is where adaptation starts — not with content, but with expectations.
 
 Transition:
 
-> Now we look outward — what already exists.
+> Now we look outward — what exists, and what might actually fit your context.
 
----
+### Finding and Evaluating OER (0:45–0:50)
 
-## Risks & mitigation
+**Format:** Whole-group
 
-- **Risk:** Participants only identify obvious assumptions  
-  → Prompt: “What tools? What prior knowledge?”
+The facilitator shifts focus outward:
 
-- **Risk:** Discussion drifts  
-  → Limit to one example
+> So far, we’ve looked at what materials expect from learners.  
+> Now we look at what exists — and whether it fits your context.
 
-- **Risk:** Low participation  
-  → Use chat instead of verbal
+Set expectation clearly:
 
----
+> You are not looking for the “best” resource.  
+> You are looking for something that works for your learners, in your context.
 
-# Licensing primer (10 min)
+Connect directly to Part 1:
 
-## Facilitator script
+> Use the learning outcome you defined yesterday as your anchor.
 
-Say:
+> If a resource doesn’t help achieve that outcome, it doesn’t matter how good it is.
 
-> Licensing determines what you are allowed to do.
+Introduce evaluation simply:
 
-Then:
+When you look at a resource, ask:
 
-- No license → cannot use  
-- ND → cannot adapt  
-- SA → must share same way  
+- Does this help my learners achieve what I need? (**fit**)  
+- Would someone understand what to do without me? (**clarity**)  
+- Does this assume things that don’t match my context? (**context**)  
 
-Say:
+Keep this light — this is a quick check, not a scoring system.
 
-> You do not need to memorise licenses.  
-> You need to recognise constraints.
+Ground it:
 
----
+> Most resources will not fit perfectly.
 
-## Risks & mitigation
+> The goal is not to find perfect — it’s to decide what could work with changes.
 
-- **Risk:** Overload  
-  → Keep to 3 rules only
+Transition:
 
-- **Risk:** Questions derail  
-  → Park deeper questions
+> You’ll now look at one resource and quickly judge whether it could work for your context.
 
----
+### Exercise 2: Evaluate a resource — core (0:50–1:05)
 
-# Exercise 2: Evaluate + Decide (30 min)
+**Original activity:** Evaluate (Lesson 2)
 
-## Facilitator framing (5 min)
+**Grouping:** Individual → whole group
 
-Say:
+**Adapted instructions:**
 
-> You are not looking for the best resource.  
-> You are looking for one that fits your context.
+Participants work with one resource (provided or their own).
 
----
+Work individually first (8–10 min):
 
-## Micro-teaching: Evaluation lenses (2–3 min)
+Using your learning outcome from Part 1, make a quick judgement:
 
-Say:
+- Does this help my learners achieve the outcome I defined?  
+- Would someone understand what to do without me?  
+- Does this assume things that don’t match my learners or context?  
 
-When we say alignment:
-Does this help your learners achieve your outcome?
+Work quickly — do not overthink this.
 
-Clarity:
-Would someone understand what to do without you?
+If useful, glance at a second resource:
 
-Context:
-Does this assume things that don’t match your learners?
+> Which fits better for your context, and why?
 
-Adaptability:
-Can you change it easily?
+Keep this fast — the goal is comparison, not depth.
 
-Accessibility:
-Can people actually use it in your context?
+Whole-group debrief (5–7 min):
 
-Licensing:
-Are you allowed to use or change it?
+Facilitator scans chat and surfaces patterns:
 
-Say:
+- what tends to fit  
+- what tends to break  
+- where assumptions mismatch  
 
-> You don’t need to score this — just use it as a checklist.
+Connect back to Part 1:
 
----
+> Where you see mismatch, that’s where your design starts to break.
 
-### Example (required)
+> This is the same logic you used in your Theory of Change — but now applied to materials.
 
-Say:
+Close:
 
-“Alignment: This teaches data visualisation, but I need data cleaning → weak fit  
-Clarity: Instructions are unclear → needs work  
-Context: Assumes university lab access → mismatch”
+> Most resources don’t fit perfectly — and that’s expected.
 
-Keep it quick.
+Transition:
 
----
+> Let’s look at what typically limits your ability to actually use what you find.
 
-## Setup (important)
 
-Provide:
-- fallback resources  
-- or allow own materials  
 
----
+### Poll: What limits your ability to use a resource? (1:05–1:10)
 
-## Activity (25 min)
+**Format:** Poll → whole-group discussion
 
-### Step 1 — Evaluate
-- alignment  
-- clarity  
-- context  
-- adaptability  
-- accessibility  
-- licensing  
+The facilitator introduces the poll:
 
-### Step 2 — Decide
-- reuse  
-- adapt  
-- do not use  
+> You’ve just evaluated a resource.  
+> In practice, something usually limits whether you can actually use it.
 
-If low readiness:
-→ focus on alignment, clarity, context
+Launch poll:
 
----
+> Which of these is most likely to limit your ability to use a resource?
 
-## Debrief (10 min)
+- It doesn’t fit my learners or outcome  
+- It assumes tools, access, or conditions I don’t have  
+- The license restricts what I need to change  
+- I don’t have time to adapt it  
+
+Display results.
 
 Ask:
 
-- What failed most often?
-- What surprised you?
+> What stands out here?
 
-Say:
+Take 1–2 short responses.
 
-> Most teams adapt — that’s normal.
+Close:
+
+> Some constraints are about fit —  
+> and some are about what you are allowed to do.
+
+Transition:
+
+> Let’s look at that second part.
+
+### Understanding Open Licenses (1:10–1:15)
+
+**Format:** Whole-group
+
+The facilitator builds directly on the poll:
+
+> We’ve just seen that sometimes the constraint is not fit —  
+> it’s what you are allowed to do with a resource.
+
+Bring it back to their decisions:
+
+> You may find something that fits your learners well —  
+> but you still need to check what you’re allowed to do with it.
+
+Introduce licensing in context:
+
+> Once you’ve found something that could work, the next question is:
+> what are you allowed to do with it?
+
+Keep this practical and focused.
+
+Show the licensing spectrum image from the lesson.
+
+![Creative Commons license spectrum](../docs/assets/images/lesson-visual-aids/creative-commons.jpg)
+
+Use the visual to anchor a simple idea:
+
+> Not all resources can be changed.
+
+Highlight only the key cases:
+
+- No license → you cannot reuse or adapt  
+- CC BY → you can reuse and adapt (with attribution)  
+- CC BY-ND → you can reuse, but not adapt  
+
+Do not expand beyond these.
+
+Reinforce the decision logic:
+
+> You don’t need to memorise licenses.  
+> You need to recognise when something limits what you can do.
+
+Connect back to the poll explicitly:
+
+> This is one of the constraints you identified.
+
+Close:
+
+> At this point, you know:
+> - what fits  
+> - what doesn’t  
+> - and what you are allowed to change  
+
+Transition:
+
+> Now apply this to the resource you just evaluated.
+
+### Exercise 3: What are you allowed to do? — core (1:15–1:30)
+
+**Original activity:** Applying licensing constraints (Lesson 3)
+
+**Grouping:** Individual → whole group
+
+**Adapted instructions:**
+
+Return to the resource you evaluated.
+
+Work individually first (6–8 min):
+
+Identify:
+
+- What license does it use? (if any)  
+- What does this allow you to do?  
+
+Then apply it to your situation:
+
+- Can you reuse it as is?  
+- Can you adapt or change it?  
+- Does the license limit what you need to do to achieve your outcome?  
+
+Work quickly — do not overanalyse this.
+
+If the license is unclear:
+
+> What risk does that create for you?
+
+Whole-group debrief (6–8 min):
+
+Facilitator scans chat and surfaces patterns:
+
+- missing or unclear licenses  
+- restrictions on adaptation  
+- uncertainty about what is allowed  
+
+Connect back to earlier steps:
+
+> You’ve now looked at:
+> - what fits  
+> - what doesn’t  
+> - and what you are allowed to change  
+
+Close the analysis phase:
+
+> At this point, you know what is possible — and what is not.
+
+Transition:
+
+> After the break, we move from analysis to action:
+> how to make something actually work in your context.
+
+### Break (1:30–1:50)
+
+**Format:** Break
+
+Take a 20-minute break.
 
 ---
 
-## Risks & mitigation
+### Reset: From analysis to action (1:50–1:55)
 
-- **Risk:** Over-analysis  
-  → Say: “Pick one resource”
+**Format:** Individual (silent)
 
-- **Risk:** Teams get stuck searching  
-  → Provide fallback resources
+Bring participants back gently:
 
-- **Risk:** Uneven pace  
-  → Move slower groups forward
+> We’ve spent the first half analysing:
+> - what materials assume  
+> - what fits  
+> - what you are allowed to do  
 
----
+Now we shift:
 
-# Break (20 min)
+> What would need to change to make something actually work for your learners?
 
----
+Give 2–3 minutes of silent thinking.
 
-# Exercise 3: Adaptation (35 min)
+Do not rush this.
 
-## Facilitator framing (5 min)
+Transition:
 
-Say:
+> Now we apply this to your own materials.
 
-> Adaptation is not improvement.  
-> It is making something fit your context.
 
----
 
-## Micro-teaching: Types of adaptation (2–3 min)
+### Adapting, Remixing, and Localising OER (1:55–2:02)
 
-Say:
+**Format:** Whole-group
 
-Surface changes:
-Small changes — wording, examples, formatting
+The facilitator builds directly on the reset:
 
-Structural changes:
-Changing order, splitting, combining
+> You’ve found something that might work.  
+> You’ve checked what you are allowed to do.  
 
-Contextual changes:
-Changing assumptions — tools, learners, environment
+> Now the question is:
+> how do you make it actually work for your learners?
 
-Say:
+Keep this practical and grounded.
 
-> Most useful adaptations are structural or contextual — not just surface.
+Introduce three types of change:
 
----
+- **Surface changes** — small edits (wording, examples, formatting)  
+- **Structural changes** — changing how something is organised or used  
+- **Contextual changes** — changing assumptions (tools, learners, environment)  
 
-### Example (required)
+Keep examples brief — do not expand.
 
-Say:
+Connect explicitly to Part 1:
 
-Original:
-“Discuss the dataset using Excel in class.”
+> These changes are how you address the assumptions you identified in your Theory of Change.
 
-Surface:
-Change wording
+> This is where you close the gap between your design and your context.
 
-Structural:
-Break into steps
+Reframe the goal:
 
-Contextual:
-Replace Excel with paper-based or mobile tool
+> You are not improving the resource.  
+> You are making it usable for your learners.
 
-Say:
+Keep the decision simple:
 
-> These are not the same level of change.
+> Start with one resource and identify what needs to change.
 
----
+Transition:
 
-## Activity (30 min)
+> Let’s work through that now.
 
-### High readiness
-- surface  
-- structural  
-- contextual changes  
+### Exercise 4: What needs to change? — core (2:02–2:30)
 
-### Low readiness
-- What would you change first?
-- Why?
+**Original activity:** Adaptation (Lesson 4, simplified)
+
+**Grouping:** Individual → small groups (2–3) → whole group
+
+**Adapted instructions:**
+
+Return to the resource you selected earlier.
 
 ---
 
-## Facilitator role
+**Step 1: Individual work (10–12 min)**
 
-Push for specificity.
+Identify:
+
+- What would you **keep**?  
+- What would you **change**?  
+- What would you **remove or replace**?  
+
+Keep this focused:
+
+> Do not try to redesign everything — identify the changes that would make this usable in your context.
+
+Connect to Part 1:
+
+> Which assumptions from your Theory of Change does this need to address?
 
 ---
 
-## Debrief (10 min)
+**Step 2: Small groups (2–3 people, 10–12 min)**
+
+Share your resource and your proposed changes.
+
+Ask each other:
+
+> What are they missing?
+
+> What would still break for their learners?
+
+Keep feedback direct and practical.
+
+---
+
+**Step 3: Whole-group debrief (5–6 min)**
+
+Facilitator invites 2–3 quick shares and surfaces patterns:
+
+- surface changes are common but often insufficient  
+- structural and contextual changes are where impact happens  
+- assumptions are often not fully addressed  
+
+Make the key point explicit:
+
+> Most useful adaptation happens when you change how something works — not just how it looks.
+
+---
+
+Close:
+
+> Adaptation is about making something work in your context — not making it better.
+
+Transition:
+
+> If the changes you’re identifying start to feel like rewriting everything, the next step is to create something new.
+
+### Creating OER from Scratch (2:30–2:35)
+
+**Format:** Whole-group
+
+The facilitator builds directly on the previous exercise:
+
+> You’ve just identified what would need to change.
+
+> If those changes start to feel like rewriting everything,  
+> creating something new may be simpler.
+
+Frame when creation is appropriate:
+
+- nothing fits your learners or outcome  
+- adaptation becomes too complex  
+- licensing prevents the changes you need  
+
+Keep this grounded:
+
+> Creating does not mean building a full course or resource.
+
+> It means creating the smallest thing that will work for your learners.
+
+Introduce the key idea:
+
+> A useful resource is one that works without you.
+
+Make this practical:
+
+- it tells people what to do  
+- it gives enough detail to act  
+- it does not rely on explanation  
+
+Connect to Part 1:
+
+> This should directly support the outcome you defined yesterday.
+
+Transition:
+
+> You’ll now create one small component that someone else could use without you.
+
+### Exercise 5: Create a usable component — core (2:35–2:53)
+
+**Original activity:** Creation (Lesson 5, simplified)
+
+**Grouping:** Individual → small groups (2–3) → whole group
+
+**Adapted instructions:**
+
+---
+
+**Step 1: Individual work (10–12 min)**
+
+Create one small component based on your work so far. For example:
+
+- a short instruction  
+- a task or activity  
+- a step in a process  
+
+Keep it small and focused.
+
+Your goal:
+
+> Someone else should be able to use this without asking you for clarification.
+
+Include enough detail so that:
+
+- it is clear what to do  
+- it is clear what the outcome should be  
+
+Do not try to create everything — focus on one piece.
+
+Connect to Part 1:
+
+> This should directly support the outcome you defined yesterday.
+
+---
+
+**Step 2: Small groups (2–3 people, 5–6 min)**
+
+Share what you created.
 
 Ask:
 
-> When does adaptation become too much?
+> Could you use this without the creator explaining it?
 
-Say:
+> What is unclear or missing?
 
-> That’s when creation becomes necessary.
-
----
-
-## Risks & mitigation
-
-- **Risk:** Only surface changes  
-  → Ask: “What would break if you didn’t change this?”
-
-- **Risk:** Over-design  
-  → Say: “Keep it small”
+Keep feedback direct and specific.
 
 ---
 
-# Creation decisions (25 min)
+**Step 3: Whole-group debrief (2–3 min)**
 
-## Facilitator framing (5 min)
+Facilitator invites 2–3 quick reflections:
 
-Say:
+- What made something usable?  
+- What made something unclear?  
 
-> You create when:
-> - nothing fits  
-> - adaptation is too complex  
-> - licensing blocks use  
+Reinforce:
 
----
-
-## Micro-teaching: What “works without you” means (2 min)
-
-Say:
-
-A material that works without you:
-- explains what to do  
-- explains why it matters  
-- includes enough detail to act  
-
-Say:
-
-> If someone needs you to explain it, it’s not ready.
+> If someone needs you to explain it, it’s not ready yet.
 
 ---
 
-### Example (required)
+Transition:
 
-Say:
+> Now we look at what others would need in order to use and share your materials.
 
-BAD:
-“Discuss this in your group”
 
-BETTER:
-“Discuss X for 10 minutes. Identify Y. Write 3 points.”
+### Sharing and Publishing OER (2:53–2:57)
 
-Say:
+**Format:** Whole-group
 
-> This version works without me.
+The facilitator builds directly on what participants just created:
 
----
+> You’ve created something that works without you.
 
-## Activity (20 min)
+> The next question is:
+> can someone else find it, understand it, and use it?
 
-Design ONE small component.
+Keep this practical and grounded.
 
-Say:
+Focus on what others need:
 
-> Keep it small. It must work without you.
+- **Clarity** — what is this and what is it for?  
+- **Instructions** — what should someone do?  
+- **Context** — who is this for and how should it be used?  
 
----
+Keep it simple:
 
-## Risks & mitigation
+> Sharing does not mean publishing perfectly.
 
-- **Risk:** Overwhelm  
-  → Limit scope
+> It means making something usable beyond your immediate context.
 
-- **Risk:** Too abstract  
-  → Prompt with example
+Reinforce:
 
----
+> If someone can understand and use it without you, it is ready to share.
 
-# Exercise 4: Stranger Test (20 min)
+Transition:
 
-## Facilitator setup (5 min)
+> Take what you created and make it easier for someone else to use.
 
-Say:
+### Exercise 6: Make it easier to use — core (2:57–3:10)
 
-> You are testing whether your material survives without you.
+**Original activity:** Sharing and usability (Lesson 6, simplified)
 
-Say:
+**Grouping:** Individual → whole group
 
-> The question is not: is it good?  
-> The question is: can someone use it without asking you anything?
+**Adapted instructions:**
 
 ---
 
-### Example (required)
+**Step 1: Individual work (6–7 min)**
 
-Say:
+Return to the component you created.
 
-“If I gave you this and walked away, would you know what to do?”
+Make it easier for someone else to use by improving:
 
-Model a direct critique.
+- **Clarity** — what is this and what is it for?  
+- **Instructions** — what should someone do?  
+- **Context** — who is this for and how should it be used?  
 
----
+Keep changes small and focused.
 
-## Activity (15 min)
+> You are not redesigning — you are making it easier to understand and use.
 
-### Option A
-Team A reviews Team B:
-- What is unclear?
-- What is missing?
-- Could you use it?
+Connect to Part 1:
 
----
-
-### Option B
-Shared doc review
+> Does this clearly support the outcome you defined yesterday?
 
 ---
 
-## Facilitator harvest
+**Step 2: Share in chat (3–4 min)**
 
-Ask:
-
-> What did you need that wasn’t there?
+Post one improvement you made.
 
 ---
 
-## Risks & mitigation
+**Step 3: Whole-group debrief (2–3 min)**
 
-- **Risk:** Polite feedback  
-  → Model direct critique
+Facilitator scans chat and surfaces patterns:
 
-- **Risk:** Low engagement  
-  → Assign reviewers explicitly
+- what helped make things clearer  
+- what was commonly missing  
 
----
+Reinforce:
 
-# Closing reflection (8 min)
-
-## Individual (3 min)
-
-Write:
-
-> One thing you will change
+> Small changes can make a resource much easier to reuse.
 
 ---
 
-## Group (5 min)
+Transition:
 
-Share examples.
+> Once something is shared, the next step is how it changes over time.
 
----
+### Sustaining and Improving OER (3:10–3:15)
 
-## Close
+**Format:** Whole-group
 
-Say:
+The facilitator closes the workflow:
 
-> Your materials now enter a cycle:
-> use → feedback → improve  
+> Once something is shared, it doesn’t stay fixed.  
+> It changes as people use it.
 
----
+Keep this grounded in reality:
 
-## Risks & mitigation
+- people will interpret it differently  
+- they may adapt it further  
+- they may find gaps or issues  
 
-- **Risk:** Fatigue  
-  → Keep short
+Introduce the idea simply:
 
-- **Risk:** Superficial answers  
-  → Ask for one concrete change
+> A resource becomes more useful over time if it is used, tested, and improved.
 
----
+Keep this practical:
 
-# Alternative exercises
+> You do not need to maintain everything.
 
-## Alternative A: Snapshot
+> You can decide:
+> - to update it  
+> - to leave it as it is  
+> - or to stop using it  
 
-Use if teams are not grounded.
+Connect back to Part 1:
 
----
+> This is part of working in a real system — things change, and your materials need to respond to that.
 
-## Alternative B: Resource swap
+Close the loop:
 
-Use for stronger evaluation practice.
+> The goal is not to create something perfect.
 
----
+> It’s to create something that can be used, adapted, and improved.
 
-# Facilitator notes
+Transition:
 
-- Do not skip structured Q&A  
-- Do not re-teach Part 1  
-- Keep instructions short  
-- Always give one example  
-- Support weaker participants  
-- Let stronger teams go deeper  
-- Use buffer flexibly  
+> Before we close, take a moment to reflect on what you will do differently.
 
----
+### Closing reflection (3:15–3:30)
 
-# Cut exercises
+**Format:** Individual → whole group
 
-| Activity | Reason |
-|----------|--------|
-| Sustainability deep dive | Not meaningful yet |
-| Full redesign tasks | Too heavy |
-| Deep licensing practice | Not needed |
-| Platform deep dive | Better async |
+The facilitator brings the session to a close:
 
----
+> You’ve now worked through the full process:
+> finding, evaluating, adapting, creating, and sharing materials.
+
+> Take a moment to reflect on what this means for your own work.
+
+Ask participants to respond in chat (2–3 minutes):
+
+> What is one thing you will do differently when working with materials?
+
+Facilitator scans chat and surfaces 2–3 responses.
+
+Keep this brief — do not open extended discussion.
+
+Close the session:
+
+> You’ve now connected:
+> - your system (Part 1)  
+> - your outcomes (Part 1)  
+> - your materials (Part 2)  
+
+> You don’t need to do everything at once —  
+> but you now have a way to move from idea to impact.
+
+Pause briefly, then end.
